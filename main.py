@@ -1,7 +1,5 @@
 import requests
 
-# Script do Lourival26 - Unificador de EPG
-# Lista das 4 fontes de EPG selecionadas
 urls = [
     "https://iptv-epg.org/files/epg-br.xml",
     "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/br.xml",
@@ -9,31 +7,24 @@ urls = [
     "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
 ]
 
-# Estrutura inicial do arquivo XML unificado
-merged_data = '<?xml version="1.0" encoding="UTF-8"?>\n<tv>'
-
-print("Iniciando a atualização do EPG do Lourival26...")
+# Início do arquivo
+final_xml = '<?xml version="1.0" encoding="UTF-8"?>\n<tv>'
 
 for url in urls:
     try:
-        print(f"Processando: {url}")
-        response = requests.get(url)
+        response = requests.get(url, timeout=15)
         if response.status_code == 200:
-            # Removemos cabeçalhos e tags de abertura/fechamento para unir os conteúdos
-            data = response.text.replace('<?xml version="1.0" encoding="UTF-8"?>', '')
-            data = data.replace('<!DOCTYPE tv SYSTEM "xmltv.dtd">', '')
-            data = data.replace('<tv>', '').replace('</tv>', '')
-            merged_data += data + "\n"
-        else:
-            print(f"Erro ao acessar {url}: Código {response.status_code}")
+            content = response.text
+            # Remove o cabeçalho e as tags de abertura/fechamento
+            content = content.replace('<?xml version="1.0" encoding="UTF-8"?>', '')
+            content = content.replace('<!DOCTYPE tv SYSTEM "xmltv.dtd">', '')
+            content = content.replace('<tv>', '').replace('</tv>', '')
+            final_xml += content
     except Exception as e:
         print(f"Erro ao baixar {url}: {e}")
 
-# Finaliza o arquivo XML com a tag de fechamento
-merged_data += "</tv>"
+final_xml += "</tv>"
 
-# Salva o arquivo epg.xml final na raiz do repositório
+# Salva o arquivo
 with open("epg.xml", "w", encoding="utf-8") as f:
-    f.write(merged_data)
-
-print("EPG do Lourival26 unificado com sucesso!")
+    f.write(final_xml)
