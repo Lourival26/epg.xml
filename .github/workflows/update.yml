@@ -1,0 +1,32 @@
+name: Atualizar EPG Lourival26
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Este comando faz o robô rodar todo dia às 03:00 da manhã
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalar dependências
+        run: pip install requests
+
+      - name: Rodar o script Lourival26
+        run: python main.py
+
+      - name: Enviar alterações para o GitHub
+        run: |
+          git config --global user.name "Lourival26-Bot"
+          git config --global user.email "bot@lourival26.com"
+          git add epg.xml
+          git commit -m "Automação: EPG atualizado pelo robô Lourival26"
+          git push
