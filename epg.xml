@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Lourival26" date="2026-07-04">
+
+  <!-- Canais | GLOBO -->
+  <channel id="GloboRJ.br"><display-name lang="pt">Globo RJ HD</display-name></channel>
+  <channel id="GloboSP.br"><display-name lang="pt">Globo SP HD</display-name></channel>
+  <channel id="GloboMT.br"><display-name lang="pt">Globo MT HD</display-name></channel>
+  <channel id="GloboMG.br"><display-name lang="pt">Globo MG HD</display-name></channel>
+  <channel id="RPCCuritiba.br"><display-name lang="pt">RPC Curitiba HD</display-name></channel>
+  <channel id="GloboGoias.br"><display-name lang="pt">Globo Goiás HD</display-name></channel>
+  <channel id="GloboManaus.br"><display-name lang="pt">Globo Manaus HD</display-name></channel>
+  <channel id="GloboLiberal.br"><display-name lang="pt">Globo TV Liberal Belém</display-name></channel>
+
+  <!-- Canais | SBT -->
+  <channel id="SBTNews.br"><display-name lang="pt">SBT NEWS HD</display-name></channel>
+  <channel id="MaisSBT.br"><display-name lang="pt">+SBT HD</display-name></channel>
+  <channel id="SBTSP.br"><display-name lang="pt">SBT SP HD</display-name></channel>
+  <channel id="SBTInteriorSP.br"><display-name lang="pt">SBT Interior SP HD</display-name></channel>
+  <channel id="TVDifusoraSL.br"><display-name lang="pt">TV Difusora (SBT São Luís) HD</display-name></channel>
+  <channel id="TVDifusoraLeste.br"><display-name lang="pt">TV Difusora Leste HD</display-name></channel>
+  <channel id="SBTGuajara.br"><display-name lang="pt">SBT Guajará HD</display-name></channel>
+  <channel id="TVAratu.br"><display-name lang="pt">TV ARATU HD</display-name></channel>
+  <channel id="SBTCidadeVerde.br"><display-name lang="pt">SBT CIDADE VERDE HD</display-name></channel>
+
+  <!-- Canais | ABERTO -->
+  <channel id="TVERs.br"><display-name lang="pt">TVE FHD</display-name></channel>
+  <channel id="TVSonata.br"><display-name lang="pt">TV Sonata HD</display-name></channel>
+  <channel id="GuiaTV.br"><display-name lang="pt">Guia TV</display-name></channel>
+  <channel id="RedeBrasil.br"><display-name lang="pt">Rede Brasil HD</display-name></channel>
+  <channel id="TVBrasil.br"><display-name lang="pt">TV BRASIL HD</display-name></channel>
+  <channel id="RedeTV.br"><display-name lang="pt">Rede TV HD</display-name></channel>
+  <channel id="TVCultura.br"><display-name lang="pt">Cultura HD</display-name></channel>
+  <channel id="TVCulturaPA.br"><display-name lang="pt">TV Cultura Pará HD</display-name></channel>
+  <channel id="RedeFamilia.br"><display-name lang="pt">Rede Família HD</display-name></channel>
+  <channel id="TVGazetaSP.br"><display-name lang="pt">TV Gazeta SP HD</display-name></channel>
+  <channel id="TVAracati.br"><display-name lang="pt">TV Aracati HD</display-name></channel>
+  <channel id="AmazonSat.br"><display-name lang="pt">Amazon Sat HD</display-name></channel>
+  <channel id="TVideonews.br"><display-name lang="pt">TVideonews HD</display-name></channel>
+  <channel id="RedeMinas.br"><display-name lang="pt">Rede Minas HD</display-name></channel>
+  <channel id="TVCamara.br"><display-name lang="pt">TV Câmara HD</display-name></channel>
+  <channel id="XtremeTV.br"><display-name lang="pt">XTREME TV HD</display-name></channel>
+  <channel id="CaravanaPlay.br"><display-name lang="pt">Caravana Play HD</display-name></channel>
+  <channel id="AdrenalinaPuraTV.br"><display-name lang="pt">ADRENALINA PURA TV</display-name></channel>
+  <channel id="AWTV.br"><display-name lang="pt">AW TV BD</display-name></channel>
+  <channel id="PlayTV.br"><display-name lang="pt">Play TV HD</display-name></channel>
+  <channel id="GospelMoviesTV.br"><display-name lang="pt">Gospel Movies TV HD</display-name></channel>
+  <channel id="RedeCNT.br"><display-name lang="pt">Rede CNT HD</display-name></channel>
+  <channel id="TVSulMinas.br"><display-name lang="pt">TV Sul de Minas HD</display-name></channel>
+  <channel id="CATVE2.br"><display-name lang="pt">CATVE 2 HD</display-name></channel>
+  <channel id="PrimerTV.br"><display-name lang="pt">Primer TV HD</display-name></channel>
+  <channel id="TVUFG.br"><display-name lang="pt">TV UFG HD</display-name></channel>
+  <channel id="TVVicosa.br"><display-name lang="pt">TV Viçosa HD</display-name></channel>
+  <channel id="TVGrandeNatal.br"><display-name lang="pt">TV Grande Natal HD</display-name></channel>
+  <channel id="CanalDoBoi.br"><display-name lang="pt">Canal do Boi HD</display-name></channel>
+  <channel id="AgroCanal.br"><display-name lang="pt">Agro Canal HD</display-name></channel>
+  <channel id="AgroMais.br"><display-name lang="pt">Agro + HD</display-name></channel>
+
+  <!-- Canais | RECORD TV -->
+  <channel id="RecordSP.br"><display-name lang="pt">RecordTV SP HD</display-name></channel>
+  <channel id="RecordRJ.br"><display-name lang="pt">RecordTV RJ HD</display-name></channel>
+  <channel id="RecordMG.br"><display-name lang="pt">RecordTV MG</display-name></channel>
+  <channel id="RecordMT.br"><display-name lang="pt">RecordTV MT</display-name></channel>
+  <channel id="RecordRN.br"><display-name lang="pt">RecordTV RN</display-name></channel>
+  <channel id="RecordConquista.br"><display-name lang="pt">RecordTV Conquista HD</display-name></channel>
+  <channel id="TVTropical.br"><display-name lang="pt">TV Tropical HD</display-name></channel>
+  <channel id="RecordSicTV.br"><display-name lang="pt">Record SicTV (RO)</display-name></channel>
+  <channel id="TVBrusque.br"><display-name lang="pt">TV BRUSQUE HD</display-name></channel>
+
+  <!-- Canais | BAND TV -->
+  <channel id="BandSP.br"><display-name lang="pt">Band SP HD</display-name></channel>
+  <channel id="BandRJ.br"><display-name lang="pt">Band RJ HD</display-name></channel>
+  <channel id="BandRS.br"><display-name lang="pt">Band RS</display-name></channel>
+  <channel id="BandArapuan.br"><display-name lang="pt">Band Arapuan HD</display-name></channel>
+  <channel id="BandRBA.br"><display-name lang="pt">Band TV RBA TV</display-name></channel>
+  <channel id="BandValeUruara.br"><display-name lang="pt">Band TV - Vale do Uruará</display-name></channel>
+  <channel id="BandMG.br"><display-name lang="pt">Band MG HD</display-name></channel>
+  <channel id="BandMT.br"><display-name lang="pt">Band Mato Grosso HD</display-name></channel>
+  <channel id="NewBrasil.br"><display-name lang="pt">NEW BRASIL HD</display-name></channel>
+
+  <!-- Canais | NOTÍCIAS -->
+  <channel id="GloboNews.br"><display-name lang="pt">Globo News HD</display-name></channel>
+  <channel id="BandNews.br"><display-name lang="pt">Band News HD</display-name></channel>
+  <channel id="RecordNews.br"><display-name lang="pt">Record News HD</display-name></channel>
+  <channel id="ARTVPortugal.br"><display-name lang="pt">ARTV Portugal HD</display-name></channel>
+  <channel id="PlutoTVCanalUOL.br"><display-name lang="pt">Pluto TV Canal UOL</display-name></channel>
+  <channel id="CNNBrasil.br"><display-name lang="pt">CNN Brasil FHD</display-name></channel>
+  <channel id="4Por4.br"><display-name lang="pt">4 POR 4</display-name></channel>
+  <channel id="CanalGov.br"><display-name lang="pt">Canal GOV</display-name></channel>
+
+  <!-- Canais | INFANTIL -->
+  <channel id="HTOKids.br"><display-name lang="pt">HTO KIDS HD</display-name></channel>
+  <channel id="LeoELully.br"><display-name lang="pt">Léo e Lully HD</display-name></channel>
+  <channel id="Popeye.br"><display-name lang="pt">Popeye HD</display-name></channel>
+  <channel id="Moranguinho.br"><display-name lang="pt">Moranguinho HD</display-name></channel>
+  <channel id="ToonGoggles.br"><display-name lang="pt">Toon Goggles HD</display-name></channel>
+  <channel id="DiscoveryKids.br"><display-name lang="pt">DISCOVERY KIDS HD</display-name></channel>
+  <channel id="KuriakosKids.br"><display-name lang="pt">Kuriakos Kids</display-name></channel>
+  <channel id="Sonic.br"><display-name lang="pt">Sonic</display-name></channel>
+  <channel id="Gloobinho.br"><display-name lang="pt">GLOOBINHO HD</display-name></channel>
+  <channel id="Gloob.br"><display-name lang="pt">GLOOB FHD</display-name></channel>
+  <channel id="TVRaTimBum.br"><display-name lang="pt">TV RA TIM BUM HD</display-name></channel>
+  <channel id="TVGallo.br"><display-name lang="pt">TV Gallo</display-name></channel>
+  <channel id="MrBeanAnimated.br"><display-name lang="pt">Mr Bean Animated</display-name></channel>
+  <channel id="MinisterioInfantilTV.br"><display-name lang="pt">Ministério Infantil TV</display-name></channel>
+  <channel id="CartoonNetwork.br"><display-name lang="pt">Cartoon Network HD</display-name></channel>
+  <channel id="RetroCartoon.br"><display-name lang="pt">Retro Cartoon</display-name></channel>
+  <channel id="GospelCartoon.br"><display-name lang="pt">Gospel Cartoon</display-name></channel>
+  <channel id="AnimeTV.br"><display-name lang="pt">Anime TV</display-name></channel>
+  <channel id="Jetsontv.br"><display-name lang="pt">Jetsontv</display-name></channel>
+  <channel id="DomiKids.br"><display-name lang="pt">Domi Kids</display-name></channel>
+
+  <!-- Canais | FILMES E SERIES -->
+  <channel id="Space.br"><display-name lang="pt">SPACE HD</display-name></channel>
+  <channel id="TNT.br"><display-name lang="pt">TNT HD</display-name></channel>
+  <channel id="TNTSERIES.br"><display-name lang="pt">TNT Séries HD</display-name></channel>
+  <channel id="WarnerChannel.br"><display-name lang="pt">Warner Channel HD</display-name></channel>
+  <channel id="A&E.br"><display-name lang="pt">A&E HD</display-name></channel>
+  <channel id="AXN.br"><display-name lang="pt">AXN HD</display-name></channel>
+  <channel id="TelecineAction.br"><display-name lang="pt">Telecine Action HD</display-name></channel>
+  <channel id="TelecinePipoca.br"><display-name lang="pt">Telecine Pipoca HD</display-name></channel>
+  <channel id="TelecinePremium.br"><display-name lang="pt">Telecine Premium HD</display-name></channel>
+  <channel id="TelecineTouch.br"><display-name lang="pt">Telecine Touch HD</display-name></channel>
+  <channel id="TelecineCult.br"><display-name lang="pt">Telecine Cult HD</display-name></channel>
+  <channel id="TelecineFun.br"><display-name lang="pt">Telecine Fun HD</display-name></channel>
+  <channel id="AMC.br"><display-name lang="pt">AMC HD</display-name></channel>
+  <channel id="SonyChannel.br"><display-name lang="pt">Sony Channel HD</display-name></channel>
+  <channel id="Cinemax.br"><display-name lang="pt">CINEMAX HD</display-name></channel>
+  <channel id="Megapix.br"><display-name lang="pt">MEGAPIX HD</display-name></channel>
+  <channel id="HBO.br"><display-name lang="pt">HBO HD</display-name></channel>
+  <channel id="HBO2.br"><display-name lang="pt">HBO 2 HD</display-name></channel>
+  <channel id="HBOFamily.br"><display-name lang="pt">HBO Family HD</display-name></channel>
+  <channel id="HBOSignature.br"><display-name lang="pt">HBO SIGNATURE HD</display-name></channel>
+  <channel id="HBOPlus.br"><display-name lang="pt">HBO+ HD</display-name></channel>
+  <channel id="UniversalTV.br"><display-name lang="pt">Universal Channel HD</display-name></channel>
+  <channel id="MyTimeMovies.br"><display-name lang="pt">MyTime Movies</display-name></channel>
+  <channel id="MovieSphere.br"><display-name lang="pt">MOVIE SPHERE</display-name></channel>
+  <channel id="SonyOneEmocoes.br"><display-name lang="pt">SONY ONE EMOCOES HD</display-name></channel>
+  <channel id="SonyOneClassics.br"><display-name lang="pt">Sony One Classics HD</display-name></channel>
+  <channel id="CineMonde.br"><display-name lang="pt">Cine Monde HD</display-name></channel>
+  <channel id="DarkFlix.br"><display-name lang="pt">Dark Flix HD</display-name></channel>
+  <channel id="CineTrianon.br"><display-name lang="pt">Cine Trianon HD</display-name></channel>
+  <channel id="Cinerama.br"><display-name lang="pt">Cinerama</display-name></channel>
+  <channel id="Bang.br"><display-name lang="pt">Bang Bang HD</display-name></channel>
+
+  <!-- Canais | LUTAS -->
+  <channel id="Combate.br"><display-name lang="pt">Combate HD</display-name></channel>
+  <channel id="DAZNCombate"><display-name lang="pt">DAZN Combate HD</display-name></channel>
+  <channel id="SFTCombateBR"><display-name lang="pt">SFT Combate BR HD</display-name></channel>
+  <channel id="MMABr"><display-name lang="pt">MMA HD</display-name></channel>
+  <channel id="FITE"><display-name lang="pt">FITE HD</display-name></channel>
+  <channel id="LuchaLibre"><display-name lang="pt">LUCHA LIBRE</display-name></channel>
+  <channel id="SFTCombat"><display-name lang="pt">SFT Combat</display-name></channel>
+  <channel id="CombatTV"><display-name lang="pt">COMBATV</display-name></channel>
+
+  <!-- Canais | ESPORTES/FREE -->
+  <channel id="GeTV.br"><display-name lang="pt">Ge TV FHD</display-name></channel>
+  <channel id="Desimpedidos.br"><display-name lang="pt">Desimpedidos FHD</display-name></channel>
+  <channel id="CazeTV.br"><display-name lang="pt">Cazé TV FHD</display-name></channel>
+  <channel id="Barcelona.br"><display-name lang="pt">BARCELONA</display-name></channel>
+  <channel id="RealMadrid.br"><display-name lang="pt">REAL MADRID</display-name></channel>
+  <channel id="NSports.br"><display-name lang="pt">NSPORTS</display-name></channel>
+  <channel id="BandSports.br"><display-name lang="pt">Band Sports HD</display-name></channel>
+  <channel id="AutoTV.br"><display-name lang="pt">Auto TV</display-name></channel>
+  <channel id="SporTV.br"><display-name lang="pt">SporTV FHD</display-name></channel>
+  <channel id="SporTV2.br"><display-name lang="pt">SporTV 2 HD</display-name></channel>
+  <channel id="SporTV3.br"><display-name lang="pt">SporTV 3 HD</display-name></channel>
+  <channel id="ESPN.br"><display-name lang="pt">ESPN FHD</display-name></channel>
+  <channel id="ESPN2.br"><display-name lang="pt">ESPN 2 HD</display-name></channel>
+  <channel id="ESPN3.br"><display-name lang="pt">ESPN 3 HD</display-name></channel>
+  <channel id="ESPN4.br"><display-name lang="pt">ESPN 4 HD</display-name></channel>
+  <channel id="ESPN5.br"><display-name lang="pt">ESPN 5 HD</display-name></channel>
+  <channel id="ESPN6.br"><display-name lang="pt">ESPN 6 HD</display-name></channel>
+  <channel id="Premiere.br"><display-name lang="pt">Premiere Clubes HD</display-name></channel>
+  <channel id="Premiere2.br"><display-name lang="pt">Premiere 2 HD</display-name></channel>
+  <channel id="Premiere3.br"><display-name lang="pt">Premiere 3 HD</display-name></channel>
+  <channel id="Premiere4.br"><display-name lang="pt">Premiere 4 HD</display-name></channel>
+  <channel id="Premiere5.br"><display-name lang="pt">Premiere 5 HD</display-name></channel>
+  <channel id="Premiere6.br"><display-name lang="pt">Premiere 6 HD</display-name></channel>
+
+  <!-- Canais | VARIEDADES -->
+  <channel id="AnimalPlanet.br"><display-name lang="pt">Animal Planet FHD</display-name></channel>
+  <channel id="History.br"><display-name lang="pt">History HD</display-name></channel>
+  <channel id="History2.br"><display-name lang="pt">History 2 HD</display-name></channel>
+  <channel id="HGTV.br"><display-name lang="pt">HGTV HD</display-name></channel>
+  <channel id="TraceBrasil.br"><display-name lang="pt">Trace Brasil</display-name></channel>
+  <channel id="SonySharkTank.br"><display-name lang="pt">SONY ONE SHARK TANK</display-name></channel>
+  <channel id="TLC.br"><display-name lang="pt">TLC HD</display-name></channel>
+  <channel id="Arte1.br"><display-name lang="pt">ARTE 1 HD</display-name></channel>
+  <channel id="FilmArts.br"><display-name lang="pt">Film & Arts HD</display-name></channel>
+  <channel id="ReceitasFast.br"><display-name lang="pt">Receita Fast HD</display-name></channel>
+  <channel id="FoodNetwork.br"><display-name lang="pt">Food Network HD</display-name></channel>
+  <channel id="Masterchef.br"><display-name lang="pt">MASTERCHEF HD</display-name></channel>
+  <channel id="Tastemade.br"><display-name lang="pt">TASTEMADE HD</display-name></channel>
+  <channel id="DiscoveryTurbo.br"><display-name lang="pt">Discovery Turbo HD</display-name></channel>
+  <channel id="DiscoveryWorld.br"><display-name lang="pt">Discovery World HD</display-name></channel>
+  <channel id="ID.br"><display-name lang="pt">ID HD</display-name></channel>
+  <channel id="DiscoveryH&H.br"><display-name lang="pt">Disc. Home & Health HD</display-name></channel>
+  <channel id="DiscoveryChannel.br"><display-name lang="pt">Discovery Channel FHD</display-name></channel>
+  <channel id="DiscoveryScience.br"><display-name lang="pt">Discovery Science HD</display-name></channel>
+  <channel id="DiscoveryTheater.br"><display-name lang="pt">Discovery Theater HD</display-name></channel>
+  <channel id="PlutoInvestigacao.br"><display-name lang="pt">Pluto tv Investigação</display-name></channel>
+  <channel id="PlutoMisterios.br"><display-name lang="pt">Pluto TV Mistérios</display-name></channel>
+  <channel id="PeopleAreAwesome.br"><display-name lang="pt">People Are Awesome</display-name></channel>
+  <channel id="TraceSportStars.br"><display-name lang="pt">Trace Sport Stars</display-name></channel>
+  <channel id="Motorvision.br"><display-name lang="pt">Motorvision FHD</display-name></channel>
+  <channel id="CultneTV.br"><display-name lang="pt">Cultne TV</display-name></channel>
+
+  <!-- Canais | RELIGIOSO -->
+  <channel id="TVUniversal.br"><display-name lang="pt">Igreja Universal HD</display-name></channel>
+  <channel id="TVMundial.br"><display-name lang="pt">Igreja Mundial HD</display-name></channel>
+  <channel id="TVPlenitude.br"><display-name lang="pt">Igreja Plenitude HD</display-name></channel>
+  <channel id="NovoTempo.br"><display-name lang="pt">Novo Tempo HD</display-name></channel>
+  <channel id="TVEvangelizar.br"><display-name lang="pt">Igreja Evangelizar HD</display-name></channel>
+  <channel id="CancaoNova.br"><display-name lang="pt">Canção Nova HD</display-name></channel>
+  <channel id="TVAparecida.br"><display-name lang="pt">TV Aparecida HD</display-name></channel>
+
+  <!-- Canais | NOVELAS -->
+  <channel id="Viva.br"><display-name lang="pt">GloboPlay Novelas FHD</display-name></channel>
+  <channel id="TNTNovelas.br"><display-name lang="pt">TNT Novelas FHD</display-name></channel>
+  <channel id="MalhacaoFast.br"><display-name lang="pt">Malhação Fast</display-name></channel>
+  <channel id="EscravaIsaura.br"><display-name lang="pt">A Escrava Isaura</display-name></channel>
+  <channel id="TerraPrometida.br"><display-name lang="pt">A Terra Prometida</display-name></channel>
+  <channel id="Reviva.br"><display-name lang="pt">REVIVA Novelas HD</display-name></channel>
+  <channel id="Novelissima.br"><display-name lang="pt">Novelissima BR</display-name></channel>
+  <channel id="SonyNovelas.br"><display-name lang="pt">Sony Novelas</display-name></channel>
+  <channel id="SparkLuzAmor.br"><display-name lang="pt">Spark Luz E Amor HD</display-name></channel>
+  <channel id="PlutoNovelas"><display-name lang="pt">PLUTO TV NOVELAS</display-name></channel>
+  <channel id="TVTelenovelas"><display-name lang="pt">TV Telenovelas</display-name></channel>
+  <channel id="TelemundoTelenovelas"><display-name lang="pt">TV Telemundo Telenovelas</display-name></channel>
+  <channel id="TVIFiccao.br"><display-name lang="pt">TVi Ficção</display-name></channel>
+  <channel id="Televisa.br"><display-name lang="pt">TELEVISA</display-name></channel>
+
+</tv>
