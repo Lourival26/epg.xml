@@ -1,12 +1,12 @@
 import requests
 import xml.etree.ElementTree as ET
 
+# Lista de links de EPG (apenas o segundo link)
 urls = [
-    "https://iptv-epg.org/files/epg-br.xml",
     "http://epgpainel.ddns.net/epg.xml"
 ]
 
-# Cria o elemento raiz
+# Cria o elemento raiz do novo arquivo XML
 root = ET.Element("tv")
 root.set("generator-info-name", "MeuEPGCombinado")
 
@@ -15,16 +15,18 @@ for url in urls:
         print(f"Processando: {url}")
         response = requests.get(url, timeout=30)
         if response.status_code == 200:
-            # Força o uso do conteúdo como texto para evitar erros de bytes
+            # Faz o parse do conteúdo baixado
             temp_root = ET.fromstring(response.content)
-            # Adiciona os elementos (canais e programas) ao root
+            # Adiciona todos os canais e programas encontrados ao root principal
             for child in temp_root:
                 root.append(child)
+        else:
+            print(f"Erro ao acessar {url}: Status {response.status_code}")
     except Exception as e:
-        print(f"Erro no link {url}: {e}")
+        print(f"Erro ao conectar em {url}: {e}")
 
-# Salva de forma mais limpa
+# Salva o arquivo final com a declaração XML correta
 tree = ET.ElementTree(root)
-# Usamos short_empty_elements=False para manter a compatibilidade com players antigos
 tree.write("epg.xml", encoding="UTF-8", xml_declaration=True)
-print("EPG combinado com sucesso e salvo como epg.xml!")
+
+print("EPG salvo como epg.xml!")
