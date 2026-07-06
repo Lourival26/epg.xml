@@ -1,0 +1,2380 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Lourival26/epg.xml/refs/heads/main/epg.xml"
+
+############################################################################ 
+# Informações 
+############################################################################ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ManoTV",CANAL DO CLIENTE HD
+http://lourivalyool@gmail.com.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFHB2RM.jpeg" group-title="DOAÇÃO PIX:PARA CONTINUA ATUALIZANDO", (34)998753933
+http://lourivalyool@gmail.com.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KOvROBL.jpeg" group-title="QUER UM TEST CHAMA",Whats (34)998753933
+http://lourivalyool@gmail.com.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",10/06/2026
+http://lourivalyool@gmail.com.mp4
+
+############################################################################ 
+# Canais | GLOBO
+############################################################################ 
+
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
+http://gerenciar.vivatele.com/viva_padrao/viva2384/1
+
+#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
+http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="GloboMT.br" tvg-name="Globo MT HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
+http://15.235.42.84:8088/rj-live/rj-live/600267.ts
+
+#EXTINF:-1 tvg-id="GloboMG.br" tvg-name="Globo MG HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
+http://15.235.42.84:8088/rj-live/rj-live/600280.ts
+
+#EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="RPC Curitiba HD" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
+http://15.235.42.84:8088/rj-live/rj-live/600220.ts
+
+#EXTINF:-1 tvg-id="GloboGoias.br" tvg-name="Globo Goiás HD" tvg-logo="https://i.imgur.com/Lk493tt.png" group-title="Canais | GLOBO",Globo Goiás HD
+http://15.235.42.84:8088/rj-live/rj-live/600281.ts
+
+#EXTINF:-1 tvg-id="GloboManaus.br" tvg-name="Globo Manaus HD" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
+http://15.235.42.84:8088/rj-live/rj-live/600215.ts
+
+#EXTINF:-1 tvg-id="GloboLiberal.br" tvg-name="Globo TV Liberal Belém" tvg-logo="https://i.imgur.com/TevIGQZ.png" group-title="Canais | GLOBO",Globo TV Liberal Belém 
+http://15.235.42.84:8088/rj-live/rj-live/600269.ts
+
+############################################################################ 
+# Canais | SBT
+############################################################################ 
+
+#EXTINF:-1 tvg-id="SBTNews.br" tvg-name="SBT NEWS" tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="Canais | SBT",SBT NEWS HD
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="MaisSBT.br" tvg-name="+SBT HD" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",+SBT HD
+https://Jr10N.short.gy/25mensais/s2/Whats34998753933.m3u8
+
+#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT SP SD" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT SP HD
+https://jr10n.short.gy/aovivo.maissbt.stream/Index.m3u8
+
+#EXTINF:-1 tvg-id="SBTInteriorSP.br" tvg-name="SBT Interior SP HD" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT Interior SP HD
+https://Jr10N.short.gy/live-stream/sbt-intrior/sp.index.m3u8
+
+#EXTINF:-1 tvg-id="TVDifusoraSL.br" tvg-name="TV Difusora (SBT São Luís)" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="Canais | SBT",TV Difusora (SBT São Luís) HD
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+
+#EXTINF:-1 tvg-id="TVDifusoraLeste.br" tvg-name="TV Difusora Leste" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="Canais | SBT",TV Difusora Leste HD
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+
+#EXTINF:-1 tvg-id="SBTGuajara.br" tvg-name="SBT Guajará" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="Canais | SBT",SBT Guajará HD
+https://video05.logicahost.com.br/tvguajara/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAratu.br" tvg-name="TV ARATU HD" tvg-logo="https://i.imgur.com/tyFtNYn.png" group-title="Canais | SBT",TV ARATU HD
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="SBTCidadeVerde.br" tvg-name="SBT CIDADE VERDE FHD" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT CIDADE VERDE HD
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+############################################################################ 
+# Canais | ABERTO
+############################################################################ 
+
+#EXTINF:-1 tvg-id="TVERs.br" tvg-name="TVE FHD" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE FHD
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSonata.br" tvg-name="TV Sonata" tvg-logo="https://i.imgur.com/uMdQYEe.png" group-title="Canais | ABERTO",TV Sonata HD
+http://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GuiaTV.br" tvg-name="Guia TV" tvg-logo="https://tinyurl.com/2azaf982" group-title="Canais | ABERTO",Guia TV
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil HD" tvg-logo="https://i.imgur.com/gvo2adf.png" group-title="Canais | ABERTO",Rede Brasil HD
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w176459679.m3u8
+
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL HD
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/XOqitHH.jpeg" group-title="Canais | ABERTO",Rede TV HD
+https://Jr10N.short.gy/tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w1241069161.m3u8
+
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="Cultura HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZiyyLwcXxSheIbCXkg-cy2UXhkhabyMXXcQrWL2qN5x5gn0vtTtIaFjjy&s=10" group-title="Canais | ABERTO",Cultura HD
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+
+#EXTINF:-1 tvg-id="TVCulturaPA.br" tvg-name="TV Cultura Pará" tvg-logo="https://i.imgur.com/4zSMUof.png" group-title="Canais | ABERTO",TV Cultura Pará  HD
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Família HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11348/logo_256_1684137425.png" group-title="Canais | ABERTO",Rede Família HD
+https://tv03.zas.media:1936/rftv/rftv/chunklist_w554865708.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP" tvg-logo="https://i.imgur.com/eNr4igC.png" group-title="Canais | ABERTO",TV Gazeta SP HD
+https://Jr10N.short.gy/logica-stream.live/gazeta.cdn/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAracati.br" tvg-name="TV Aracati HD" tvg-logo="https://i.imgur.com/F3CDRwl.png" group-title="Canais | ABERTO",TV Aracati HD
+https://Jr10N.short.gy/video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w659222431.m3u8
+
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-name="Amazon Sat HD" tvg-logo="https://i.imgur.com/oLpnEtx.jpeg" group-title="Canais | ABERTO",Amazon Sat HD
+https://Jr10N.short.gy/Jr10N/amazonsat/index1.m3u8
+
+#EXTINF:-1 tvg-id="TVideonews.br" tvg-name="TVideonews HD" tvg-logo="https://i.imgur.com/fpH9x0z.png" group-title="Canais | ABERTO",TVideonews HD
+https://Jr10N.short.gy/video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1661896635.m3u8
+
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-name="Rede Minas HD" tvg-logo="https://i.imgur.com/bFuziKt.png" group-title="Canais | ABERTO",Rede Minas HD
+https://Jr10N.short.gy/redeminas-stream/live.local/Index.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara HD" tvg-logo="https://i.imgur.com/QEwEFAg.jpeg" group-title="Canais | ABERTO",TV Câmara HD
+https://Jr10N.short.gy/Jr10N/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="XtremeTV.br" tvg-name="XTREME TV" tvg-logo="https://imgur.com/3AbUT8O.png" group-title="Canais | ABERTO",XTREME TV HD
+https://Jr10N.short.gy/stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaravanaPlay.br" tvg-name="Caravana Play" tvg-logo="https://imgur.com/qUiPZiw.png" group-title="Canais | ABERTO",Caravana Play HD
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.br" tvg-name="ADRENALINA PURA TV" tvg-logo="https://i.imgur.com/ylcBhl2.jpeg" group-title="Canais | ABERTO",ADRENALINA PURA TV
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="AWTV.br" tvg-name="AW TV" tvg-logo="https://imgur.com/zxFbtNi.png" group-title="Canais | ABERTO",AW TV BD
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV" tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="Canais | ABERTO",Play TV HD
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+
+#EXTINF:-1 tvg-id="GospelMoviesTV.br" tvg-name="Gospel Movies TV" tvg-logo="https://i.imgur.com/niOjbp5.png" group-title="Canais | ABERTO",Gospel Movies TV HD
+https://Jr10N.short.gy/Stream.srvif.com/Manogospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNT.br" tvg-name="Rede CNT HD" tvg-logo="https://imgur.com/qFfyqQm.png" group-title="Canais | ABERTO",Rede CNT HD
+https://hplay.tv/augetv/12396547488/6749.m3u8
+
+#EXTINF:-1 tvg-id="TVSulMinas.br" tvg-name="TV Sul de Minas HD" tvg-logo="https://i.imgur.com/4KQJxzb.png" group-title="Canais | ABERTO",TV Sul de Minas HD
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/chunklist_w886847056.m3u8
+
+#EXTINF:-1 tvg-id="CATVE2.br" tvg-name="CATVE 2" tvg-logo="https://i.imgur.com/BJVNmJv.png" group-title="Canais | ABERTO",CATVE 2 HD
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimerTV.br" tvg-name="Primer TV" tvg-logo="https://i.imgur.com/LOB5R1E.jpeg" group-title="Canais | ABERTO",Primer TV HD
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUFG.br" tvg-name="TV UFG" tvg-logo="https://i.imgur.com/AF6NzrV.png" group-title="Canais | ABERTO",TV UFG HD
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVVicosa.br" tvg-name="TV Viçosa" tvg-logo="https://i.imgur.com/US1wQeE.png" group-title="Canais | ABERTO",TV Viçosa HD
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-name="TV Grande Natal" tvg-logo="https://i.imgur.com/CmHrA7X.png" group-title="Canais | ABERTO",TV Grande Natal HD
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="CanalDoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="https://i.imgur.com/9IDbXGP.png" group-title="Canais | ABERTO",Canal do Boi HD
+https://aovivo.equipea.com.br:5443/aovivort/streams/EbIRyJc8nK6P8Udb1187401937839.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="Agro Canal" tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Canais | ABERTO",Agro Canal HD
+https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
+
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="Agro + HD" tvg-logo="https://logo.m3uassets.com/agromais.png" group-title="Canais | ABERTO",Agro + HD
+https://cdn-3.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
+
+############################################################################ 
+# Canais | RECORD TV
+############################################################################ 
+
+#EXTINF:-1 tvg-id="RecordTVSP.br" tvg-name="RecordTV SP HD" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD 
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+
+#EXTINF:-1 tvg-id="RecordTVRJ.br" tvg-name="RecordTV RJ HD" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
+https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8?a=1
+
+#EXTINF:-1 tvg-id="RecordTVMG.br" tvg-name="RecordTV MG" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV MG 
+http://15.235.42.84:8088/rj-live/rj-live/600507.ts
+
+#EXTINF:-1 tvg-id="RecordTVMT.br" tvg-name="RecordTV MT" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="RecordTVRN.br" tvg-name="RecordTV RN" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RN
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="RecordTVConquista.br" tvg-name="RecordTV Conquista HD" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Conquista HD
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="TVTropical.br" tvg-name="TV Tropical HD" tvg-logo="https://i.imgur.com/zdnMTtl.png" group-title="Canais | RECORD TV",TV Tropical HD
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8?a=1
+
+#EXTINF:-1 tvg-id="RecordSicTV.br" tvg-name="Record SicTV (RO)" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="Canais | RECORD TV",Record SicTV (RO)
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?a=1
+
+#EXTINF:-1 tvg-id="TVBrusque.br" tvg-name="TV BRUSQUE HD" tvg-logo="https://i.imgur.com/C1jm6RC.jpeg" group-title="Canais | RECORD TV",TV BRUSQUE HD
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8?a=1
+
+############################################################################ 
+# Canais | BAND TV
+############################################################################ 
+
+#EXTINF:-1 tvg-id="BandSP.br" tvg-name="Band SP HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
+https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BandRJ.br" tvg-name="Band RJ HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band RJ HD
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3
+
+#EXTINF:-1 tvg-id="BandRS.br" tvg-name="Band RS" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band RS
+http://15.235.50.115:14522/
+
+#EXTINF:-1 tvg-id="BandArapuan.br" tvg-name="Band Arapuan HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band Arapuan HD
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="BandRBA.br" tvg-name="Band TV RBA TV" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band TV RBA TV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="BandValeUruara.br" tvg-name="Band TV - Vale do Uruará" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band TV - Vale do Uruará 
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8?a=1
+
+#EXTINF:-1 tvg-id="BandMG.br" tvg-name="Band MG HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band MG HD
+http://168.205.87.198:8555/live/1143/123456/19.m3u8
+
+#EXTINF:-1 tvg-id="BandMT.br" tvg-name="Band Mato Grosso HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band Mato Grosso HD
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="NewBrasil.br" tvg-name="NEW BRASIL HD" tvg-logo="https://i.imgur.com/vSKVrvH.png" group-title="Canais | BAND TV",NEW BRASIL HD
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8?a=1
+
+############################################################################ 
+# Canais | NOTÍCIAS 
+############################################################################ 
+
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD
+http://79.127.238.228:14093/
+
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News HD" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News HD
+https://hplay.tv/augetv/12396547488/1300.m3u8?a=1
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News HD" tvg-logo="https://i.imgur.com/KnB3Nls.jpeg" group-title="Canais | NOTÍCIAS",Record News HD
+# (Link removido por falta de origem funcional na sua lista)
+
+#EXTINF:-1 tvg-id="ARTVPortugal.br" tvg-name="ARTV Portugal HD" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="Canais | NOTÍCIAS",ARTV Portugal HD
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8?a=1
+
+#EXTINF:-1 tvg-id="PlutoTVCanalUOL.br" tvg-name="Pluto TV Canal UOL" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Canais | NOTÍCIAS",Pluto TV Canal UOL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN Brasil FHD
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="4Por4.br" tvg-name="4 POR 4" tvg-logo="https://i.imgur.com/B1KhZs2.png" group-title="Canais | NOTÍCIAS",4 POR 4 
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/TlqB0Uo.png" group-title="Canais | NOTÍCIAS",TV Câmara HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8?a=1
+
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal GOV" tvg-logo="https://i.imgur.com/9KwUxmX.png" group-title="Canais | NOTÍCIAS",Canal GOV
+https://canalgov-stream.ebc.com.br/index.m3u8?a=1
+
+#EXTINF:-1 tvg-id="TVVideonews.br" tvg-name="TV VIDEONEWS" tvg-logo="https://i.imgur.com/4m1j3CL.png" group-title="Canais | NOTÍCIAS",TV VIDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8?a=1
+
+############################################################################ 
+# Canais | INFANTIL 
+############################################################################ 
+
+#EXTINF:-1 tvg-id="HTOKids.br" tvg-name="HTO KIDS HD" tvg-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Canais | INFANTIL",HTO KIDS HD
+https://cdn-3.nxplay.com.br/HTO_KIDS/index.m3u8
+
+#EXTINF:-1 tvg-id="LeoELully.br" tvg-name="Léo e Lully HD" tvg-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Canais | INFANTIL",Léo e Lully HD
+https://cdn-3.nxplay.com.br/LEO_E_LULLY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Popeye.br" tvg-name="Popeye HD" tvg-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Canais | INFANTIL",Popeye HD
+https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
+
+#EXTINF:-1 tvg-id="Moranguinho.br" tvg-name="Moranguinho HD" tvg-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Canais | INFANTIL",Moranguinho HD
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+
+#EXTINF:-1 tvg-id="ToonGoggles.br" tvg-name="Toon Goggles HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="Canais | INFANTIL",Toon Goggles HD
+https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
+http://45.235.0.78/Discovery_Kids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosKids.br" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/qSC5fSZ.png" group-title="Canais | INFANTIL",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1802559901_b3048000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Sonic.br" tvg-name="Sonic" tvg-logo="https://i.imgur.com/KEQvBuF.png" group-title="Canais | INFANTIL",Sonic
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
+
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1836?a=1
+
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://i.imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1889?a=1
+
+#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://i.imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/15
+
+#EXTINF:-1 tvg-id="TVGallo.br" tvg-name="TV Gallo" tvg-logo="https://i.imgur.com/05E0q6L.png" group-title="Canais | INFANTIL",TV Gallo
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.br" tvg-name="Mr Bean Animated" tvg-logo="https://i.imgur.com/eu93gIQ.png" group-title="Canais | INFANTIL",Mr Bean Animated
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8?a=1
+
+#EXTINF:-1 tvg-id="MinisterioInfantilTV.br" tvg-name="Ministério Infantil TV" tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
+http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
+http://domainforxc.cfd:80/287945811/148063/21230
+
+#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-name="Retro Cartoon" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14295/logo_256_1684138541.png" group-title="Canais | INFANTIL",Retro Cartoon 
+https://stmv2.painelvideocast.com.br/retrotv/retrotv/chunklist_w1821179280.m3u8?a=1
+
+#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-name="Gospel Cartoon" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14344/thumb_image_2022-06-23_08-04-53.png" group-title="Canais | INFANTIL",Gospel Cartoon 
+http://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="Anime TV" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14232/thumb_Anime_TV.png" group-title="Canais | INFANTIL",Anime TV 
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="Jetsontv.br" tvg-name="Jetsontv" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14246/logo_256_1684134195.png" group-title="Canais | INFANTIL",Jetsontv 
+http://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="DomiKids.br" tvg-name="Domi Kids" tvg-logo="https://i.imgur.com/Yhphas0.jpeg" group-title="Canais | INFANTIL",Domi Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+############################################################################ 
+# Canais | HALLO!
+############################################################################ 
+
+#EXTINF:-1 tvg-id="HalloSeries.br" tvg-name="Hallo! Series" tvg-logo="https://i.imgur.com/BMV8Nbn.png" group-title="Canais | HALLO!",Hallo! Series
+https://cdn-5.nxplay.com.br/HALLOSERIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-id="HalloClassic.br" tvg-name="Hallo! Classic" tvg-logo="https://i.imgur.com/Z8BnjPs.png" group-title="Canais | HALLO!",Hallo! Classic
+https://cdn-5.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-id="HalloMovies.br" tvg-name="Hallo! Movies" tvg-logo="https://i.imgur.com/Q16ZNjl.png" group-title="Canais | HALLO!",Hallo! Movies
+https://cdn-5.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-id="HalloAnime.br" tvg-name="Hallo Anime" tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | HALLO!",Hallo Anime
+https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-id="HalloDoc.br" tvg-name="Hallo! Doc." tvg-logo="https://i.imgur.com/lFkmVqX.png" group-title="Canais | HALLO!",Hallo! Doc.
+https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-id="HalloMusic.br" tvg-name="Hallo! Music" tvg-logo="https://i.imgur.com/6hDnWxA.png" group-title="Canais | HALLO!",Hallo! Music
+https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+############################################################################ 
+# Canais | JORNADA NAS ESTRELAS 
+############################################################################ 
+
+#EXTINF:-1 tvg-id="PlutoTVStarTrek.br" tvg-name="Pluto TV Star Trek" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Pluto TV Star Trek
+https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
+
+#EXTINF:-1 tvg-id="StarTrekTNG.br" tvg-name="Star Trek: The Next Generation" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: The Next Generation
+https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
+
+#EXTINF:-1 tvg-id="StarTrekDS9.br" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: Deep Space Nine
+https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
+
+#EXTINF:-1 tvg-id="StarTrekVoyager.br" tvg-name="Star Trek: Voyager" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: Voyager
+https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
+
+############################################################################ 
+# Canais | FILMES & SERIES 
+############################################################################ 
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
+https://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
+https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSERIES.br" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
+http://15.235.42.84:8088/rj-live/rj-live/600258.ts
+
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD 
+http://streamer.sattvacabo.com.br/WARNER_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="AandE.br" tvg-name=" A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E HD
+http://79.127.238.228:14551/
+
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD
+https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
+http://46.151.196.223:14326/
+
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
+http://s2.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="https://i.imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
+http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
+http://15.235.42.84:8088/rj-live/rj-live/600250.ts
+
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
+http://15.235.42.84:8088/rj-live/rj-live/600243.ts
+
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
+http://15.235.42.84:8088/rj-live/rj-live/600245.ts
+
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
+https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel" tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
+https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
+http://streamer.sattvacabo.com.br/CINEMAX/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
+http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
+https://jr10n.short.gy/Canaistemporario1/cdn-5.nxplay/Index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
+http://streamer.sattvacabo.com.br/HBO2/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
+http://streamer.sattvacabo.com.br/HBO_FAMILY/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
+http://streamer.sattvacabo.com.br/HBO_SIGNATURE/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD 
+http://streamer.sattvacabo.com.br/HBO_PLUS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="StudioUniversal HD" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
+http://79.127.243.211:14623/
+
+#EXTINF:-1 tvg-id="MyTimeMovies.br" tvg-name="MyTime Movies" tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES",MyTime Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.br" tvg-name="Movie Sphere" tvg-logo="https://imgur.com/92rUCKL.png" group-title="Canais | FILMES E SERIES",MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneEmocoes.br" tvg-name="Sony One Emocoes" tvg-logo="https://imgur.com/CsC9aG5.png" group-title="Canais | FILMES E SERIES",SONY ONE EMOCOES HD
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneClassics.br" tvg-name="Sony One Classics" tvg-logo="https://imgur.com/9xo2bJt.png" group-title="Canais | FILMES E SERIES",Sony One Classics HD
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineMonde.br" tvg-name="Cine Monde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Canais | FILMES E SERIES",Cine Monde HD
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DarkFlix.br" tvg-name="Dark Flix" tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES E SERIES",Dark Flix HD
+https://darkflix.play.cportal.com.br/live/1/stream.m3u8
+
+#EXTINF:-1 tvg-id="CineTrianon.br" tvg-name="Cine Trianon" tvg-logo="https://i.imgur.com/0yYjbGh.png" group-title="Canais | FILMES E SERIES",Cine Trianon HD
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinerama.br" tvg-name="Cinerama" tvg-logo="https://abre.ai/mkUi" group-title="Canais | FILMES E SERIES",Cinerama
+https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="Bang.br" tvg-name="Bang Bang" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | FILMES E SERIES",Bang Bang HD
+https://abre.ai/lSy5
+
+############################################################################ 
+# Canais | RUNTIME & PLUTO FILMES
+############################################################################ 
+
+#EXTINF:-1 tvg-id="RuntimeAcao" tvg-name="Runtime Ação HD" tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="Canais | FILMES",Runtime Ação HD
+https://Jr10N.short.gy/Runtime.ads/network/stream.index.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeTV" tvg-name="Runtime TV e Filmes Grátis HD" tvg-logo="https://imgur.com/5aavtj1.png" group-title="Canais | FILMES",Runtime TV e Filmes Grátis HD
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8?a=1
+
+#EXTINF:-1 tvg-id="RuntimeComedia" tvg-name="Runtime Comédia HD" tvg-logo="https://imgur.com/TZ7LfjB.png" group-title="Canais | FILMES",Runtime Comédia HD 
+https://Jr10N.short.gy/Runtime-comedia/stream.live/index.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeFamilia" tvg-name="Runtime Família HD" tvg-logo="https://imgur.com/pFtnILf.png" group-title="Canais | FILMES",Runtime Família HD
+https://Jr10N.short.gy/Runtime-familia/stream.live/Index.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeRomance" tvg-name="Runtime Romance HD" tvg-logo="https://imgur.com/U6ElKK3.png" group-title="Canais | FILMES",Runtime Romance HD
+https://Jr10N.short.gy/Runtime-romance/live.stream/Index.m3u8
+
+#EXTINF:-1 tvg-id="CineEspanto" tvg-name="Cine Espanto HD" tvg-logo="https://imgur.com/bzX7MO8.png" group-title="Canais | FILMES",Cine Espanto HD
+https://Jr10N.short.gy/Runtime-cinEspanto/live.stream/Index.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeCrime" tvg-name="Runtime Crime HD" tvg-logo="https://imgur.com/KQt9WGA.png" group-title="Canais | FILMES",Runtime Crime HD
+https://Jr10N.short.gy/Runtime-crime/live.stream/Index.m3u8
+
+#EXTINF:-1 tvg-id="Runtime" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Canais | FILMES",Runtime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVCineCrime" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Crime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVCineInspiracao" tvg-name="Pluto TV Cine Inspiração" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Inspiração
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVFilmesAcao" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVCineTerror" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Terror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVCineDrama" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Família 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVCineRomance" tvg-name="Pluto TV Cine Romance" tvg-logo="https://imgur.com/LoiqpXA.png" group-title="Canais | FILMES",Pluto TV Cine Romance
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=web&country=BR&serverSideAds=true
+
+#EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica" tvg-name="Pluto TV Cine Comédia Romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/solidLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Comédia Romântica
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVCineComedia" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Comédia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="FilmesSuspense" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Canais | FILMES",Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVCineClassicos" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://imgur.com/bRKFjwD.png" group-title="Canais | FILMES",Pluto TV Cine Clássicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVFilmesNacionais" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://imgur.com/qPhjnv9.png" group-title="Canais | FILMES",Pluto TV Filmes Nacionais
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=web&country=BR&serverSideAds=true
+
+#EXTINF:-1 tvg-id="FilmelierTV" tvg-name="Filmelier TV" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Canais | FILMES",Filmelier TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica" tvg-name="Pluto TV Ficção Científica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Ficção Científica
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVAdrenalinaFreezone" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Adrenalina Freezone
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="HalloClassic.br" tvg-name="Hallo! Classic" tvg-logo="https://i.imgur.com/Z8BnjPs.png" group-title="Canais | FILMES",Hallo! Classic
+https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="HalloMovies.br" tvg-name="Hallo! Movies" tvg-logo="https://i.imgur.com/Q16ZNjl.png" group-title="Canais | FILMES",Hallo! Movies
+https://cdn-3.nxplay.com.br/HALLOMOVIES/index.m3u8
+
+############################################################################ 
+# Canais | SOUTH PARK 
+############################################################################ 
+
+#EXTINF:-1 tvg-id="SouthParkColecaoCartman" tvg-name="South Park: Coleção Cartman" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | SOUTH PARK",South Park: Coleção Cartman
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="SouthParkColecaoKenny" tvg-name="South Park: Coleção Kenny" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | SOUTH PARK",South Park: Coleção Kenny
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df704366eec8000898e32f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="SouthParkColecaoKyle" tvg-name="South Park: Coleção Kyle" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | SOUTH PARK",South Park: Coleção Kyle
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="SouthParkColecaoStan" tvg-name="South Park: Coleção Stan" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | SOUTH PARK",South Park: Coleção Stan 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | SOUTH PARK",Comedy Central South Park
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+############################################################################ 
+# Canais | SÉRIES 
+############################################################################ 
+
+#EXTINF:-1 tvg-id="SeriesDeComedia" tvg-name="Séries de Comédia | Pluto TV Brasil" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Canais | SÉRIES",Séries de Comédia | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesCriminais" tvg-name="Pluto TV Séries Criminais" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="Canais | SÉRIES",Pluto TV Séries Criminais
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesAcao" tvg-name="Pluto TV Séries Ação" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="Canais | SÉRIES",Pluto TV Séries Ação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="RookieBlue" tvg-name="Rookie Blue" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Canais | SÉRIES",Rookie Blue
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="ClubeDoTerror" tvg-name="Clube do Terror" tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="Canais | SÉRIES",Clube do Terror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="BETPlutoTV" tvg-name="BET Pluto TV" tvg-logo="https://imgur.com/v6p3pSw.png" group-title="Canais | SÉRIES",BET Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="NCIS" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Canais | SÉRIES",NCIS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="CSIMiami" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Canais | SÉRIES",CSI: Miami
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi" tvg-name="Pluto TV Séries Sci-Fi" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Canais | SÉRIES",Pluto TV Séries Sci-Fi
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="OHomemQueVeioDoCeu" tvg-name="O Homem que veio do Céu" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Canais | SÉRIES",O Homem que veio do Céu
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="HalloSeries" tvg-name="Hallo! Series" tvg-logo="https://i.imgur.com/BMV8Nbn.png" group-title="Canais | SÉRIES",Hallo! Series
+https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
+
+############################################################################ 
+# Canais | ANIMES
+############################################################################ 
+
+#EXTINF:-1 tvg-id="Naruto" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais | ANIMES",Naruto
+https://Jr10N.short.gy/tcl-anime-stream.live/Naruto.xnplay/tracks.index.m3u8
+
+#EXTINF:-1 tvg-id="LoadingTV" tvg-name="Loading...TV HD" tvg-logo="https://i.imgur.com/xFbshql.png" group-title="Canais | ANIMES",Loading...TV HD
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8?@iprtlk
+
+#EXTINF:-1 tvg-id="WordingTV" tvg-name="WORDING TV" tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="Canais | ANIMES",WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8?a=1
+
+#EXTINF:-1 tvg-id="Geekdot" tvg-name="Geekdot" tvg-logo="https://i.imgur.com/NMMtJ8F.png" group-title="Canais | ANIMES",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8?a=1
+
+#EXTINF:-1 tvg-id="AniTV" tvg-name="AniTV" tvg-logo="https://i.imgur.com/3pOHk57.png" group-title="Canais | ANIMES",AniTV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8?a=1
+
+#EXTINF:-1 tvg-id="HalloAnime" tvg-name="Hallo Anime HD²" tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | ANIMES",Hallo Anime HD²
+https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
+
+############################################################################ 
+# Canais | LUTAS
+############################################################################ 
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD
+http://46.151.196.223:14468/
+
+#EXTINF:-1 tvg-id="DAZNCombate" tvg-name="DAZN Combate HD" tvg-logo="https://i.imgur.com/dJHbeqo.png" group-title="Canais | LUTAS",DAZN Combate HD
+https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8?a=1
+
+#EXTINF:-1 tvg-id="SFTCombateBR" tvg-name="SFT Combate BR HD" tvg-logo="https://i.imgur.com/ck8Gf28.png" group-title="Canais | LUTAS",SFT Combate BR HD
+https://Jr10N.short.gy/cdn-3.nxplay.com.br/SFT_esportes_TK/tracks-v2a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="MMABr" tvg-name="MMA HD" tvg-logo="https://i.imgur.com/jSL6TYs.png" group-title="Canais | LUTAS",MMA HD
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263/variant/22099684.m3u8?a=1
+
+#EXTINF:-1 tvg-id="FITE" tvg-name="FITE HD" tvg-logo="https://i.imgur.com/gt32tgp.png" group-title="Canais | LUTAS",FITE HD
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263/variant/22099684.m3u8?a=1
+
+#EXTINF:-1 tvg-id="LuchaLibre" tvg-name="LUCHA LIBRE" tvg-logo="https://imgur.com/UTSMpfP.png" group-title="Canais | LUTAS",LUCHA LIBRE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="SFTCombat" tvg-name="SFT Combat" tvg-logo="https://imgur.com/CYD3RN9.png" group-title="Canais | LUTAS",SFT Combat
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c6alivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 tvg-id="CombatTV" tvg-name="COMBATV" tvg-logo="https://imgur.com/kVyHCec.png" group-title="Canais | LUTAS",COMBATV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8?a=1
+
+############################################################################ 
+# Canais | FREE
+############################################################################ 
+
+#EXTINF:-1 tvg-id="GeTV.br" tvg-name="Ge TV FHD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | FREE",Ge TV FHD
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/1080p-cc/index.m3u8?a=1
+
+#EXTINF:-1 tvg-id="Desimpedidos.br" tvg-name="Desimpedidos FHD" tvg-logo="https://i.imgur.com/RSHGmuX.png" group-title="Canais | FREE",Desimpedidos FHD
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8?a=1
+
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="Cazé TV FHD" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | FREE",Cazé TV FHD
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="Barcelona.br" tvg-name="BARCELONA" tvg-logo="https://i.imgur.com/L6mLyhD.png" group-title="Canais | FREE",BARCELONA 
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist_fc18f0fd_2d126755.m3u8?a=1
+
+#EXTINF:-1 tvg-id="RealMadrid.br" tvg-name="REAL MADRID" tvg-logo="https://i.imgur.com/sHy3e2p.jpeg" group-title="Canais | FREE",REAL MADRID 
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8?a=1
+
+#EXTINF:-1 tvg-id="NSports.br" tvg-name="NSPORTS" tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="Canais | FREE",NSPORTS 
+https://video01.soultv.com.br/nsports/nsports/playlist.m3u8?a=1
+
+############################################################################ 
+# Canais | ESPORTES
+############################################################################ 
+
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
+http://79.127.243.211:14445/
+
+#EXTINF:-1 tvg-id="AutoTV.br" tvg-name="Auto TV" tvg-logo="https://i.imgur.com/FRnE50u.png" group-title="Canais | ESPORTES",Auto TV
+https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8?a=1
+
+############################################################################ 
+# Canais | SPORT TV
+############################################################################ 
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SPORT TV",SporTV FHD
+https://Jr10N.short.gy/sptv-live.seu-esport.hd/painel.index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SPORT TV",SporTV 2 HD
+http://79.127.243.211:14473/
+
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 HD" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SPORT TV",SporTV 3 HD
+https://jr10n.short.gy/live25/sportv3.2026/Index.m3u8
+
+############################################################################ 
+# Canais | ESPN
+############################################################################ 
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
+https://jr10n.short.gy/manoTVOP2/spnHD²/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
+http://46.151.196.223:14438/
+
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD 
+http://46.151.196.223:14444/
+
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD 
+http://79.127.243.211:14514/
+
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
+https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6 HD 
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+
+############################################################################ 
+# Canais | PREMIERE
+############################################################################ 
+
+#EXTINF:-1 tvg-id="Premiere.br" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
+https://jr10n.short.gy/Canal/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 2 HD
+https://jr10n.short.gy/Canalesporte/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 3 HD
+https://jr10n.short.gy/Canal.video/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 4 HD 
+https://jr10n.short.gy/Streaming-canal14/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 5 HD
+https://jr10n.short.gy/Premiere.clube/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 6 HD
+https://jr10n.short.gy/Quer-umteste.chama/no-whats34998753933/Index.m3u8
+
+############################################################################ 
+# Canais | VARIEDADES
+############################################################################ 
+
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet FHD
+https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8?a=1
+
+#EXTINF:-1 tvg-id="History.br" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
+https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8?a=1
+
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2" tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
+https://cdn-5.nxplay.com.br/HISTORY_2_TK/index.m3u8?a=1
+
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
+https://cdn-5.nxplay.com.br/HGTV_BR_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="TraceBrasil.br" tvg-name="Trace Brasil" tvg-logo="https://i.imgur.com/IE8xwt4.png" group-title="Canais | VARIEDADES",Trace Brasil
+https://trace-brazuca-lg-br.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-brazuca-lg-br/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="SonySharkTank.br" tvg-name="Sony Shark Tank" tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | VARIEDADES",SONY ONE SHARK TANK
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC" tvg-logo="https://i.imgur.com/2F9asSD.png" group-title="Canais | VARIEDADES",TLC HD
+http://79.127.238.228:14433/TLChd
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" tvg-logo="https://i.imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1 HD
+http://cdn-5.nxplay.com.br/ARTE1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film & Arts" tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | VARIEDADES",Film & Arts HD
+https://cdn-5.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="ReceitasFast.br" tvg-name="Receitas Fast" tvg-logo="https://i.imgur.com/X8bDYyO.png" group-title="Canais | VARIEDADES",Receita Fast HD
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8?a=1
+
+#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network" tvg-logo="https://i.imgur.com/AH3uBDj.png" group-title="Canais | VARIEDADES",Food Network HD
+http://200.229.190.189:8001/play/a01g
+
+#EXTINF:-1 tvg-id="Masterchef.br" tvg-name="Masterchef" tvg-logo="https://i.imgur.com/MzsCcuR.jpeg" group-title="Canais | VARIEDADES",MASTERCHEF HD
+https://Jr10N.short.gy/masterchef/amg056743.live.10986/Index.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.br" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/T7y3nW3.jpeg" group-title="Canais | VARIEDADES",TASTEMADE HD
+https://Jr10N.short.gy/tastemade-stream.amg/1234.34567/live.index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo HD
+http://185.152.67.187:14367/
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD 
+https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="ID.br" tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
+https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryH&H.br" tvg-name="Discovery H&H" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health HD
+http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel FHD
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
+https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
+https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoInvestigacao.br" tvg-name="Pluto TV Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto tv Investigação
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoMisterios.br" tvg-name="Pluto TV Mistérios" tvg-logo="https://i.imgur.com/NhguLFB.png" group-title="Canais | VARIEDADES",Pluto TV Mistérios
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8
+
+#EXTINF:-1 tvg-id="PeopleAreAwesome.br" tvg-name="People Are Awesome" tvg-logo="https://i.imgur.com/BWfmUwV.png" group-title="Canais | VARIEDADES",People Are Awesome
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="TraceSportStars.br" tvg-name="Trace Sport Stars" tvg-logo="https://i.imgur.com/7HTxrEq.png" group-title="Canais | VARIEDADES",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="Motorvision.br" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/jlhvLJb.png" group-title="Canais | VARIEDADES",Motorvision FHD
+https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8?a=1
+
+#EXTINF:-1 tvg-id="AutoTV.br" tvg-name="Auto TV" tvg-logo="https://imgur.com/qovLRmK.png" group-title="Canais | VARIEDADES",Auto TV
+https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="CultneTV.br" tvg-name="Cultne TV" tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="Canais | VARIEDADES",Cultne TV
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8?a=1
+
+############################################################################ 
+# Canais | NATUREZA
+############################################################################ 
+
+#EXTINF:-1 tvg-id="NatureMoments" tvg-name="Nature Moments HD" tvg-logo="https://i.imgur.com/LGOOLwd.jpeg" group-title="Pluto TV | NATUREZA",Nature Moments HD
+https://Jr10N.short.gy/mano-tv-stream/nature-tcl/Index.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime" tvg-name="Nature Time FHD" tvg-logo="https://i.imgur.com/jyOfuJU.jpeg" group-title="Pluto TV | NATUREZA",Nature Time FHD
+https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth" tvg-name="WildEarth 24 horas HD" tvg-logo="https://i.imgur.com/q6wohNt.jpeg" group-title="Pluto TV | NATUREZA",WildEarth 24 horas HD
+https://Jr10N.short.gy/wildearth-ono.amagi.tv/ts-us-w2-n1/playlist.stream/Index.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature HD" tvg-logo="https://i.imgur.com/tpFrQhJ.jpeg" group-title="Pluto TV | NATUREZA",Love Nature HD
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8
+
+#EXTINF:-1 tvg-id="Pesca" tvg-name="Pesca HD" tvg-logo="https://i.imgur.com/nyZH3Pr.jpeg" group-title="Pluto TV | NATUREZA",Pesca HD
+https://isaocorp.cloudecast.com/tvdapesca/index.m3u8?a=1
+
+#EXTINF:-1 tvg-id="PlutoPaisagens" tvg-name="Pluto TV Paisagens" tvg-logo="https://i.imgur.com/Ctozao4.png" group-title="Pluto TV | NATUREZA",Pluto TV Paisagens por Stingray HD
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+
+#EXTINF:-1 tvg-id="PlutoAnimais" tvg-name="Pluto TV Animais HD" tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Pluto TV | NATUREZA",Pluto TV Animais HD
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+
+#EXTINF:-1 tvg-id="EncantadorCaes" tvg-name="O Encantador de Cães HD" tvg-logo="https://i.imgur.com/YaDYTrN.png" group-title="Pluto TV | NATUREZA",O Encantador de Cães HD
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+
+############################################################################ 
+# Canais | MISTÉRIOS E SOBRENATURAL
+############################################################################ 
+
+#EXTINF:-1 tvg-id="PlutoMisterios" tvg-name="Pluto TV Mistérios" tvg-logo="https://i.imgur.com/NhguLFB.png" group-title="Pluto TV | MISTÉRIOS E SOBRENATURAL",Pluto TV Mistérios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+
+#EXTINF:-1 tvg-id="PlutoAliens" tvg-name="Pluto TV Aliens" tvg-logo="https://i.imgur.com/0ktlcZV.png" group-title="Pluto TV | MISTÉRIOS E SOBRENATURAL",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+
+#EXTINF:-1 tvg-id="Assombracoes" tvg-name="Assombrações" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="Pluto TV | MISTÉRIOS E SOBRENATURAL",Assombrações
+https://jmp2.uk/plu-620d1512c7986a0007220213.m3u8
+
+#EXTINF:-1 tvg-id="EstadoParanormal" tvg-name="Estado Paranormal" tvg-logo="https://i.imgur.com/3TlNQcz.png" group-title="Pluto TV | MISTÉRIOS E SOBRENATURAL",Estado Paranormal
+https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
+
+#EXTINF:-1 tvg-id="CacadoresOvnis" tvg-name="Caçadores de Ovnis" tvg-logo="https://i.imgur.com/63hgt4q.png" group-title="Pluto TV | MISTÉRIOS E SOBRENATURAL",Caçadores de Ovnis
+https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
+
+############################################################################ 
+# Canais | RELIGIOSO 
+############################################################################ 
+
+#EXTINF:-1 tvg-id="Igreja Universal do Reino de Deus " tvg-name="Igreja Universal HD" tvg-logo="https://i.imgur.com/8Ao4LIW.png" group-title="Canais | RELIGIOSO",Igreja Universal HD
+https://Jr10N.short.gy/tvuniversal/streams/azion/480p_chunk.index/m3u8
+
+#EXTINF:-1 tvg-id="TVMundial.br" tvg-name="Igreja Mundial HD" tvg-logo="https://i.imgur.com/oHZgrBE.jpeg" group-title="Canais | RELIGIOSO",Igreja Mundial HD
+https://Jr10N.short.gy/tv_live/igreja_mundial/cdn.xplay/Index.m3u8
+
+#EXTINF:-1 tvg-id="TVPlenitude.br" tvg-name="Igreja Plenitude HD" tvg-logo="https://i.imgur.com/yaIBBVL.png" group-title="Canais | RELIGIOSO",Igreja Plenitude HD
+https://Jr10N.short.gy/iaptd/live/jr10n/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVNovoTempo.br " tvg-name="TVNovoTempoHD" tvg-logo="https://i.imgur.com/jbicKSX.png" group-title="Canais | RELIGIOSO",Novo Tempo HD
+https://Jr10N.short.gy/novo_tempo/cdn3.nxplay.com.br/sony_movies/Index.m3u8
+
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="Igreja Evangelizar HD" tvg-logo="https://i.imgur.com/6pDY7Fj.jpeg" group-title="Canais | RELIGIOSO",Igreja Evangelizar HD
+https://Jr10N.short.gy/evangelizar/maringa/stream.cdn2_nxplay.sony_movies/Index.m3u8
+
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova HD" tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | RELIGIOSO",Canção Nova HD
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8?a=1
+
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida HD" tvg-logo="https://i.imgur.com/p7zbTJA.png" group-title="Canais | RELIGIOSO",TV Aparecida HD
+https://Jr10N.short.gy/tv/live_aparecia.movies_cnd2/P2P.index1.m3u8
+
+############################################################################ 
+# Canais | NOVELAS
+############################################################################ 
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="GloboPlay Novelas FHD" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas FHD
+http://79.127.238.228:14455/VIVA
+
+#EXTINF:-1 tvg-id="TNTNovelas.br" tvg-name="TNT Novelas FHD" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas FHD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/tntnovelas.m3u8
+
+#EXTINF:-1 tvg-id="MalhacaoFast.br" tvg-name="Malhação Fast" tvg-logo="https://i.imgur.com/0gDjNFs.png" group-title="Canais | NOVELAS",Malhação Fast
+https://amg00716-globo-amg00716c4-tcl-br-9499.playouts.now.amagi.tv/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="EscravaIsaura.br" tvg-name="A Escrava Isaura" tvg-logo="https://i.imgur.com/851wj7w.png" group-title="Canais | NOVELAS",A Escrava_Isaura
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8?a=1
+
+#EXTINF:-1 tvg-id="TerraPrometida.br" tvg-name="A Terra Prometida" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BR30002677_20250528T010250SQUARE.png" group-title="Canais | NOVELAS",A terra Prometida
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8?a=1
+
+#EXTINF:-1 tvg-id="Reviva.br" tvg-name="REVIVA Novelas HD" tvg-logo="https://i.imgur.com/WtxNfI5.jpeg" group-title="Canais | NOVELAS",REVIVA Novelas HD
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w79035539.m3u8?a=1
+
+#EXTINF:-1 tvg-id="Novelissima.br" tvg-name="Novelissima BR" tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Canais | NOVELAS",Novelissima BR
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8?a=1
+
+#EXTINF:-1 tvg-id="SonyNovelas.br" tvg-name="Sony Novelas" tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="SparkLuzAmor.br" tvg-name="Spark Luz E Amor HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d7c29def7ffc55be76fdb008b5b34d0d.webp" group-title="Canais | NOVELAS",Spark Luz E Amor HD
+https://Jr10N.short.gy/sparkplay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoNovelas" tvg-name="PLUTO TV NOVELAS" tvg-logo="https://i.imgur.com/O9bIhIR.png" group-title="Canais | NOVELAS",PLUTO TV NOVELAS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8
+
+#EXTINF:-1 tvg-id="TVTelenovelas" tvg-name="TV Telenovelas" tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="Canais | NOVELAS",TV Telenovelas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoTelenovelas" tvg-name="TV Telemundo Telenovelas" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="Canais | NOVELAS",TV Telemundo Telenovelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8
+
+#EXTINF:-1 tvg-id="TVIFiccao.br" tvg-name="TVi Ficção" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="Canais | NOVELAS",TVi Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="Televisa.br" tvg-name="TELEVISA" tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Canais | NOVELAS",TELEVISA
+http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?a=1
+
+############################################################################
+# Série | Diários de um Vampiro
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E01
+https://video.wixstatic.com/video/8d3786_78cf46b96af64c7c9bb83daaee518d25/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E02
+https://video.wixstatic.com/video/8d3786_2653831eda1d44aeb39c8bade721a565/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E03
+https://video.wixstatic.com/video/8d3786_2e3d274953bb4add83e2896bfe974d4c/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E04
+https://video.wixstatic.com/video/8d3786_9305922d398144488f2efea79470f772/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E05
+https://video.wixstatic.com/video/8d3786_c0eefab418cf4373ac62a78981e0a82d/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E06
+https://video.wixstatic.com/video/8d3786_bca9d6af35844a4c80e151f91378568a/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E07
+https://video.wixstatic.com/video/8d3786_05486c165b88401babc9192911e5b8a7/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E08
+https://video.wixstatic.com/video/8d3786_31c4088cc8a64c8ca269fdf63a752756/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E09
+https://video.wixstatic.com/video/8d3786_d7ebdb21224c4ab3a4238d38e7ae4616/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E10
+https://video.wixstatic.com/video/8d3786_8ae49906ce09423a948e965cfb0ef464/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E11
+https://video.wixstatic.com/video/8d3786_41ab405d3e1740a1a907d3f765bc7cd2/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E12
+https://video.wixstatic.com/video/8d3786_1346e9658bb54b049c0649b17e463358/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E13
+https://sempra.pro/a1/out/old/7/2827/2827_dub_22012368temp1ep13.m3u8?a=2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E14
+https://video.wixstatic.com/video/8d3786_88cf5382a2ba4f02a3f89c3cedcda5bb/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E15
+https://video.wixstatic.com/video/8d3786_732e5c16522c4807a0fe77f199349039/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E16
+https://video.wixstatic.com/video/8d3786_6cd05b19e9a9476e8a1e23a922d85f92/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E17
+https://video.wixstatic.com/video/8d3786_343e603cfaec45ba9db6cd5460f6afe7/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E18
+https://video.wixstatic.com/video/8d3786_2a2eae2623384079bec4606cd66ebd77/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E19
+https://video.wixstatic.com/video/8d3786_6fc4956d97e34083839a99cd6286d8f5/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E20
+https://video.wixstatic.com/video/8d3786_c391e0cf04f84f469a96af808bc3831a/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E21
+https://video.wixstatic.com/video/8d3786_e3a1328c51554092be392aed4fdb362d/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E22
+https://video.wixstatic.com/video/8d3786_966865e319ae48aba0b54a51fd8d5474/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Diários de um Vampiro (S02)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 01
+https://video.wixstatic.com/video/8d3786_f0883c9bc5b14b0fbc84b1466f2b0131/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 02
+https://video.wixstatic.com/video/8d3786_24536eb0b5be4a3f82746b0e901e05e9/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 03
+https://video.wixstatic.com/video/8d3786_dff332ba478546699a94f689640d776a/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 04
+https://video.wixstatic.com/video/8d3786_b64d0a226ca1493791f46fca02632070/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 05
+https://video.wixstatic.com/video/8d3786_59aedd051ebf4e9f8b9691d1b23d0053/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 06
+https://video.wixstatic.com/video/8d3786_233c6e9866ac4cf0b50b05619e96fa04/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 07
+https://video.wixstatic.com/video/8d3786_8bb98f4b71c244f3bda21a43826ce0f3/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 08
+https://video.wixstatic.com/video/8d3786_82731eef18e54dd59a416bfc12b54c06/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 09
+https://video.wixstatic.com/video/8d3786_e364f538f040485582a7ebb068a032b8/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 10
+https://video.wixstatic.com/video/8d3786_54ca02417a9f46f7bf2ec7bc164967fc/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 11
+https://video.wixstatic.com/video/8d3786_35fed741a25b44b784e3b2147c9ec76f/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 12
+https://video.wixstatic.com/video/8d3786_d46d221378ed47d0a63bc768420b70e6/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 13
+https://video.wixstatic.com/video/8d3786_f2683606d37849bfaabb8403eeda2008/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 14
+https://video.wixstatic.com/video/8d3786_4ca220b845ef4301afac5d2f768e4232/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 15
+https://video.wixstatic.com/video/8d3786_d50ebe6cb40a48f08d0fa7bfaf7421fe/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 16
+https://video.wixstatic.com/video/8d3786_0d7aa6bde4a5429e889875dee6b78c87/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 17
+https://video.wixstatic.com/video/8d3786_0d7aa6bde4a5429e889875dee6b78c87/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 18
+https://video.wixstatic.com/video/8d3786_d4a3a498b5614b788ec6fd13fc936515/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 19
+https://video.wixstatic.com/video/8d3786_05582a0254ca48baaf3f4cde28d34927/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 20
+https://video.wixstatic.com/video/8d3786_68e7ff303eeb4758bb00c782db2a8427/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 21
+https://video.wixstatic.com/video/8d3786_622af73b8fc54a7a8bc47b7199c8af5b/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 22
+https://video.wixstatic.com/video/8d3786_159d4c737386403195ddb13d1a89a358/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Diários de um Vampiro (S03)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 01
+https://video.wixstatic.com/video/8d3786_1a33af057ddb443ea547f305c655d1c0/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 02
+https://video.wixstatic.com/video/8d3786_bea28cef34984a45b8e0db2399eae2b6/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 03
+https://video.wixstatic.com/video/8d3786_c9df1b6d972648c1b0fdceb42951bb59/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 04
+https://video.wixstatic.com/video/8d3786_d644dc2b2e904419b2cc09588f4cdcf5/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 05
+https://video.wixstatic.com/video/8d3786_ae30acd9d86342179baeb700087dcd25/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 06
+https://video.wixstatic.com/video/8d3786_1eafb0011be74ff49d23df3253ddf02b/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 07
+https://video.wixstatic.com/video/8d3786_a60260d887ea465d81163697a1896991/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 08
+https://video.wixstatic.com/video/8d3786_1a14cdfec9224778b017f5ab52035ffc/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 09
+https://video.wixstatic.com/video/8d3786_a851bff43fea417a86af869289dd40d1/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 10
+https://video.wixstatic.com/video/8d3786_7b2739ba5efb4cc790e0ef106a303d36/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 11
+https://video.wixstatic.com/video/8d3786_563940570c79471a88272906fac100b2/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 12
+https://video.wixstatic.com/video/8d3786_621a1595dea84e90aaebbb4e72d3e6ef/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 13
+https://video.wixstatic.com/video/8d3786_d8e1db0c988146829eb3443bf68dd6bc/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 14
+https://video.wixstatic.com/video/8d3786_9043859004ca44e2bf1085af20396d10/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 15
+https://video.wixstatic.com/video/8d3786_fe6707ff5bc94b44babdffc145b58004/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 16
+https://video.wixstatic.com/video/8d3786_3c905b63e1e04209a7f9c6198f8b41aa/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 17
+https://video.wixstatic.com/video/8d3786_6412a7c48c43439c8ee3f13b07db0423/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 18
+https://video.wixstatic.com/video/8d3786_3bbcef07a8004301ba308281126e932a/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 19
+https://video.wixstatic.com/video/8d3786_677bfd8a4a2a47508d71df92990f2196/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 20
+https://video.wixstatic.com/video/8d3786_acaca5f332044453b1bd3de22cc612f4/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 21
+https://video.wixstatic.com/video/8d3786_b06d020ba51b488188c5f0fb45f1c01b/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 22
+https://video.wixstatic.com/video/8d3786_fdd1ebb5bd73423989e2499f608bf22c/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Diários de um Vampiro (S04)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 01
+https://video.wixstatic.com/video/8d3786_973e3cde73664e5b9157bde45ad7be05/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 02
+https://video.wixstatic.com/video/8d3786_53a2bfb2578d44f499457d276f941a99/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 03
+https://video.wixstatic.com/video/8d3786_5afad5f23bd84ed78d581004fc6963a2/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 04
+https://video.wixstatic.com/video/8d3786_7fed823f8dba43d3b967f01e0c68e712/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 05
+https://video.wixstatic.com/video/8d3786_475113a41a3341cea2929648cc25af94/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 06
+https://video.wixstatic.com/video/8d3786_ec5006c124ed4aa998910d043d0b1d81/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 07
+https://video.wixstatic.com/video/8d3786_cd89623112b44bf6a67296df2a058177/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 08
+https://video.wixstatic.com/video/8d3786_bf0f671899ae4ff1bc0687d23c30078d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 09
+https://video.wixstatic.com/video/8d3786_f431b15b752d4a4c8055b385fc852325/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 10
+https://video.wixstatic.com/video/8d3786_069e8a38b81543eba5884d95f1b023fb/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 11
+https://video.wixstatic.com/video/8d3786_bd3ecc3a5acc4756be39127e1409b12f/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 12
+https://video.wixstatic.com/video/8d3786_1f8b979d97ac4faca85556d5e9856156/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 13
+https://video.wixstatic.com/video/8d3786_869a34a24d4349ee92659808d722afce/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 14
+https://video.wixstatic.com/video/8d3786_b6f316f14da743da83fb8c88fdc7c306/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 15
+https://video.wixstatic.com/video/8d3786_0cc998b0c6bf403c9ab7b68554e6263c/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 16
+https://video.wixstatic.com/video/8d3786_8d2ede2aa629481ba3d2a3b84fe27b8c/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 17
+https://video.wixstatic.com/video/8d3786_8be16cfe263b4182bab9af22841d013f/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 18
+https://video.wixstatic.com/video/8d3786_cd1f2148bac541028440cb0eefa31517/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 19
+https://video.wixstatic.com/video/8d3786_c1cca7356e5b4760911e2006a237e587/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 20
+https://video.wixstatic.com/video/8d3786_c964def56de345949b91500097e55c2c/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 21
+https://video.wixstatic.com/video/8d3786_8c609f0e8d0b4a08bbccc337751c5d0c/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 22
+https://video.wixstatic.com/video/8d3786_95a61be1f2834cdb88bd3093a04e7e5f/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 23
+https://video.wixstatic.com/video/8d3786_b1368f96da0c4cfba783cae9c5d5cda3/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Diários de um Vampiro (S05)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 01
+https://video.wixstatic.com/video/8d3786_471d4ae49b664b64a63ad1d3aae0f939/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 02
+https://video.wixstatic.com/video/8d3786_8f7c0384337344d4b6ceccd15ef43e69/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 03
+https://video.wixstatic.com/video/8d3786_1000ef3d4f36439bb486a7c81354a841/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 04
+https://video.wixstatic.com/video/8d3786_2b8ecb5189f84df19b2983626c49b312/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 05
+https://video.wixstatic.com/video/8d3786_1d0d7ace9e3b47e99f882db9a0616baa/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 06
+https://video.wixstatic.com/video/8d3786_a616ed2d51044b0a9a9ac4eb13bc2772/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 07
+https://video.wixstatic.com/video/8d3786_f1a1d0ace5334721bee323e55b5cc5fc/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 08
+https://video.wixstatic.com/video/8d3786_ae6cb0f5a7b54453a1ded5419e332be9/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 09
+https://video.wixstatic.com/video/8d3786_4e53be298a774b58932d80f0452d672f/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 10
+https://video.wixstatic.com/video/8d3786_636715fd90b24d708b48e9caf83850ca/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 11
+https://video.wixstatic.com/video/8d3786_b4316301bf8a4448abb3e92e39f7f1e2/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 12
+https://video.wixstatic.com/video/8d3786_735d0a4ba18b441984bcdc4de184e677/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 13
+https://video.wixstatic.com/video/8d3786_f393f060a5354fcd8ef3345084d3da4a/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 14
+https://video.wixstatic.com/video/8d3786_c4ceb2f52d7f46c6b5d9046a48b4b7c4/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 15
+https://video.wixstatic.com/video/8d3786_7f1d60235ee844bc9545bd56b6dcd247/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 16
+https://video.wixstatic.com/video/8d3786_60ef299b03e04b8bbf12d3926f295d8d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 17
+https://video.wixstatic.com/video/8d3786_597846fce43a4f3cbf4c2d0f2db07f5a/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 18
+https://video.wixstatic.com/video/8d3786_892585af0d274846ac4c732ead2a2501/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 19
+https://video.wixstatic.com/video/8d3786_d80315ee36124573ac5805878def4407/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 20
+https://video.wixstatic.com/video/8d3786_720e0764e8e5446a985ab9fc05991e36/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 21
+https://video.wixstatic.com/video/8d3786_82b6f9bfea5d41e28f0f675565bd758f/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 22
+https://video.wixstatic.com/video/8d3786_b04f47bdef5546b981a81d2593e89522/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Diários de um Vampiro (S06)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 01
+https://video.wixstatic.com/video/8d3786_a061b2d49183446f94f90ba5137ff214/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 02
+https://video.wixstatic.com/video/8d3786_35a4840dfa5c4d33ba5b990320027d38/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 03
+https://video.wixstatic.com/video/8d3786_33deb6b7105b4089837e3d0354ec104c/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 04
+https://video.wixstatic.com/video/8d3786_699e610fc2ce4ee28f841dcd629f745f/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 05
+https://video.wixstatic.com/video/8d3786_3894924882764d3293040f7bd3c0c16c/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 06
+https://video.wixstatic.com/video/8d3786_33ae0eb57e67430190a951240c5eac72/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 07
+https://video.wixstatic.com/video/8d3786_a9a51a5ef22d44c1bc794142389d9c7c/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 08
+https://video.wixstatic.com/video/8d3786_a6c8045c64de44c3bab945d759811797/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 09
+https://video.wixstatic.com/video/8d3786_7f14eefe0eeb425db2286ab99ccd030f/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 10
+https://video.wixstatic.com/video/8d3786_a9c0ab6a2d5a48e4803fe26a4a707a31/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 11
+https://video.wixstatic.com/video/8d3786_b5fada68cab4401fb282336d799fc18c/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 12
+https://video.wixstatic.com/video/8d3786_5815a82256f34f4089c037e44a85ffbe/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 13
+https://video.wixstatic.com/video/da787a_3b30fe62fb7742aab0d9d8627921c5a7/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 14
+https://video.wixstatic.com/video/da787a_bb4b0d059ede48dba673a342d48a58c6/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 15
+https://video.wixstatic.com/video/8d3786_6fce7bc4254f47ebaa3dd82430a24296/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 16
+https://video.wixstatic.com/video/8d3786_5ceb761971e14a05b761f895ff308f09/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 17
+https://video.wixstatic.com/video/8d3786_4a4e218ae84c4ea9a60597fcad69d532/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 18
+https://video.wixstatic.com/video/8d3786_782f96b64a434bf0b4d3ed6ec4cdc63b/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 19
+https://video.wixstatic.com/video/8d3786_e28019064d8e44e482f01f68ddc22f58/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 20
+https://video.wixstatic.com/video/8d3786_3579313ca43948f29cf6fcad77230595/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 21
+https://video.wixstatic.com/video/8d3786_999c0d6c9b134992ab3f1351f360a760/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 22
+https://video.wixstatic.com/video/8d3786_26b2afaaa3fc43e48ca9c61290ac8eed/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Diários de um Vampiro (S07)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 01
+https://video.wixstatic.com/video/8d3786_c64a800eef2d4faa9fe6375de0023722/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 02
+https://video.wixstatic.com/video/db47f8_feb25510f68c4c3184a10d273f0a4882/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 03
+https://video.wixstatic.com/video/8d3786_23fed73b43014e85bf24e6233b45fcd2/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 04
+https://video.wixstatic.com/video/8d3786_6108b4095e894970abe8466f74310a92/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 05
+https://video.wixstatic.com/video/8d3786_d1064fe74e9747aab81a899963a41f52/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 06
+https://video.wixstatic.com/video/8d3786_1fc30765e1d64ab3aa2bbe22099f13e6/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 07
+https://video.wixstatic.com/video/8d3786_6d51a69faae04efeb4ca4ee8866d3072/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 08
+https://video.wixstatic.com/video/8d3786_fbf4729d82074d10bf029b21f7fabb3e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 09
+https://video.wixstatic.com/video/8d3786_7331a5dace4949d283e68676f1b549f1/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 10
+https://video.wixstatic.com/video/8d3786_6f811804f8aa45b7b7a1d02729170daa/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 11
+https://video.wixstatic.com/video/8d3786_4ce0588b596a48e08e2105e826a3f4bb/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 12
+https://video.wixstatic.com/video/8d3786_179a9ebd8c4e4480a5a70884c610d37c/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 13
+https://video.wixstatic.com/video/8d3786_986792ccfe4840fa94166f80f7c72d4c/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 14
+https://video.wixstatic.com/video/8d3786_48c6126d352c4ce2b19fb85f2e68ace2/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 15
+https://video.wixstatic.com/video/8d3786_ba1c6840716c4f7ea4d3a0a0a170750d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 16
+https://video.wixstatic.com/video/8d3786_53c1faddcf36474e839d79885ef923ee/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 17
+https://video.wixstatic.com/video/8d3786_468c0f51bf9341cb8e7780627f185ecb/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 18
+https://video.wixstatic.com/video/8d3786_dda76473a4c84d4eaf04f661bc9fe8fb/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 19
+https://video.wixstatic.com/video/8d3786_83a6bfbbec9940a09e7730f24176f38a/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 20
+https://video.wixstatic.com/video/8d3786_03302e29b1a74729b6f62cb1f691b98a/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 21
+https://video.wixstatic.com/video/8d3786_8b4b817118bc474592b1a7d67e0065dd/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 22
+https://video.wixstatic.com/video/8d3786_e24556119c0f498ba6f102b04aa3d05c/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Diários de um Vampiro (S08)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 01
+https://video.wixstatic.com/video/8d3786_1eef77b242a8417783ef7cd75b5a3c45/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg"group-title="Série |  Diários de um vampiro  S08",S08 E 02
+https://video.wixstatic.com/video/8d3786_41941b5e928d48929fcfd4bbbc28312d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 03
+https://video.wixstatic.com/video/8d3786_2660a8febb9a49deb160ee6e1b9b6b76/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 04
+https://video.wixstatic.com/video/8d3786_b0f16d5fb63b42f48d03a07746a7f68a/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 05
+https://video.wixstatic.com/video/8d3786_b9b663777de042c0a4638bf110448487/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 06
+https://video.wixstatic.com/video/8d3786_4032280884934eca8f19bb21d1236bff/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 07
+https://video.wixstatic.com/video/8d3786_6cc29ec3c1be4585a3f3e751a4a8210b/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 08
+https://video.wixstatic.com/video/8d3786_4ab793d036ec436e97a2f49c2ae65561/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 09
+https://video.wixstatic.com/video/8d3786_8089a128f80c45cda46ccf29e53edf26/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 10
+https://video.wixstatic.com/video/8d3786_418c69910a074e1ca5dacdce6013352b/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg"group-title="Série |  Diários de um vampiro  S08",S08 E 11
+https://video.wixstatic.com/video/8d3786_553c0438945e45648e97d8d83128defb/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 12
+https://video.wixstatic.com/video/8d3786_80d1d0ab107345b3bfee6c3e78c74e7d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 13
+https://video.wixstatic.com/video/8d3786_61a2868b715747248c434e52deccd507/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 14
+https://video.wixstatic.com/video/8d3786_40998d208fcc4fd7b9c01a4df0f9c171/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 15
+https://video.wixstatic.com/video/8d3786_e8340299bcf243e88831a0911fc669b1/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 16
+https://video.wixstatic.com/video/8d3786_1efa5a9e3aee46a28a14cf318bd60c3a/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Os Originais (S01)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 01
+https://video.wixstatic.com/video/8d3786_042aaf3bdd7d41e9b9189b2d59b4b8f3/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 02
+https://video.wixstatic.com/video/8d3786_92b2ac365d9f4508a4dbf7542345f575/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 03
+https://video.wixstatic.com/video/8d3786_d36bf0cae8cb4f93881f37b53373621e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 04
+https://video.wixstatic.com/video/8d3786_163d1eeae67c4b42861ffd18ace0d861/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 05
+https://video.wixstatic.com/video/8d3786_1df8c127703c4b85a03edbf39e4899a7/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 06
+https://video.wixstatic.com/video/8d3786_b37e009439ac46f69943d9bc7b8e7d90/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 07
+https://video.wixstatic.com/video/8d3786_e98351f5f99444a58398686682b31953/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 08
+https://video.wixstatic.com/video/8d3786_75a950bb21934e82adad22312a6ec96e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 09
+https://video.wixstatic.com/video/8d3786_13140cb489a342c7ae3eaaa609bf0555/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 10
+https://video.wixstatic.com/video/8d3786_2c4b2b453f2948e19eda7a900489fab9/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 11
+https://video.wixstatic.com/video/8d3786_42ab4c24438848f2adeabb2ffb93e2e8/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 12
+https://video.wixstatic.com/video/8d3786_43bbaa78cf6a4862a5f9a04fca0badfe/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 13
+https://video.wixstatic.com/video/8d3786_78585c4d158f4813b5bfaae533828115/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 14
+https://video.wixstatic.com/video/8d3786_57a1ae0a1a044f0aa85113372271c496/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 15
+https://video.wixstatic.com/video/8d3786_56846220f8714607b5f3d8351e0aba3b/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 16
+https://video.wixstatic.com/video/8d3786_a35bbd1e41324a5bbf20a18f76a87ec8/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 17
+https://video.wixstatic.com/video/8d3786_9a7fb7cdd2ff44b5af908d990fb8b53f/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 18
+https://video.wixstatic.com/video/8d3786_012b3e4387314cc2bf2a18cf062d3f5a/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 19
+https://video.wixstatic.com/video/8d3786_4ecbe824dc5b45679c38cbee81beb9b4/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 20
+https://video.wixstatic.com/video/8d3786_dba511e9a823499fbfcd5c08c4c40d62/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 21
+https://video.wixstatic.com/video/8d3786_800ba3e2c8584b1a988cc7303849ab0e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 22
+https://video.wixstatic.com/video/8d3786_f462070b2744415db408d8c900ce5009/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Os Originais (S02)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 01
+https://video.wixstatic.com/video/8d3786_2f55f5be155046a0bfc3bb68c1d686ad/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 02
+https://video.wixstatic.com/video/8d3786_b46f3d0157f7430f8eb51c67d28453e1/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 03
+https://video.wixstatic.com/video/8d3786_7cf9f59e4472467d8babf692c267a40d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 04
+https://video.wixstatic.com/video/8d3786_6839efd027b04afebf1139aff8dbfa84/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 05
+https://video.wixstatic.com/video/8d3786_20ce9a085caf41a19905ed58233b886e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 06
+https://video.wixstatic.com/video/8d3786_6ed43328500a46478245984cbec2593c/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 07
+https://video.wixstatic.com/video/8d3786_bcecd46a16854ac69fc2a1de471c217c/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 08
+https://video.wixstatic.com/video/8d3786_a3ff618d42bd411f99345738e1229448/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 09
+https://video.wixstatic.com/video/daabbf_88fb092b11ea4aa3a6341cf7abf65920/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 10
+https://video.wixstatic.com/video/8d3786_5def3f9e17b5415394265939fdd5a7fe/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 11
+https://video.wixstatic.com/video/8d3786_d3567a9e0f75447a81a814dc9c916454/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 12
+https://video.wixstatic.com/video/8d3786_10fc48bd33d243d49a14f327271d593f/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 13
+https://video.wixstatic.com/video/8d3786_ee31cc993b4246bca1ff5c49d37132c4/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 14
+https://video.wixstatic.com/video/8d3786_b434c6a32587493095cba1917b5d80b8/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 15
+https://video.wixstatic.com/video/8d3786_dd06d4d58e7c42d89b5f55d64f0899d2/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 16
+https://video.wixstatic.com/video/8d3786_9c4325e4d7384605bd4f184d64658f0e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 17
+https://video.wixstatic.com/video/8d3786_26472c88f58d44c99a5d1684bda9f6c9/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 18
+https://video.wixstatic.com/video/8d3786_1d4cf67f34474fc291b3d7baf083702e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 19
+https://video.wixstatic.com/video/8d3786_7a80a35b8fc44f4098068fb5859efedd/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 20
+https://video.wixstatic.com/video/8d3786_ca61f568c1d54422aa5bd8da830bec7f/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 21
+https://video.wixstatic.com/video/8d3786_0af24a53450c4d3cbd68ebc789637fe7/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 22
+https://video.wixstatic.com/video/8d3786_e61adda177424fa9ae27f27b0959d58c/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Os Originais (S03)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 01
+https://video.wixstatic.com/video/8d3786_0e51b3c806f045d381e042a0b60d56f2/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 02
+https://video.wixstatic.com/video/8d3786_c941961e329040c0a1024ff154dcd873/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 03
+https://video.wixstatic.com/video/8d3786_1520910d712d446a9cc160691321d7bc/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 04
+https://video.wixstatic.com/video/8d3786_b97b08fa05f5496fa9305ef810c945d8/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 05
+https://video.wixstatic.com/video/8d3786_521377469e46435e806754bc63a334f2/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 06
+https://video.wixstatic.com/video/8d3786_b895767fcf8e427bbbb340e12a7dc9c5/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 07
+https://video.wixstatic.com/video/8d3786_10c6c5303eb14288ad93da24c4404df9/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 08
+https://video.wixstatic.com/video/8d3786_29e6b294d7c74c749c1ce3a739cbada7/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 09
+https://video.wixstatic.com/video/8d3786_6509a2540eb74b9d94e72e9d3cf3424e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 10
+https://video.wixstatic.com/video/8d3786_9c1b7ff6bacb4fc69ccf786b93c91cef/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 11
+https://video.wixstatic.com/video/8d3786_642a9eab47e749568a4a7271d2fa4097/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 12
+https://video.wixstatic.com/video/8d3786_5d74268b9f8448b09036ef596b89aaf4/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 13
+https://video.wixstatic.com/video/8d3786_9010b6a44dbb455095b3fae04bbb63fc/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 14
+https://video.wixstatic.com/video/8d3786_a5e2ced8c3d04102b63f772b14c7a5cf/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 15
+https://video.wixstatic.com/video/8d3786_afd3e3d8b476490aac56949228594501/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 16
+https://video.wixstatic.com/video/daabbf_658cf9a729824e91a140215b686e764d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 17
+https://video.wixstatic.com/video/8d3786_322673acd5be45ba88b19ecfbab553d9/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 18
+https://video.wixstatic.com/video/8d3786_4ae9d3a8aa3d426f940463fb7a07a583/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 19
+https://video.wixstatic.com/video/8d3786_289d7bc45fe942049896956550ed0ab4/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 20
+https://video.wixstatic.com/video/8d3786_208cf132171c4795aef95d89983c007a/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 21
+https://video.wixstatic.com/video/8d3786_3b44264b3dce4d6fab91c29864461ff5/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 22
+https://video.wixstatic.com/video/8d3786_dd4eff0abd8342939ac032414dd8691b/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Os Originais (S04)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 01
+https://video.wixstatic.com/video/daabbf_0a7e63d920354c76a7a320ab906176fd/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 02
+https://video.wixstatic.com/video/daabbf_486dc1cb143e4e1fb30cb4b38972e6f4/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 03
+https://video.wixstatic.com/video/daabbf_b29f12dcc69644babebd7419410b9eac/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 04
+https://video.wixstatic.com/video/daabbf_b44712c81040452dab7b48acf2515f48/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 05
+https://video.wixstatic.com/video/daabbf_919ebdfb7be349a3908ed64e3d4633c2/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 06
+https://video.wixstatic.com/video/daabbf_8d118e947b55426b98bdd963747cc4ac/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 07
+https://sempra.pro/a1/out/old/7/2876/2876_dub_temp4ep07.m3u8?a=2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 08
+https://video.wixstatic.com/video/daabbf_92b49126ce4d4668a42d5294f743069e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 09
+https://video.wixstatic.com/video/daabbf_243b430e3fc24b64b9e3d96546acfb9d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 10
+https://video.wixstatic.com/video/daabbf_b472d19397e34f37bbf62f8cc5048500/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 11
+https://video.wixstatic.com/video/daabbf_00ff110b1c3f488e96db154421fe1968/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 12
+https://video.wixstatic.com/video/daabbf_ce83f22f2bc048859e83d6398558bf9d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 13
+https://video.wixstatic.com/video/daabbf_236ca2e082e34662b2ca718ef3c0d6f5/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Os Originais (S05)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 01
+https://video.wixstatic.com/video/daabbf_bad4caf1767748e586a2bf9b3fde76b5/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 02
+https://video.wixstatic.com/video/daabbf_f2c8f9f4d2d5460e9e8770d46378e2a8/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 03
+https://video.wixstatic.com/video/daabbf_01d8c8cdc8264fd4a0f4f3a282e7144a/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 04
+https://video.wixstatic.com/video/daabbf_15618fad9d5147c8b92f9c455da834eb/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 05
+https://video.wixstatic.com/video/daabbf_79acf0ca70664c5a8fb03d04a50f5a45/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 06
+https://video.wixstatic.com/video/daabbf_5933b27873db4a5b9791092bfaaeb574/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 07
+https://video.wixstatic.com/video/daabbf_12af72f67b1a4d6aa34caddc44b2cac7/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 08
+https://video.wixstatic.com/video/daabbf_a596fac86aa340b5876a0062e0744723/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 09
+https://video.wixstatic.com/video/daabbf_6c6e652b918c4c9b9311abea4c7a0fd3/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 10
+https://video.wixstatic.com/video/da787a_9f16a945cbfe4f2a85fac2157ddaec47/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 11
+https://video.wixstatic.com/video/da787a_fc957a45f6e846b093f5bb5201ea8503/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 12
+https://video.wixstatic.com/video/da787a_b70de526dc314b4fb49153d250580d5d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 13
+https://video.wixstatic.com/video/da787a_c88fa1a7c4204651878711a1399d2aa3/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | La Casa de Papel (S01)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 01
+https://video.wixstatic.com/video/8d3786_251e5a43d9384b21ab6525a558d1d830/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 02
+https://video.wixstatic.com/video/8d3786_dc87babb750b4600ab81da3ed110c8aa/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 03
+https://video.wixstatic.com/video/8d3786_e18fcab18c4a48deb8909745e3e82a10/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 04
+https://video.wixstatic.com/video/8d3786_dfe121ca96584939ac0f62e14f792970/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 05
+https://video.wixstatic.com/video/8d3786_534d6b585b354198813bdf4f05b09277/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 06
+https://video.wixstatic.com/video/8d3786_c15e3986f8be44d18e527131bec4bd52/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 07
+https://video.wixstatic.com/video/8d3786_b8d48635af6a48d0a62d4dd97e922d93/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 08
+https://video.wixstatic.com/video/8d3786_49c87485772d4c7faec7e44ecd851181/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 09
+https://video.wixstatic.com/video/8d3786_0ba8e3d825ab491aa69b641cd31266dc/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 10
+https://video.wixstatic.com/video/8d3786_50de49bd126846b59b3465c0a9be0fb8/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 11
+https://video.wixstatic.com/video/8d3786_859e7c9908ad45dea856616227d58acc/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 12
+https://video.wixstatic.com/video/8d3786_f02ee8d937c64550899cff3f8d26310b/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 13
+https://video.wixstatic.com/video/8d3786_3866879e25cf4e25882400d36c66d7af/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | La Casa de Papel (S02)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 01
+https://video.wixstatic.com/video/8d3786_f331e413b8ed43fc9e67aecca9650ecf/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 02
+https://video.wixstatic.com/video/8d3786_1cb376bd89af45299776aa2d187e9f5e/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 03
+https://video.wixstatic.com/video/8d3786_cc6ae32d76e745389ba2db9cd1b0acbb/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 04
+https://video.wixstatic.com/video/8d3786_f7946319a8f44fc08f18bc122759dc3c/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 05
+https://video.wixstatic.com/video/8d3786_fcf278a0d7c3495ebd4a297e458ba9b8/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 06
+https://video.wixstatic.com/video/8d3786_868d87f3c7244af69ddf9cb589917990/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 07
+https://video.wixstatic.com/video/8d3786_20df9bdf358e4c2a94e460c86ccde3ec/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 08
+https://video.wixstatic.com/video/8d3786_cfdd251bf936406b8b4e276de2eb3971/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 09
+https://video.wixstatic.com/video/8d3786_2d706bcad54f4c35b46c0843fd1f148a/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | La Casa de Papel (S03)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 01
+https://video.wixstatic.com/video/8d3786_b398eb01ce34448bb555adfa574b25fc/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 02
+https://video.wixstatic.com/video/8d3786_bac715e571ee482b801a873d2a95ebdb/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 03
+https://video.wixstatic.com/video/8d3786_7fafe936010e49f6bf4efcd0d104607d/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 04
+https://video.wixstatic.com/video/8d3786_956f2df41422487bbdc8d326a1869596/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 05
+https://video.wixstatic.com/video/8d3786_9b6b885dffb743a9a9bfd75ff05e8124/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 06
+https://video.wixstatic.com/video/8d3786_1f0762597f8e4109ae490bcf64f3750b/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 07
+https://video.wixstatic.com/video/8d3786_5ef49ab71f0642f896453c6f4bc339a2/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 08
+https://video.wixstatic.com/video/8d3786_66b3a3957ceb42a8a4d1a8fc1b5f7aad/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | La Casa de Papel (S04)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 01
+https://video.wixstatic.com/video/8d3786_1c4a97b94f04479cb50a9d701a02d063/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 02
+https://video.wixstatic.com/video/8d3786_ac4222d9ffbf48a186b349be5a4c6895/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 03
+https://video.wixstatic.com/video/8d3786_53831ad9e4fd4dd788ef2d383de1e11b/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 04
+https://video.wixstatic.com/video/8d3786_dc8675179f124a64adddc2ebe034d1d2/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 05
+https://video.wixstatic.com/video/8d3786_734981d1bbde4b6b9c262a9788c4e015/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 06
+https://video.wixstatic.com/video/8d3786_5224e0ee544e417f8b14cb55867ce2aa/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 07
+https://video.wixstatic.com/video/8d3786_fe360c49ace44205a888dbdb01316c55/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 08
+https://video.wixstatic.com/video/8d3786_11d8e22b18174fc5a09ebb2d8e623be0/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | How to Get Away with Murder (S01)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E01
+https://video.wixstatic.com/video/8d3786_d24d988c6a084cddb8e8353c46e68e28/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E02
+https://video.wixstatic.com/video/8d3786_23f10c40b056445183d9432e234bc566/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E03
+https://video.wixstatic.com/video/8d3786_052fdbdedd1f4648b7f38e249af01bd1/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E04
+https://video.wixstatic.com/video/8d3786_36245740b0b24d1d8909613b2e1fb97b/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E05
+https://video.wixstatic.com/video/8d3786_07971fdb665541ce9e2c4f98a9b70fbc/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E06
+https://video.wixstatic.com/video/8d3786_2d3a8f4d0eaa401f81b92a40dc375732/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E07
+https://video.wixstatic.com/video/8d3786_b8014d6ace47458584343e908a73e422/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg” group-title="Serie |  How to Get Away SÉRIE S01",S01 E08
+https://video.wixstatic.com/video/8d3786_fc5efddc5bd4475f8120e4be60574f85/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E09
+https://video.wixstatic.com/video/8d3786_065d0b5520674f00b86ab4e570c84170/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E10
+https://video.wixstatic.com/video/8d3786_3aae622b81e34dfc93e19bdb19d9d4f4/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E11
+https://video.wixstatic.com/video/8d3786_58ecef7e123b43c28a474d42cc25645c/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E12
+https://video.wixstatic.com/video/8d3786_a20747a8a1474fbe916193f10e8c43b7/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E13
+https://video.wixstatic.com/video/8d3786_e798c287ecc14ceeb78585200871fba3/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E14
+https://video.wixstatic.com/video/8d3786_fed4231e5c484a5e81bfb411f4938088/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E15
+https://video.wixstatic.com/video/8d3786_498fb8b645eb47669756162379105ed0/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | How to Get Away with Murder (S02)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E01
+https://video.wixstatic.com/video/8d3786_4c90f3433d2c4021aaf9281a2b507773/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E02
+https://video.wixstatic.com/video/8d3786_18b73089abd94c29821882870562f6fa/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E03
+https://video.wixstatic.com/video/8d3786_8f7d98624ae749f88c0604ad5df75712/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E04
+https://video.wixstatic.com/video/8d3786_970c17e2d30e48b08c4beebe427154f8/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E05
+https://video.wixstatic.com/video/8d3786_8307627b857a45f6be5b52ef95a18e5d/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E06
+https://video.wixstatic.com/video/8d3786_64bd14e65e194775a8bff0c17b9b7ff3/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E07
+https://video.wixstatic.com/video/8d3786_88b8b91c5c9c4b0da375a1251215b781/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E08
+https://video.wixstatic.com/video/8d3786_f1e0a7a68ad24125b86237e380ceda73/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E09
+https://video.wixstatic.com/video/8d3786_1e29fff114604a4884afe0f3c89499c3/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E10
+https://video.wixstatic.com/video/8d3786_f890744a9d1e43adb4535242c6390445/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E11
+https://video.wixstatic.com/video/8d3786_b1f6ce79f7694f1ab89dbb09f7fb95bc/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E12
+https://video.wixstatic.com/video/8d3786_798862acfef747d59cca75f4a197d22f/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E13
+https://video.wixstatic.com/video/8d3786_deb82a19b1b84e0b80c3eb928d32261f/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E14
+https://video.wixstatic.com/video/8d3786_0fe66e26139a4b7cb02b9b453303cb89/720p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E15
+https://video.wixstatic.com/video/8d3786_8e65c23d32724aa28736a944aaaf6231/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | How to Get Away with Murder (S03)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E01
+https://video.wixstatic.com/video/8d3786_5aed75a0978c43d0b465cc5d90b44179/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E02
+https://video.wixstatic.com/video/8d3786_b63a7b824ae74da1988c4625274cf998/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E03
+https://video.wixstatic.com/video/8d3786_121885c993554ecb83ce7974501edc59/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E04
+https://video.wixstatic.com/video/8d3786_ef1074374d0d4225a733876d36a61137/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E05
+https://video.wixstatic.com/video/8d3786_ef1074374d0d4225a733876d36a61137/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E06
+https://video.wixstatic.com/video/8d3786_56fdedc9b7c84cafa4e88e468d658295/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E07
+https://video.wixstatic.com/video/8d3786_283c9860961144758fa84b3f47158014/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E08
+https://video.wixstatic.com/video/8d3786_f1a8409691244f0fbc85c3e5ed4767cd/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E09
+https://video.wixstatic.com/video/8d3786_deaeba6c95624f9f92fb072f8ccc7ad1/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E10
+https://video.wixstatic.com/video/8d3786_b91a546e387641f6a3be912280724ea5/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E11
+https://video.wixstatic.com/video/8d3786_5fee31bd0ac94f899af5ce0074530ad4/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E12
+https://video.wixstatic.com/video/8d3786_8486f54cb1384271bef4f2d36913963e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E13
+https://video.wixstatic.com/video/8d3786_748c885b79e44117b316e15e3deb59c2/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E14
+https://video.wixstatic.com/video/8d3786_9c53e618f03c4477918c995ffe326262/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E15
+https://video.wixstatic.com/video/8d3786_4a9dd0fc051b4242aab0214dbdf8181a/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | How to Get Away with Murder (S04)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E01
+https://video.wixstatic.com/video/8d3786_bf0ff91b7cdb41fdbdc76b8c30dbbd74/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E02
+https://video.wixstatic.com/video/8d3786_bf0ff91b7cdb41fdbdc76b8c30dbbd74/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E03
+https://video.wixstatic.com/video/8d3786_57bfb26a562e4c5782078fb0f3c2cfdf/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E04
+https://video.wixstatic.com/video/8d3786_1203194b059249f1b51617b6e25b2acf/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E05
+https://video.wixstatic.com/video/8d3786_709ba1c20ee24823963920b87f560ed2/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E06
+https://video.wixstatic.com/video/8d3786_eebff9d60b6b48218151323791636504/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E07
+https://video.wixstatic.com/video/8d3786_d168f58e533a43c3a58f0018cb5cf8a7/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E08
+https://video.wixstatic.com/video/8d3786_69d684f56f01434b85f5aa50378fc8eb/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E09
+https://video.wixstatic.com/video/8d3786_69d684f56f01434b85f5aa50378fc8eb/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E10
+https://video.wixstatic.com/video/8d3786_f266d50cdf1045e58f8795b530fdb10a/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E11
+https://video.wixstatic.com/video/8d3786_1674f7b1bbea49e6b43a5daf4c8aea5b/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E12
+https://video.wixstatic.com/video/8d3786_393468fcca1c4381ae61a74698e52407/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E13
+https://video.wixstatic.com/video/8d3786_9a3d95fce1214a37bac75651014f817f/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E14
+https://video.wixstatic.com/video/8d3786_44341feba140456b896ae396a42cce2f/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E15
+https://video.wixstatic.com/video/8d3786_f609284fe4b9472fba5b3730cd8b5711/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | How to Get Away with Murder (S05)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E01
+https://video.wixstatic.com/video/8d3786_01a0b4f58a13490083b7cb0bef6d12d5/360p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E02
+https://video.wixstatic.com/video/8d3786_afeda66b26b442ffbe1dc7450d2d8ddf/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E03
+https://video.wixstatic.com/video/8d3786_f61896334b7b40fa90b03e4603199d2a/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E04
+https://video.wixstatic.com/video/8d3786_cdf496801e3246aa9aaf4311aedc9653/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E05
+https://video.wixstatic.com/video/8d3786_2453f92380524217a7c3602a8996786d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E06
+https://video.wixstatic.com/video/8d3786_fa2b29d81e0d47e58ec0046bd0b00f24/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E07
+https://video.wixstatic.com/video/8d3786_b75e2c7e6877427eb1d1ae859f69afb7/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E08
+https://video.wixstatic.com/video/8d3786_caeb6943e236440b9fb585b49ac0dea9/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E09
+https://video.wixstatic.com/video/8d3786_e285a8647cf642b49f298d4a261d852e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E10
+https://video.wixstatic.com/video/8d3786_7e8a18c622b54426bce5b155b11c579a/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E11
+https://video.wixstatic.com/video/8d3786_c9d85e6c24134716bf26bd57315e624b/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E12
+https://video.wixstatic.com/video/8d3786_11fa66ba314c420f9da25bd05eabd556/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E13
+https://video.wixstatic.com/video/8d3786_987b14a3c53a4af180e11b8cc34c80ac/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E14
+https://video.wixstatic.com/video/8d3786_57efc58a5cd348bcbbb6f8a12c8773ef/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E15
+https://video.wixstatic.com/video/8d3786_8f4c8641669a4a14b00b338c5340090d/480p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | How to Get Away with Murder (S06)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E01
+https://video.wixstatic.com/video/daabbf_d3ab6caef8184dcb8ae60fb94c5cc9b6/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E02
+https://video.wixstatic.com/video/daabbf_ddbcc79821e2470d9aca917402ac716e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E03
+https://video.wixstatic.com/video/daabbf_2d1e3bf8fc7444cc9fbd6d1094c4aca7/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E04
+https://video.wixstatic.com/video/daabbf_c226d75eaca74d94a050213507dc5b8b/360p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E05
+https://video.wixstatic.com/video/daabbf_ce3b918aea3f4533bb999fc93386996f/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E06
+https://video.wixstatic.com/video/daabbf_6668ce1390ab4a73a0d3b83318a881fa/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E07
+https://video.wixstatic.com/video/daabbf_fb4372b0d3d04ea799451395fa682aa8/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E08
+https://video.wixstatic.com/video/daabbf_dea9ae1fa64042e79975595772892b10/360p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E09
+https://video.wixstatic.com/video/daabbf_89f020d1292943b2bff8dfee73a6bce5/360p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E10
+https://video.wixstatic.com/video/daabbf_500462d3b60d465180669bde8cb7830e/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E11
+https://video.wixstatic.com/video/daabbf_e00de04df1364fda836f4e81945ceb8d/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E12
+https://video.wixstatic.com/video/daabbf_8ef4a662a2214dc7a8129a277a40d110/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E13
+https://video.wixstatic.com/video/daabbf_e2980a1fb70d42eaa2e615810666c3f7/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E14
+https://video.wixstatic.com/video/daabbf_a025fcd39d64422ca4197a7c04385d6b/480p/mp4/file.mp4?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E15
+https://video.wixstatic.com/video/daabbf_d69ff4f6e0fa42fabd59a14862789e21/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | Ted (S05)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RuLLdJt.png" group-title="Serie | TED A SÉRIE S01",S01 E01
+http://shd12.oneplayer.site/token/SHD12/201834/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RuLLdJt.png" group-title="Serie | TED A SÉRIE S01",S01 E02
+http://shd12.oneplayer.site/token/SHD12/201834/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RuLLdJt.png" group-title="Serie | TED A SÉRIE S01",S01 E03
+http://shd12.oneplayer.site/token/SHD12/201834/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RuLLdJt.png" group-title="Serie | TED A SÉRIE S01",S01 E04
+http://shd12.oneplayer.site/token/SHD12/201834/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RuLLdJt.png" group-title="Serie | TED A SÉRIE S01",S01 E05
+http://shd12.oneplayer.site/token/SHD12/201834/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RuLLdJt.png" group-title="Serie | TED A SÉRIE S01",S01 E06
+http://shd12.oneplayer.site/token/SHD12/201834/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RuLLdJt.png" group-title="Serie | TED A SÉRIE S01",S01 E07
+http://shd12.oneplayer.site/token/SHD12/201834/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RuLLdJt.png" group-title="Serie | TED A SÉRIE S01",S01 E08
+http://shd12.oneplayer.site/token/SHD12/201834/1x8.mp4
+
+############################################################################
+# Canais | Pluto TV REALITY
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Canais | REALITY",MTV Com o Ex
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="Canais | REALITY",MTV Shore
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Of1yJaj.png" group-title="Canais | REALITY",MTV Pluto TV
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oHVMcJ9.png" group-title="Canais | REALITY",MTV Are you the One?
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="Canais | REALITY",MTV Catfish
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="Canais | REALITY",MTV Drag
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="Canais | REALITY",MTV Jovens e Mães
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="MasterChef" tvg-logo="https://imgur.com/qKwrAUT.png" group-title="Canais | REALITY",MasterChef
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",SONY ONE SHARK TANK
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+
+############################################################################
+# Canais | CLIPES E MÚSICA
+############################################################################
+
+#EXTINF:-1 tvg-id="TV CAFÉ SERTANEJO CAIPIRA" tvg-name="TV SERTANEJO CAIPIRA" tvg-logo="https://i.imgur.com/bTYZqSS.jpeg" group-title="Canais | CLIPES",TV SERTANEJO CAIPIRA HD
+http://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="TOP TV HD" tvg-name="TOP TV HD" tvg-logo="https://i.imgur.com/KJ6QKPf.jpeg" group-title="Canais | CLIPES",TOP TV HD
+http://isaocorp.cloudecast.com/toptv/index.m3u8?a=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G5SWqHS.png" group-title="Canais | MÚSICA",TOP TV FHD
+https://isaocorp.cloudecast.com/toptv/index.m3u8?a=1
+
+#EXTINF:-1 tvg-id="Topmixtv" tvg-name="Topmixtv" tvg-logo="https://i.imgur.com/ouJ3Xhl.png" group-title="Canais | CLIPES",TOP MIX TV HD
+http://video01.logicahost.com.br/topmixtvpopantigo5/topmixtvpopantigo5/chunklist_w1328275361.m3u8?a=1
+
+#EXTINF:-1 tvg-id="VINTAGE" tvg-name="VINTAGE" tvg-logo="https://i.imgur.com/l0eUCPV.png" group-title="Canais | CLIPES",Vintage HD
+https://video01.kshost.com.br/rogerio7271/rogerio7271/playlist.m3u8?a=1
+
+#EXTINF:-1 tvg-id="m2o" tvg-name="M2o" tvg-logo="https://i.imgur.com/caVE0XH.jpeg" group-title="Canais | CLIPES", M2o HD
+http://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8?a=1
+
+#EXTINF:-1 tvg-id="MusicTop" tvg-name="MusicTop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2DPOKFJKwcnLtPK6NOJl2F8axaxvZhV5dzqyRKZKExqPAsLg2Th0nlvF&s=10" group-title="Canais | CLIPES",Music Top HD
+https://Jr10N.short.gy/musicTop_live/tv.cdn3.nxplay_primebox/index1.m3u8
+
+#EXTINF:-1 tvg-id="Retro music" tvg-name="Retro music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgyKKMTR-PbLShNn7M7HQEY-S51A7qP4HN_kvaaaZumbUDreegq1wmRJw9&s=10" group-title="Canais | CLIPES",Retro Music HD
+https://Jr10N.short.gy/RetroTV_cdn.mediacore/smil.index1.m3u8
+
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="PlayTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFcuaZ4y6sLsQZ5rLPWkg6B1xMB3acaq1DbtT3wcbHdeHQKWEwyo1--v2R&s=10" group-title="Canais | CLIPES",PlayTV HD
+https://Jr10N.short.gy/playtv_live.prime_video/cdn2.movies/index1.m3u8
+
+############################################################################
+# Canais | MÚSICA (Pluto TV e Outros)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tkGS2FS.png" group-title="Canais | MÚSICA",MTV Classic
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p3BDDSY.png" group-title="Canais | MÚSICA",MTV Rocks
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-id="MTV Biggest Pop" tvg-name="MTV Biggest Pop" tvg-logo="https://imgur.com/8uGhB6m.png" group-title="Canais | MÚSICA",MTV Biggest Pop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Pluto TV Shows por Stingray" tvg-logo="https://imgur.com/q5BwJwX.png" group-title="Canais | MÚSICA",Pluto TV Shows por Stingray
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d759160-c883-11eb-a960-3d434807f51f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59dd21f-38ed-446d-8348-e9e4b6640131&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PVW87Yt.png" group-title="Canais | MÚSICA",Pluto TV Karaokê por Stringray
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="Canais | MÚSICA",MaisUm
+https://stream.ichibantv.com:3230/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais | MÚSICA",Kiss TV
+https://isaocorp.cloudecast.com/kisstv/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hDnWxA.png" group-title="Canais | MÚSICA",Hallo Music
+https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47oBUBM.png" group-title="Canais | MÚSICA",Gospel Music TV
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | MÚSICA",Hip Hop Vai Alem da TV
+https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
+
+############################################################################
+# RÁDIOS
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qCytbu.jpeg" group-title="RÁDIO 📻",Rádio Itatiaia AM 95.7 FM
+https://8903.brasilstream.com.br/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M3DTyDq.jpeg" group-title="RÁDIO 📻",Rádio Band FM 96.1 FM
+https://24483.live.streamtheworld.com/BANDFM_SPAAC.aac?dist=radios.com.br
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uLyXjen.jpeg" group-title="RÁDIO 📻",Rádio Jovem Pan FM 100.9 FM
+https://stream-166.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InNDSXRqdHhJVDFHX1lpLWxLTzI4MFEiLCJpYXQiOjE3NjA3NDcyNDUsImV4cCI6MTc2MDc0NzMwNX0.TI0x99PAWC6lKM7bGnlovOLAcOYltiNzCX43VxSKKSg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LdaIPsz.jpeg" group-title="RÁDIO 📻",Rádio Hits 99.7 FM
+https://wz7.servidoresbrasil.com:8031/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MY1Z1OZ.jpeg" group-title="RÁDIO 📻",Rádio Mix FM 102.1 FM
+https://23033.live.streamtheworld.com/MIXRIOAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y4NsUuM.jpeg" group-title="RÁDIO 📻",Rádio Indianópolis / MG - Brasil
+https://stm5.srvvox.com.br:7704/stream?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EvbGI8B.jpeg" group-title="RÁDIO 📻",Rádio Cultura FM 95.1 FM
+https://8040.brasilstream.com.br/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HFEoSux.jpeg" group-title="RÁDIO 📻",Rádio Paranaíba FM 100.7 FM
+https://e-spo-105.fabricahost.com.br/paranaibafm?f=1768071952N01KEMMSYC9865X9V923NJ230NB&tid=01KEMMSYC9M9Z3BWNYREN3HBVA
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/m1qQtEs" group-title="RÁDIO 📻",Rádio Universitária 107.5 FM
+https://stm9.voxhd.com.br:9814/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ng9oKpt.jpeg" group-title="RÁDIO 📻",Rádio Antena 1 94.7 FM
+https://antenaone.crossradio.com.br/stream/1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmSdyJ3.jpeg" group-title="RÁDIO 📻",Rádio Lider FM 93.1 FM
+https://centova.svdns.com.br:20038/stream
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/wOCr9vV" group-title="RÁDIO 📻",Rádio Educadora FM 90.9 FM
+https://e-spo-106.fabricahost.com.br/educadorauberlandia?f=1768071343N01KEMM7BTYQZWJRRWW3DR6ZGEE&tid=01KEMM7BTYA3AAWX4ER92P0J76
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lP4Ieap.jpeg" group-title="RÁDIO 📻",Rádio Rede Aleluia 97.7 FM
+https://Jr10N.short.gy/14398c.ha.azioncdn.net/primary/mg_uberlandia.sdp/chunklist_883c256d-a88c-458f-8750-e8d651189f90.m3u8
