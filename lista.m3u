@@ -375,7 +375,7 @@ https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
-https://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8
+http://15.235.42.84:8088/rj-live/rj-live/600230.ts
 
 #EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
 https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
