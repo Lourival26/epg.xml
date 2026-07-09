@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Lourival26">
+  <url>https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/cl.xml</url>
+
+  <!-- Canais | HALLO! -->
+  <channel id="HalloSeries.br"><display-name lang="pt">Hallo! Series</display-name></channel>
+  <channel id="HalloClassic.br"><display-name lang="pt">Hallo! Classic</display-name></channel>
+  <channel id="HalloMovies.br"><display-name lang="pt">Hallo! Movies</display-name></channel>
+  <channel id="HalloAnime.br"><display-name lang="pt">Hallo Anime</display-name></channel>
+  <channel id="HalloDoc.br"><display-name lang="pt">Hallo! Doc.</display-name></channel>
+  <channel id="HalloMusic.br"><display-name lang="pt">Hallo! Music</display-name></channel>
+
+  <!-- Canais | JORNADA NAS ESTRELAS -->
+  <channel id="PlutoTVStarTrek.br"><display-name lang="pt">Pluto TV Star Trek</display-name></channel>
+  <channel id="StarTrekTNG.br"><display-name lang="pt">Star Trek: The Next Generation</display-name></channel>
+  <channel id="StarTrekDS9.br"><display-name lang="pt">Star Trek: Deep Space Nine</display-name></channel>
+  <channel id="StarTrekVoyager.br"><display-name lang="pt">Star Trek: Voyager</display-name></channel>
+
+  <!-- Canais | RUNTIME & PLUTO FILMES -->
+  <channel id="Runtime Ação HD"><display-name lang="pt">Runtime Ação HD</display-name></channel>
+  <channel id="Runtime TV e Filmes Grátis HD"><display-name lang="pt">Runtime TV e Filmes Grátis HD</display-name></channel>
+  <channel id="Runtime Comédia HD"><display-name lang="pt">Runtime Comédia HD</display-name></channel>
+  <channel id="Runtime Família HD"><display-name lang="pt">Runtime Família HD</display-name></channel>
+  <channel id="Runtime Romance HD"><display-name lang="pt">Runtime Romance HD</display-name></channel>
+  <channel id="Cine Espanto HD"><display-name lang="pt">Cine Espanto HD</display-name></channel>
+  <channel id="Runtime Crime HD"><display-name lang="pt">Runtime Crime HD</display-name></channel>
+  <channel id="Runtime"><display-name lang="pt">Runtime</display-name></channel>
+  <channel id="Pluto TV Cine Crime"><display-name lang="pt">Pluto TV Cine Crime</display-name></channel>
+  <channel id="Pluto TV Cine Inspiração"><display-name lang="pt">Pluto TV Cine Inspiração</display-name></channel>
+  <channel id="Pluto TV Cine Sucessos"><display-name lang="pt">Pluto TV Cine Sucessos</display-name></channel>
+  <channel id="Pluto TV Filmes Ação"><display-name lang="pt">Pluto TV Filmes Ação</display-name></channel>
+  <channel id="Pluto TV Filmes de Luta"><display-name lang="pt">Pluto TV Filmes de Luta</display-name></channel>
+  <channel id="Pluto TV Cine Terror"><display-name lang="pt">Pluto TV Cine Terror</display-name></channel>
+  <channel id="Pluto TV Cine Drama"><display-name lang="pt">Pluto TV Cine Drama</display-name></channel>
+  <channel id="Pluto TV Cine Família"><display-name lang="pt">Pluto TV Cine Família</display-name></channel>
+  <channel id="Pluto TV Cine Romance"><display-name lang="pt">Pluto TV Cine Romance</display-name></channel>
+  <channel id="Pluto TV Cine Comédia Romântica"><display-name lang="pt">Pluto TV Cine Comédia Romântica</display-name></channel>
+  <channel id="Pluto TV Cine Comédia"><display-name lang="pt">Pluto TV Cine Comédia</display-name></channel>
+  <channel id="Filmes Suspense"><display-name lang="pt">Filmes Suspense</display-name></channel>
+  <channel id="Pluto TV Cine Clássicos"><display-name lang="pt">Pluto TV Cine Clássicos</display-name></channel>
+  <channel id="Pluto TV Filmes Nacionais"><display-name lang="pt">Pluto TV Filmes Nacionais</display-name></channel>
+  <channel id="Filmelier TV"><display-name lang="pt">Filmelier TV</display-name></channel>
+  <channel id="Pluto TV Ficção Científica"><display-name lang="pt">Pluto TV Ficção Científica</display-name></channel>
+  <channel id="Pluto TV NetMovies"><display-name lang="pt">Pluto TV NetMovies</display-name></channel>
+  <channel id="Pluto TV Adrenalina Freezone"><display-name lang="pt">Pluto TV Adrenalina Freezone</display-name></channel>
+
+  <!-- Canais | SOUTH PARK -->
+  <channel id="SouthParkColecaoCartman"><display-name lang="pt">South Park: Coleção Cartman</display-name></channel>
+  <channel id="SouthParkColecaoKenny"><display-name lang="pt">South Park: Coleção Kenny</display-name></channel>
+  <channel id="SouthParkColecaoKyle"><display-name lang="pt">South Park: Coleção Kyle</display-name></channel>
+  <channel id="SouthParkColecaoStan"><display-name lang="pt">South Park: Coleção Stan</display-name></channel>
+  <channel id="ComedyCentralSouthPark"><display-name lang="pt">Comedy Central South Park</display-name></channel>
+
+  <!-- Canais | SÉRIES -->
+  <channel id="Pluto TV Séries Criminais"><display-name lang="pt">Pluto TV Séries Criminais</display-name></channel>
+  <channel id="CSI: Miami"><display-name lang="pt">CSI: Miami</display-name></channel>
+  <channel id="NCIS"><display-name lang="pt">NCIS</display-name></channel>
+  <channel id="Numbers"><display-name lang="pt">Numbers</display-name></channel>
+  <channel id="Pluto TV Séries Ação"><display-name lang="pt">Pluto TV Séries Ação</display-name></channel>
+  <channel id="Rookie Blue"><display-name lang="pt">Rookie Blue</display-name></channel>
+  <channel id="Rookie Blue Samsung"><display-name lang="pt">Rookie Blue Samsung TV</display-name></channel>
+  <channel id="Pluto TV Séries Sci-Fi"><display-name lang="pt">Pluto TV Séries Sci-Fi</display-name></channel>
+  <channel id="Z NATION"><display-name lang="pt">Z NATION</display-name></channel>
+  <channel id="A Caçadora de Relíquias"><display-name lang="pt">A Caçadora de Relíquias</display-name></channel>
+  <channel id="Pluto TV Séries Drama"><display-name lang="pt">Pluto TV Séries Drama</display-name></channel>
+  <channel id="Pluto TV Séries Novelescas"><display-name lang="pt">Pluto TV Séries Novelescas</display-name></channel>
+  <channel id="Charmed: Jovens Bruxas"><display-name lang="pt">Charmed: Jovens Bruxas</display-name></channel>
+  <channel id="Pluto TV Séries Comédia"><display-name lang="pt">Pluto TV Séries Comédia</display-name></channel>
+  <channel id="BET Pluto TV"><display-name lang="pt">BET Pluto TV</display-name></channel>
+  <channel id="Clube do Terror"><display-name lang="pt">Clube do Terror</display-name></channel>
+  <channel id="The Walking Dead by AMC"><display-name lang="pt">The Walking Dead by AMC</display-name></channel>
+
+  <!-- Canais | NATUREZA -->
+  <channel id="NatureMoments"><display-name lang="pt">Nature Moments HD</display-name></channel>
+  <channel id="NatureTime"><display-name lang="pt">Nature Time FHD</display-name></channel>
+  <channel id="WildEarth"><display-name lang="pt">WildEarth 24 horas HD</display-name></channel>
+  <channel id="LoveNature"><display-name lang="pt">Love Nature HD</display-name></channel>
+  <channel id="Pesca"><display-name lang="pt">Pesca HD</display-name></channel>
+  <channel id="PlutoPaisagens"><display-name lang="pt">Pluto TV Paisagens por Stingray HD</display-name></channel>
+  <channel id="PlutoAnimais"><display-name lang="pt">Pluto TV Animais HD</display-name></channel>
+  <channel id="EncantadorCaes"><display-name lang="pt">O Encantador de Cães HD</display-name></channel>
+
+  <!-- Canais | MISTÉRIOS E SOBRENATURAL -->
+  <channel id="PlutoMisterios"><display-name lang="pt">Pluto TV Mistérios</display-name></channel>
+  <channel id="PlutoAliens"><display-name lang="pt">Pluto TV Aliens</display-name></channel>
+  <channel id="Assombracoes"><display-name lang="pt">Assombrações</display-name></channel>
+  <channel id="EstadoParanormal"><display-name lang="pt">Estado Paranormal</display-name></channel>
+  <channel id="CacadoresOvnis"><display-name lang="pt">Caçadores de Ovnis</display-name></channel>
+
+</tv>
