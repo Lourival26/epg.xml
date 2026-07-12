@@ -318,7 +318,10 @@ http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 http://s2.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-name="Retro Cartoon" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14295/logo_256_1684138541.png" group-title="Canais | INFANTIL",Retro Cartoon 
-https://stmv2.painelvideocast.com.br/retrotv/retrotv/chunklist_w1821179280.m3u8?a=1
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-name="Gospel Cartoon" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14344/thumb_image_2022-06-23_08-04-53.png" group-title="Canais | INFANTIL",Gospel Cartoon 
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/117
 
 #EXTINF:-1 tvg-id="GospelCartoon.br" tvg-name="Gospel Cartoon" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14344/thumb_image_2022-06-23_08-04-53.png" group-title="Canais | INFANTIL",Gospel Cartoon 
 http://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?a=1
