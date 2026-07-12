@@ -208,7 +208,7 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.co
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="BandSP.br" tvg-name="Band SP HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
-
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3
 
 #EXTINF:-1 tvg-id="BandRJ.br" tvg-name="Band RJ HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band RJ HD
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3
