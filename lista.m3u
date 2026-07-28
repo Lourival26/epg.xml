@@ -194,6 +194,9 @@ http://15.235.42.84:8088/rj-live/rj-live/600507.ts
 #EXTINF:-1 tvg-id="RecordTVMT.br" tvg-name="RecordTV MT" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?a=1
 
+#EXTINF:-1 tvg-id="RecordTVGoias.br" tvg-name="RecordTV Goias" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Goiás 
+https://jr10n.short.gy/Recordtv.goias/xnplay-cnd2/Index.m3u8
+
 #EXTINF:-1 tvg-id="RecordTVRN.br" tvg-name="RecordTV RN" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RN
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8?a=1
 
