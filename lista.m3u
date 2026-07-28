@@ -88,6 +88,9 @@ https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSonata.br" tvg-name="TV Sonata" tvg-logo="https://i.imgur.com/uMdQYEe.png" group-title="Canais | ABERTO",TV Sonata HD
 http://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CineBrasilTV.br" tvg-name="CineBrasilTV" tvg-logo="https://i.imgur.com/8L8vJwW.jpeg" group-title="Canais | ABERTO",Cine Brasil HD
+https://jr10n.short.gy/stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/chunklist_w73831520.m3u8
+
 #EXTINF:-1 tvg-id="GuiaTV.br" tvg-name="Guia TV" tvg-logo="https://tinyurl.com/2azaf982" group-title="Canais | ABERTO",Guia TV
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 
