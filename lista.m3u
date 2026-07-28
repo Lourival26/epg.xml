@@ -667,25 +667,25 @@ https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD
 http://46.151.196.223:14468/
 
-#EXTINF:-1 tvg-id="DAZNCombate" tvg-name="DAZN Combate HD" tvg-logo="https://i.imgur.com/dJHbeqo.png" group-title="Canais | LUTAS",DAZN Combate HD
+#EXTINF:-1 tvg-id="DAZNCombate.br" tvg-name="DAZN Combate HD" tvg-logo="https://i.imgur.com/dJHbeqo.png" group-title="Canais | LUTAS",DAZN Combate HD
 https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8?a=1
 
-#EXTINF:-1 tvg-id="SFTCombateBR" tvg-name="SFT Combate BR HD" tvg-logo="https://i.imgur.com/ck8Gf28.png" group-title="Canais | LUTAS",SFT Combate BR HD
+#EXTINF:-1 tvg-id="SFTCombate.br" tvg-name="SFT Combate BR HD" tvg-logo="https://i.imgur.com/ck8Gf28.png" group-title="Canais | LUTAS",SFT Combate BR HD
 https://Jr10N.short.gy/cdn-3.nxplay.com.br/SFT_esportes_TK/tracks-v2a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="MMABr" tvg-name="MMA HD" tvg-logo="https://i.imgur.com/jSL6TYs.png" group-title="Canais | LUTAS",MMA HD
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263/variant/22099684.m3u8?a=1
 
-#EXTINF:-1 tvg-id="FITE" tvg-name="FITE HD" tvg-logo="https://i.imgur.com/gt32tgp.png" group-title="Canais | LUTAS",FITE HD
+#EXTINF:-1 tvg-id="FITE.br" tvg-name="FITE HD" tvg-logo="https://i.imgur.com/gt32tgp.png" group-title="Canais | LUTAS",FITE HD
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263/variant/22099684.m3u8?a=1
 
 #EXTINF:-1 tvg-id="LuchaLibre" tvg-name="LUCHA LIBRE" tvg-logo="https://imgur.com/UTSMpfP.png" group-title="Canais | LUTAS",LUCHA LIBRE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="SFTCombat" tvg-name="SFT Combat" tvg-logo="https://imgur.com/CYD3RN9.png" group-title="Canais | LUTAS",SFT Combat
+#EXTINF:-1 tvg-id="SFTCombat.br" tvg-name="SFT Combat" tvg-logo="https://imgur.com/CYD3RN9.png" group-title="Canais | LUTAS",SFT Combat
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c6alivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-id="CombatTV" tvg-name="COMBATV" tvg-logo="https://imgur.com/kVyHCec.png" group-title="Canais | LUTAS",COMBATV
+#EXTINF:-1 tvg-id="CombatTV.br" tvg-name="COMBATV" tvg-logo="https://imgur.com/kVyHCec.png" group-title="Canais | LUTAS",COMBATV
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8?a=1
 
 ############################################################################ 
@@ -787,7 +787,7 @@ https://jr10n.short.gy/Quer-umteste.chama/no-whats34998753933/Index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet FHD
 http://185.152.67.187:14386/
 
-#EXTINF:-1 tvg-id="History.br" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
+#EXTINF:-1 tvg-id="HistoryChannel.br" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
 https://megaflix.mgfiles.lat/cc13c1734b1bb80b512e88ed402d1af8/file.m3u8
 
 #EXTINF:-1 tvg-id="History2.br" tvg-name="History 2" tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
