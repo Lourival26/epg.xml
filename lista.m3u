@@ -373,16 +373,16 @@ https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 # Canais | JORNADA NAS ESTRELAS 
 ############################################################################ 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Pluto TV | JORNADA NAS ESTRELAS",Pluto TV Star Trek
+#EXTINF:-1 tvg-id="PlutoTVStarTrek.br" tvg-name="Pluto TV Star Trek" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Pluto TV Star Trek
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Pluto TV | JORNADA NAS ESTRELAS",Star Trek: The Next Generation
+#EXTINF:-1 tvg-id="StarTrekTNG.br" tvg-name="Star Trek: The Next Generation" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: The Next Generation
 https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Pluto TV | JORNADA NAS ESTRELAS",Star Trek: Deep Space Nine
+#EXTINF:-1 tvg-id="StarTrekDS9.br" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Pluto TV | JORNADA NAS ESTRELAS",Star Trek: Voyager
+#EXTINF:-1 tvg-id="StarTrekVoyager.br" tvg-name="Star Trek: Voyager" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: Voyager
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
 
 ############################################################################ 
@@ -510,74 +510,59 @@ https://Jr10N.short.gy/Runtime-crime/live.stream/Index.m3u8
 #EXTINF:-1 tvg-id="Runtime" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Canais | FILMES",Runtime
 https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 
-#EXTINF:-1 tvg-id="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Pluto TV | FILMES",Pluto TV Cine Sucessos
-https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Pluto TV | FILMES",Pluto TV Filmes Ação
-https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Pluto TV | FILMES",Pluto TV Cine Terror
-https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Pluto TV | FILMES",Filmes Suspense
-https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Pluto TV | FILMES",Pluto TV Ficção Científica
-https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Pluto TV | FILMES",Pluto TV Cine Crime
+#EXTINF:-1 tvg-id="Pluto TV Cine Crime" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Crime
 https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3xSxqD4.png" group-title="Pluto TV | FILMES",Pluto TV Filmes de Luta
-https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
-
-#EXTINF:-1 tvg-logo=https://i.imgur.com/1JFaFVN.png" group-title="Pluto TV | FILMES",Pluto TV Era de Ouro do Cinema
-https://jmp2.uk/plu-69441fd9e4674206f0a51245.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png" group-title="Pluto TV | FILMES",Pluto TV Cine Comédia
-https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
-
-#EXTINF:-1 tvg-id="Pluto TV Namorados" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/solidLogoPNG.png" group-title="Pluto TV | FILMES",Pluto TV Cine Comédia Romântica
-https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/LoiqpXA.png" group-title="Pluto TV | FILMES",Pluto TV Cine Romance
-https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Pluto TV | FILMES",Pluto TV Cine Drama
-https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/owfQygy.png" group-title="Pluto TV | FILMES",Pluto TV Bang Bang
-https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/xhWyVZj.png" group-title="Pluto TV | FILMES",PLUTO TV Terror Trash
-https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Pluto TV | FILMES",Adrenalina Pura TV
-https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Pluto TV | FILMES",Pluto TV Cine Família 
-https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/bRKFjwD.png" group-title="Pluto TV | FILMES",Pluto TV Cine Clássicos
-https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/YFRZcGW.png" group-title="Pluto TV | FILMES",PLUTO TV Filmes Aventura
-https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="Pluto TV | FILMES",Pluto TV Cine Inspiração
+#EXTINF:-1 tvg-id="Pluto TV Cine Inspiração" tvg-name="Pluto TV Cine Inspiração" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Inspiração
 https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/qPhjnv9.png" group-title="Pluto TV | FILMES",Pluto TV Filmes Nacionais
+#EXTINF:-1 tvg-id="Pluto TV Cine Sucessos" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Sucessos
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Filmes Ação" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Filmes Ação
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Filmes de Luta" tvg-name="Pluto TV Filmes de Luta" tvg-logo="https://i.imgur.com/3xSxqD4.png" group-title="Canais | FILMES",Pluto TV Filmes de Luta
+https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Terror" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Terror
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Drama" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Drama
+https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Família" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Família 
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Romance" tvg-name="Pluto TV Cine Romance" tvg-logo="https://imgur.com/LoiqpXA.png" group-title="Canais | FILMES",Pluto TV Cine Romance
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Comédia Romântica" tvg-name="Pluto TV Cine Comédia Romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/solidLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Comédia Romântica
+https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Comédia" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Comédia
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+
+#EXTINF:-1 tvg-id="Filmes Suspense" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Canais | FILMES",Filmes Suspense
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Clássicos" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://imgur.com/bRKFjwD.png" group-title="Canais | FILMES",Pluto TV Cine Clássicos
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Filmes Nacionais" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://imgur.com/qPhjnv9.png" group-title="Canais | FILMES",Pluto TV Filmes Nacionais
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/itn3n6J.png" group-title="Pluto TV | FILMES",Pluto TV NetMovies
+#EXTINF:-1 tvg-id="Filmelier TV" tvg-name="Filmelier TV" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Canais | FILMES",Filmelier TV
+https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Ficção Científica" tvg-name="Pluto TV Ficção Científica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Ficção Científica
+https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV NetMovies" tvg-name="Pluto TV NetMovies" tvg-logo="https://imgur.com/itn3n6J.png" group-title="Canais | FILMES",Pluto TV NetMovies
 https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Pluto TV | FILMES",Runtime
-https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Pluto TV | FILMES",Filmelier TV
-https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Adrenalina Freezone" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Adrenalina Freezone
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 
 ############################################################################ 
 # Canais | SOUTH PARK 
@@ -602,56 +587,56 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b3
 # Canais | SÉRIES 
 ############################################################################ 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Criminais
+#EXTINF:-1 tvg-id="Pluto TV Séries Criminais" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Criminais
 https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",CSI: Miami
+#EXTINF:-1 tvg-id="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",CSI: Miami
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",NCIS
+#EXTINF:-1 tvg-id="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vgz6v9c.png" group-title="Pluto TV | SÉRIES",Numbers
+#EXTINF:-1 tvg-id="Numbers" tvg-logo="https://i.imgur.com/Vgz6v9c.png" group-title="Pluto TV | SÉRIES",Numbers
 https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Ação
+#EXTINF:-1 tvg-id="Pluto TV Séries Ação" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Ação
 https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Rookie Blue
+#EXTINF:-1 tvg-id="Rookie Blue" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Rookie Blue
 https://jmp2.uk/plu-64ff2d8c6625510008c5a512.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oqg86ZU.png" group-title="Pluto TV | SÉRIES",Rookie Blue Samsung TV
+#EXTINF:-1 tvg-id="Rookie Blue Samsung" tvg-logo="https://i.imgur.com/oqg86ZU.png" group-title="Pluto TV | SÉRIES",Rookie Blue Samsung TV
 https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Sci-Fi
+#EXTINF:-1 tvg-id="Pluto TV Séries Sci-Fi" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Sci-Fi
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/hyZX677.png" group-title="Pluto TV | SÉRIES",Z NATION 
+#EXTINF:-1 tvg-id="Z NATION" tvg-logo="https://imgur.com/hyZX677.png" group-title="Pluto TV | SÉRIES",Z NATION
 https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8wO4FUW.png" group-title="Pluto TV | SÉRIES",A Caçadora de Relíquias 
+#EXTINF:-1 tvg-id="A Caçadora de Relíquias" tvg-logo="https://i.imgur.com/8wO4FUW.png" group-title="Pluto TV | SÉRIES",A Caçadora de Relíquias
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Drama
+#EXTINF:-1 tvg-id="Pluto TV Séries Drama" tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Drama
 https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JKEOP0s.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Novelescas
+#EXTINF:-1 tvg-id="Pluto TV Séries Novelescas" tvg-logo="https://i.imgur.com/JKEOP0s.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Novelescas
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jc5FUvf.png" group-title="Pluto TV | SÉRIES",Charmed: Jovens Bruxas
+#EXTINF:-1 tvg-id="Charmed: Jovens Bruxas" tvg-logo="https://i.imgur.com/Jc5FUvf.png" group-title="Pluto TV | SÉRIES",Charmed: Jovens Bruxas
 https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Comédia
+#EXTINF:-1 tvg-id="Pluto TV Séries Comédia" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Pluto TV Séries Comédia
 https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/v6p3pSw.png" group-title="Pluto TV | SÉRIES",BET Pluto TV
+#EXTINF:-1 tvg-id="BET Pluto TV" tvg-logo="https://imgur.com/v6p3pSw.png" group-title="Pluto TV | SÉRIES",BET Pluto TV
 https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Clube do Terror
+#EXTINF:-1 tvg-id="Clube do Terror" tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="Pluto TV | SÉRIES",Clube do Terror
 https://jmp2.uk/plu-64e501eec630a900088ed0f8.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/TWDbyAMC_400x200.png" group-title="Pluto TV | SÉRIES",",The Walking Dead by AMC
-https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-id="The Walking Dead by AMC" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/TWDbyAMC_400x200.png" group-title="Pluto TV | SÉRIES",The Walking Dead by AMC
+https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
 
 ############################################################################ 
 # Canais | ANIMES
@@ -877,13 +862,13 @@ https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?a=1
 #EXTINF:-1 tvg-id="TraceSportStars.br" tvg-name="Trace Sport Stars" tvg-logo="https://i.imgur.com/7HTxrEq.png" group-title="Canais | VARIEDADES",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?a=1
 
-#EXTINF:-1 tvg-id="Motorvision.br" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/jlhvLJb.png" group-title="Canais | VARIEDADES",Motorvision FHD
+#EXTINF:-1 tvg-id="Motorvision" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/jlhvLJb.png" group-title="Canais | VARIEDADES",Motorvision FHD
 https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8?a=1
 
-#EXTINF:-1 tvg-id="AutoTV.br" tvg-name="Auto TV" tvg-logo="https://imgur.com/qovLRmK.png" group-title="Canais | VARIEDADES",Auto TV
+#EXTINF:-1 tvg-id="AutoTV" tvg-name="Auto TV" tvg-logo="https://imgur.com/qovLRmK.png" group-title="Canais | VARIEDADES",Auto TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8?a=1
 
-#EXTINF:-1 tvg-id="CultneTV.br" tvg-name="Cultne TV" tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="Canais | VARIEDADES",Cultne TV
+#EXTINF:-1 tvg-id="CultneTV" tvg-name="Cultne TV" tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="Canais | VARIEDADES",Cultne TV
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8?a=1
 
 ############################################################################ 
