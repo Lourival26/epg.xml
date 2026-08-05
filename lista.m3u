@@ -263,7 +263,7 @@ https://hplay.tv/augetv/12396547488/1300.m3u8?a=1
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8?a=1
 
 #EXTINF:-1 tvg-id="PlutoTVCanalUOL" tvg-name="Pluto TV Canal UOL" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Canais | NOTÍCIAS",Pluto TV Canal UOL
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN Brasil FHD
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8?a=1
