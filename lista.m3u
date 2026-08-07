@@ -771,7 +771,7 @@ https://jr10n.short.gy/canal1/index.m3u8
 https://jr10n.short.gy/canal2/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-
+https://jr10n.short.gy/canal3/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6 HD 
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
