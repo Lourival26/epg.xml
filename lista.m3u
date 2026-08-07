@@ -284,7 +284,7 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8?a=1
 # Canais | INFANTIL 
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="Nicktoons.br" tvg-name="Nicktoons HD" tvg-logo="" group-title="Canais | INFANTIL", Nicktoons HD
+#EXTINF:-1 tvg-id="Nick.br" tvg-name="Nick HD" tvg-logo="" group-title="Canais | INFANTIL", Nicktoons HD
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LeoELully.br" tvg-name="Léo e Lully HD" tvg-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Canais | INFANTIL",Léo e Lully HD
