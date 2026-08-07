@@ -103,10 +103,10 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/XOqitHH.jpeg" group-title="Canais | ABERTO",Rede TV HD
 https://Jr10N.short.gy/tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w1241069161.m3u8
 
-#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="Cultura HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZiyyLwcXxSheIbCXkg-cy2UXhkhabyMXXcQrWL2qN5x5gn0vtTtIaFjjy&s=10" group-title="Canais | ABERTO",Cultura HD
+#EXTINF:-1 tvg-id="Cultura.br" tvg-name="Cultura HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZiyyLwcXxSheIbCXkg-cy2UXhkhabyMXXcQrWL2qN5x5gn0vtTtIaFjjy&s=10" group-title="Canais | ABERTO",Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
-#EXTINF:-1 tvg-id="TVCulturaPara.br" tvg-name="TV Cultura Pará" tvg-logo="https://i.imgur.com/4zSMUof.png" group-title="Canais | ABERTO",TV Cultura Pará  HD
+#EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="TV Cultura Pará" tvg-logo="https://i.imgur.com/4zSMUof.png" group-title="Canais | ABERTO",TV Cultura Pará  HD
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Família HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11348/logo_256_1684137425.png" group-title="Canais | ABERTO",Rede Família HD
