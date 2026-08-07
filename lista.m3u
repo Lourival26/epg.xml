@@ -765,13 +765,13 @@ https://jr10n.short.gy/manoTVOP2/spnHD²/Index.m3u8
 http://46.151.196.223:14438/
 
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD 
-http://46.151.196.223:14444/
+https://jr10n.short.gy/canal1/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD 
-http://79.127.243.211:14514/
+https://jr10n.short.gy/canal2/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6 HD 
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
