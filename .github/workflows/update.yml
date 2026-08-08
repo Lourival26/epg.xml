@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Garante que o robô tem permissão para enviar o epg.xml atualizado
     steps:
       - name: Checkout do código
         uses: actions/checkout@v3
