@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Garante que o robô tem permissão para enviar o epg.xml atualizado
+      contents: write  # Garante que o robô tem permissão para enviar os arquivos atualizados
     steps:
       - name: Checkout do código
         uses: actions/checkout@v3
@@ -29,7 +29,7 @@ jobs:
         run: |
           git config --global user.name "Lourival26-Bot"
           git config --global user.email "bot@lourival26.com"
-          git add epg.xml
-          # Só faz o commit se houver alterações no epg.xml
-          git diff --quiet && git diff --staged --quiet || git commit -m "Automação: EPG atualizado pelo robô Lourival26"
+          git add epg-brasil.xml epg-pluto.xml
+          # Só faz o commit se houver alterações nos arquivos de EPG
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automação: EPGs separados atualizados pelo robô Lourival26"
           git push
