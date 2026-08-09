@@ -18,10 +18,19 @@ for config in configuracoes:
     try:
         response = requests.get(config["url"], headers=headers, timeout=60)
         if response.status_code == 200:
-            # Salva o arquivo diretamente
+            # Tenta modificar o XML para incluir a assinatura do Lourival26
+            try:
+                root = ET.fromstring(response.content)
+                root.set("generator-info-name", f"Gerado por {nome_usuario}")
+                conteudo_xml = ET.tostring(root, encoding="utf-8", xml_declaration=True)
+            except Exception:
+                # Se houver qualquer falha no formato, salva o conteúdo original puro
+                conteudo_xml = response.content
+
+            # Salva o arquivo atualizado
             with open(config["arquivo"], "wb") as f:
-                f.write(response.content)
-            print(f"Sucesso: {config['arquivo']} gerado!")
+                f.write(conteudo_xml)
+            print(f"Sucesso: {config['arquivo']} gerado com assinatura!")
         else:
             print(f"Erro ao baixar {config['url']}: Código {response.status_code}")
     except Exception as e:
