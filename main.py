@@ -1,37 +1,54 @@
-import urllib.request
+import requests
 import xml.etree.ElementTree as ET
 
-# Link de uma fonte confiável de programação (exemplo de uma grade geral)
-URL_PROGRAMACAO_EXTERNA = "https://raw.githubusercontent.com/diego-vidal/epg-brasil/main/epg.xml"
-ARQUIVO_MAPEAMENTO = "epg-brasil.xml"
+# Informações do usuário
+nome_usuario = "Lourival26"
 
-def atualizar_epg():
-    # 1. Carrega seu arquivo base (canais)
-    tree_base = ET.parse(ARQUIVO_MAPEAMENTO)
-    root_base = tree_base.getroot()
+# Links dos EPGs
+url_br = "https://iptv-epg.org/files/epg-br.xml"
+url_pluto = "https://i.mjh.nz/PlutoTV/all.xml"
+
+print(f"Olá, {nome_usuario}! Baixando EPG oficial do Brasil...")
+root_br = None
+try:
+    response_br = requests.get(url_br, timeout=30)
+    if response_br.status_code == 200:
+        root_br = ET.fromstring(response_br.content)
+        print(f"{nome_usuario}, EPG do Brasil baixado com sucesso!")
+    else:
+        print(f"{nome_usuario}, erro ao baixar EPG do Brasil: Código {response_br.status_code}")
+except Exception as e:
+    print(f"{nome_usuario}, erro ao conectar ao EPG do Brasil: {e}")
+
+print(f"Olá, {nome_usuario}! Baixando EPG da Pluto TV...")
+root_pluto = None
+try:
+    response_pluto = requests.get(url_pluto, timeout=30)
+    if response_pluto.status_code == 200:
+        root_pluto = ET.fromstring(response_pluto.content)
+        print(f"{nome_usuario}, EPG da Pluto TV baixado com sucesso!")
+    else:
+        print(f"{nome_usuario}, erro ao baixar EPG da Pluto TV: Código {response_pluto.status_code}")
+except Exception as e:
+    print(f"{nome_usuario}, erro ao conectar ao EPG da Pluto TV: {e}")
+
+# Se pelo menos um dos dois foi baixado com sucesso, fazemos a mesclagem
+if root_br is not None or root_pluto is not None:
+    print(f"Atenção, {nome_usuario}! Mesclando os arquivos EPG...")
     
-    # 2. Baixa a programação externa
-    print("Baixando grade de programação...")
-    req = urllib.request.Request(URL_PROGRAMACAO_EXTERNA, headers={'User-Agent': 'Mozilla/5.0'})
-    with urllib.request.urlopen(req) as response:
-        xml_data = response.read()
-        root_externo = ET.fromstring(xml_data)
-
-    # 3. Cria uma nova estrutura para o EPG final
-    root_final = ET.Element("tv", {"generator-info-name": "Lourival26"})
+    base_root = root_br if root_br is not None else ET.Element("tv")
+    base_root.set("generator-info-name", f"{nome_usuario} - Custom EPG")
     
-    # Adiciona seus canais
-    for channel in root_base.findall("channel"):
-        root_final.append(channel)
-        
-    # Adiciona a programação da fonte externa
-    for programme in root_externo.findall("programme"):
-        root_final.append(programme)
-
-    # 4. Salva o arquivo final
-    tree_final = ET.ElementTree(root_final)
-    tree_final.write("epg-completo.xml", encoding="utf-8", xml_declaration=True)
-    print("epg-completo.xml gerado com sucesso!")
-
-if __name__ == "__main__":
-    atualizar_epg()
+    if root_pluto is not None:
+        for child in root_pluto:
+            if child.tag in ("channel", "programme"):
+                base_root.append(child)
+                
+    try:
+        tree = ET.ElementTree(base_root)
+        tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
+        print(f"Parabéns, {nome_usuario}! EPG atualizado com sucesso!")
+    except Exception as e:
+        print(f"{nome_usuario}, erro ao salvar o arquivo EPG: {e}")
+else:
+    print(f"{nome_usuario}, falha ao baixar ambos os EPGs. Nenhum arquivo foi alterado.")
