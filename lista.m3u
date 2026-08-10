@@ -1,19 +1,19 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Lourival26/epg.xml/refs/heads/main/epg.xml" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Lourival26/epg.xml/refs/heads/main/epg.pluto.xml,https://raw.githubusercontent.com/Lourival26/epg.xml/refs/heads/main/epg.br.xml"
 
 ############################################################################ 
 # Informações 
 ############################################################################ 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ManoTV",CANAL DO CLIENTE HD
+#EXTINF:-1 tvg-id="novidades" tvg-name="ManoTV" tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ManoTV" tvg-chno="1",CANAL DO CLIENTE HD
 https://files.catbox.moe/seu_video1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFHB2RM.jpeg" group-title="DOAÇÃO PIX:PARA CONTINUA ATUALIZANDO", (34)998753933
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFHB2RM.jpeg" group-title="DOAÇÃO PIX:PARA CONTINUA ATUALIZANDO" tvg-chno="2",(34)998753933
 https://files.catbox.moe/seu_video2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KOvROBL.jpeg" group-title="QUER UM TEST CHAMA",Whats (34)998753933
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KOvROBL.jpeg" group-title="QUER UM TEST CHAMA" tvg-chno="3",Whats (34)998753933
 https://files.catbox.moe/seu_video3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO",15/07/2026
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO" tvg-chno="4",15/07/2026
 https://files.catbox.moe/seu_video4.mp4
 
 ############################################################################ 
