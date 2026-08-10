@@ -1,40 +1,37 @@
+import urllib.request
 import xml.etree.ElementTree as ET
 
-# Arquivo com seu mapeamento fixo de canais
-arquivo_mapeamento = "epg-brasil.xml"
+# Link de uma fonte confiável de programação (exemplo de uma grade geral)
+URL_PROGRAMACAO_EXTERNA = "https://raw.githubusercontent.com/diego-vidal/epg-brasil/main/epg.xml"
+ARQUIVO_MAPEAMENTO = "epg-brasil.xml"
 
-try:
-    # 1. Carrega o arquivo XML existente
-    tree = ET.parse(arquivo_mapeamento)
-    root = tree.getroot()
+def atualizar_epg():
+    # 1. Carrega seu arquivo base (canais)
+    tree_base = ET.parse(ARQUIVO_MAPEAMENTO)
+    root_base = tree_base.getroot()
     
-    # Define o nome do gerador
-    root.set("generator-info-name", "Lourival26")
+    # 2. Baixa a programação externa
+    print("Baixando grade de programação...")
+    req = urllib.request.Request(URL_PROGRAMACAO_EXTERNA, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req) as response:
+        xml_data = response.read()
+        root_externo = ET.fromstring(xml_data)
 
-    # 2. Exemplo de como adicionar um programa (o que está passando agora)
-    # Você pode duplicar essa parte para cada canal e programa desejado
-    # Formato da data/hora: YYYYMMDDHHMMSS +0000
-    novo_programa = ET.Element("programme")
-    novo_programa.set("start", "20260704120000 -0300")  # Horário de início
-    novo_programa.set("stop", "20260704130000 -0300")   # Horário de término
-    novo_programa.set("channel", "GloboRJ.br")           # ID do canal correspondente
+    # 3. Cria uma nova estrutura para o EPG final
+    root_final = ET.Element("tv", {"generator-info-name": "Lourival26"})
     
-    # Título do programa (o que está passando)
-    title = ET.SubElement(novo_programa, "title")
-    title.set("lang", "pt")
-    title.text = "Exemplo: Jornal da TV"
-    
-    # Descrição opcional
-    desc = ET.SubElement(novo_programa, "desc")
-    desc.set("lang", "pt")
-    desc.text = "Resumo do que está passando neste horário."
+    # Adiciona seus canais
+    for channel in root_base.findall("channel"):
+        root_final.append(channel)
+        
+    # Adiciona a programação da fonte externa
+    for programme in root_externo.findall("programme"):
+        root_final.append(programme)
 
-    # Adiciona o programa na estrutura do XML
-    root.append(novo_programa)
+    # 4. Salva o arquivo final
+    tree_final = ET.ElementTree(root_final)
+    tree_final.write("epg-completo.xml", encoding="utf-8", xml_declaration=True)
+    print("epg-completo.xml gerado com sucesso!")
 
-    # 3. Salva o arquivo atualizado
-    tree.write("epg-brasil.xml", encoding="utf-8", xml_declaration=True)
-    print("Programação e horários atualizados com sucesso!")
-
-except Exception as e:
-    print(f"Erro ao processar o arquivo: {e}")
+if __name__ == "__main__":
+    atualizar_epg()
