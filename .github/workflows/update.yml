@@ -27,9 +27,8 @@ jobs:
         run: |
           git config --global user.name "Lourival26-Bot"
           git config --global user.email "bot@lourival26.com"
-          # Adiciona os dois novos arquivos gerados pelo script
-          git add epg_br.xml epg_pluto.xml
+          # Adiciona os arquivos com ponto gerados pelo script
+          git add epg.br.xml epg.pluto.xml
           # Só faz o commit se houver alterações em qualquer um dos arquivos
-          git diff --quiet && git diff --staged --quiet || git commit -m "Automação: EPGs do Brasil e Pluto TV atualizados pelo robô Lourival26"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automação: EPGs atualizados pelo robô Lourival26"
           git push
-          
