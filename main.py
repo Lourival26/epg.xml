@@ -21,8 +21,8 @@ try:
     )
 
     tree_br = ET.ElementTree(root_br)
-    tree_br.write("epg_br.xml", encoding="utf-8", xml_declaration=True)
-    print(f"Parabéns, {nome_usuario}! EPG do Brasil salvo como 'epg_br.xml'!")
+    tree_br.write("epg.br.xml", encoding="utf-8", xml_declaration=True)
+    print(f"Parabéns, {nome_usuario}! EPG do Brasil salvo como 'epg.br.xml'!")
   else:
     print(
         f"{nome_usuario}, erro ao baixar EPG do Brasil: Código"
@@ -45,9 +45,9 @@ try:
     )
 
     tree_pluto = ET.ElementTree(root_pluto)
-    tree_pluto.write("epg_pluto.xml", encoding="utf-8", xml_declaration=True)
+    tree_pluto.write("epg.pluto.xml", encoding="utf-8", xml_declaration=True)
     print(
-        f"Parabéns, {nome_usuario}! EPG da Pluto TV salvo como 'epg_pluto.xml'!"
+        f"Parabéns, {nome_usuario}! EPG da Pluto TV salvo como 'epg.pluto.xml'!"
     )
   else:
     print(
@@ -56,3 +56,4 @@ try:
     )
 except Exception as e:
   print(f"{nome_usuario}, erro ao conectar ao EPG da Pluto TV: {e}")
+  
