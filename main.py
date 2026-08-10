@@ -1,39 +1,53 @@
-import requests
+import urllib.request
 import xml.etree.ElementTree as ET
 
-# Informações do usuário
-nome_usuario = "Lourival26"
-
-# Links e nomes dos arquivos
-configuracoes = [
-    {"url": "https://iptv-epg.org/files/epg-br.xml", "arquivo": "epg-brasil.xml"},
-    {"url": "https://i.mjh.nz/PlutoTV/br.xml", "arquivo": "epg-pluto.xml"}
+# Seus links oficiais apontando para o seu repositório Lourival26/epg.xml
+urls = [
+    "https://raw.githubusercontent.com/Lourival26/epg.xml/refs/heads/main/epg-pluto.xml",
+    "https://raw.githubusercontent.com/Lourival26/epg.xml/refs/heads/main/epg-brasil.xml"
 ]
 
-headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+root_element = None
+all_channels = []
+all_programmes = []
 
-print(f"Olá, {nome_usuario}! Iniciando a criação de EPGs separados...")
-
-for config in configuracoes:
+for url in urls:
     try:
-        response = requests.get(config["url"], headers=headers, timeout=60)
-        if response.status_code == 200:
-            # Tenta modificar o XML para incluir a assinatura do Lourival26
-            try:
-                root = ET.fromstring(response.content)
-                root.set("generator-info-name", f"Gerado por {nome_usuario}")
-                conteudo_xml = ET.tostring(root, encoding="utf-8", xml_declaration=True)
-            except Exception:
-                # Se houver qualquer falha no formato, salva o conteúdo original puro
-                conteudo_xml = response.content
-
-            # Salva o arquivo atualizado
-            with open(config["arquivo"], "wb") as f:
-                f.write(conteudo_xml)
-            print(f"Sucesso: {config['arquivo']} gerado com assinatura!")
-        else:
-            print(f"Erro ao baixar {config['url']}: Código {response.status_code}")
+        print(f"Baixando: {url}")
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req) as response:
+            xml_content = response.read()
+            
+            # Faz o parse do XML
+            root = ET.fromstring(xml_content)
+            
+            if root_element is None:
+                root_element = root
+                
+            # Coleta todos os canais e programações de dentro do arquivo
+            for channel in root.findall('channel'):
+                all_channels.append(channel)
+            for programme in root.findall('programme'):
+                all_programmes.append(programme)
     except Exception as e:
-        print(f"Erro ao processar {config['url']}: {e}")
+        print(f"Erro ao processar {url}: {e}")
 
-print(f"Parabéns, {nome_usuario}! Ambos os arquivos foram atualizados.")
+if root_element is not None:
+    # Remove os elementos antigos para evitar duplicatas ao reescrever
+    for channel in root_element.findall('channel'):
+        root_element.remove(channel)
+    for programme in root_element.findall('programme'):
+        root_element.remove(programme)
+        
+    # Adiciona todos os canais e programações unidos
+    for channel in all_channels:
+        root_element.append(channel)
+    for programme in all_programmes:
+        root_element.append(programme)
+        
+    # Salva o arquivo unificado
+    tree = ET.ElementTree(root_element)
+    tree.write("epg-completo.xml", encoding="utf-8", xml_declaration=True)
+    print("Arquivo epg-completo.xml gerado com sucesso!")
+else:
+    print("Nenhum dado foi baixado.")
