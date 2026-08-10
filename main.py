@@ -56,4 +56,3 @@ try:
     )
 except Exception as e:
   print(f"{nome_usuario}, erro ao conectar ao EPG da Pluto TV: {e}")
-  
