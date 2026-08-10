@@ -2,14 +2,14 @@ name: Atualizar EPG Lourival26
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Este comando faz o robô rodar todo dia às 03:00 da manhã
+    - cron: '0 3 * * *' # Roda todo dia às 03:00 da manhã
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Garante que o robô tem permissão para enviar os arquivos atualizados
+      contents: write  # Garante permissão para enviar os arquivos atualizados
     steps:
       - name: Checkout do código
         uses: actions/checkout@v3
@@ -29,7 +29,8 @@ jobs:
         run: |
           git config --global user.name "Lourival26-Bot"
           git config --global user.email "bot@lourival26.com"
-          git add epg-brasil.xml epg-pluto.xml
-          # Só faz o commit se houver alterações nos arquivos de EPG
-          git diff --quiet && git diff --staged --quiet || git commit -m "Automação: EPGs separados atualizados pelo robô Lourival26"
+          git add epg-brasil.xml
+          # Só faz o commit se houver alterações no EPG
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automação: EPG atualizado pelo robô Lourival26"
           git push
+          
