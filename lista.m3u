@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Lourival26/epg.xml/refs/heads/main/epg.br.xml,https://raw.githubusercontent.com/Lourival26/epg.xml/refs/heads/main/epg.pluto.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Lourival26/epg.xml/refs/heads/main/epg.br.xml,https://raw.githubusercontent.com/Lourival26/epg.xml/refs/heads/main/epg.pluto.xml"
 
 ############################################################################ 
 # Informações 
