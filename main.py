@@ -50,25 +50,21 @@ except Exception as e:
 if root_br is not None and root_pluto is not None:
   print(f"Unificando os EPGs em um arquivo completo...")
   
-  # Atualiza o nome do gerador do arquivo final unificado
   root_br.set("generator-info-name", f"{nome_usuario} - EPG Completo Unificado")
   
-  # Mapeia os IDs dos canais já existentes no EPG do Brasil para evitar duplicatas
   existing_channels = {ch.get('id'): ch for ch in root_br.findall('channel')}
   
-  # Adiciona os canais do EPG da Pluto TV que não existirem no do Brasil
   for channel in root_pluto.findall('channel'):
     ch_id = channel.get('id')
     if ch_id not in existing_channels:
       root_br.append(channel)
       existing_channels[ch_id] = channel
       
-  # Adiciona todos os programas do EPG da Pluto TV ao arquivo unificado
   for programme in root_pluto.findall('programme'):
     root_br.append(programme)
     
-  # Salva o arquivo final combinado
-  arquivo_final = "epg_completo.xml"
+  # Nome alterado para usar ponto
+  arquivo_final = "epg.completo.xml"
   tree_final = ET.ElementTree(root_br)
   tree_final.write(arquivo_final, encoding="utf-8", xml_declaration=True)
   
