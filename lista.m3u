@@ -355,22 +355,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="HalloSeries.br" tvg-name="Hallo! Series" tvg-logo="https://i.imgur.com/BMV8Nbn.png" group-title="Canais | HALLO!",Hallo! Series
-https://cdn-5.nxplay.com.br/HALLOSERIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
 
 #EXTINF:-1 tvg-id="HalloClassic.br" tvg-name="Hallo! Classic" tvg-logo="https://i.imgur.com/Z8BnjPs.png" group-title="Canais | HALLO!",Hallo! Classic
-https://cdn-5.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
 
 #EXTINF:-1 tvg-id="HalloMovies.br" tvg-name="Hallo! Movies" tvg-logo="https://i.imgur.com/Q16ZNjl.png" group-title="Canais | HALLO!",Hallo! Movies
-https://cdn-5.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
 
 #EXTINF:-1 tvg-id="HalloAnime.br" tvg-name="Hallo Anime" tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | HALLO!",Hallo Anime
-https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
 
 #EXTINF:-1 tvg-id="HalloDoc.br" tvg-name="Hallo! Doc." tvg-logo="https://i.imgur.com/lFkmVqX.png" group-title="Canais | HALLO!",Hallo! Doc.
-https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
 
 #EXTINF:-1 tvg-id="HalloMusic.br" tvg-name="Hallo! Music" tvg-logo="https://i.imgur.com/6hDnWxA.png" group-title="Canais | HALLO!",Hallo! Music
-https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
 
 ############################################################################ 
 # Canais | JORNADA NAS ESTRELAS 
@@ -408,7 +408,7 @@ http://streamer.sattvacabo.com.br/WARNER_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Z
 http://79.127.238.228:14551/
 
 #EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD
-https://jr10n.short.gy/AXN12345.xnplay.cdn/painel1/Index.m3u8
+
 
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
 http://46.151.196.223:14326/
@@ -424,9 +424,6 @@ http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
 https://megaflix.mgfiles.lat/34f4b5965b98afabeaa49f3d96533a56/file.m3u8
-
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD²
-https://jr10n.short.gy/CanalTelecineTouch1/Index.m3u8
 
 #EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
 https://megaflix.mgfiles.lat/ccd1fb9d27cc8388fd1b4499ba20b971/file.m3u8
