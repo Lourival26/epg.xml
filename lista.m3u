@@ -968,13 +968,13 @@ https://Jr10N.short.gy/tv/live_aparecia.movies_cnd2/P2P.index1.m3u8
 # Canais | NOVELAS
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="GloboPlay Novelas FHD" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas FHD
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="GloboPlay Novelas HD" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas HD
 http://79.127.238.228:14455/VIVA
 
-#EXTINF:-1 tvg-id="GloboPlay Novelas.br" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas FHD
+#EXTINF:-1 tvg-id="GloboPlay Novelas.br" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas HD²
 http://s2.micineovs.com/VIVA/index.m3u8?token=16FOTt9Ae2m8
 
-#EXTINF:-1 tvg-id="GloboPlayNovelas.br" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas HD
+#EXTINF:-1 tvg-id="GloboPlay Novelas.br" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas HD³
 http://79.127.238.228:14455/
 
 #EXTINF:-1 tvg-id="TNTNovelas.br" tvg-name="TNT Novelas FHD" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas FHD
@@ -2283,6 +2283,40 @@ https://video.wixstatic.com/video/daabbf_a025fcd39d64422ca4197a7c04385d6b/480p/m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E15
 https://video.wixstatic.com/video/daabbf_d69ff4f6e0fa42fabd59a14862789e21/720p/mp4/file.mp4?a=1
+
+############################################################################
+# Série | O Atirador - Shooter (S01)
+############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcU4AWu.jpeg" group-title="Serie |  O Atirador - Shooter  S01",S01 E 01
+https://video.wixstatic.com/video/8d3786_69c511367e2f412ebd504ed5acc1e5e8/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcU4AWu.jpeg" group-title="Serie |  O Atirador - Shooter  S01",S01 E 02
+https://video.wixstatic.com/video/8d3786_74b7bd40b19a4083b4a4857c9614ff51/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcU4AWu.jpeg" group-title="Serie |  O Atirador - Shooter  S01",S01 E 03
+https://video.wixstatic.com/video/8d3786_7517b4b755524723bb7e2aa234338ce2/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcU4AWu.jpeg" group-title="Serie |  O Atirador - Shooter  S01",S01 E 04
+https://video.wixstatic.com/video/8d3786_c5dc78eb4996431ea20a673bbaa3e82b/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcU4AWu.jpeg" group-title="Serie |  O Atirador - Shooter  S01",S01 E 05
+https://video.wixstatic.com/video/8d3786_7453c4cac40f4956b1ff765e312fd2b9/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcU4AWu.jpeg" group-title="Serie |  O Atirador - Shooter  S01",S01 E 06
+https://video.wixstatic.com/video/8d3786_20432ff489244e5aaff452ba0b8e8098/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcU4AWu.jpeg" group-title="Serie |  O Atirador - Shooter  S01",S01 E 07
+https://video.wixstatic.com/video/8d3786_14a4f157c76e4d8f83c6aa3a61aff26a/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcU4AWu.jpeg" group-title="Serie |  O Atirador - Shooter  S01",S01 E 08
+https://video.wixstatic.com/video/8d3786_a55d94cc32ae4d20a548339c2662699f/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcU4AWu.jpeg" group-title="Serie |  O Atirador - Shooter  S01",S01 E 09
+https://video.wixstatic.com/video/8d3786_bcf653c337cf4a62873a9529914b80f8/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcU4AWu.jpeg" group-title="Serie |  O Atirador - Shooter  S01",S01 E 10
+https://video.wixstatic.com/video/8d3786_c473a4de2c6c46b9a6d81c85fe9a3dac/720p/mp4/file.mp4
 
 ############################################################################
 # Série | Ted (S05)
