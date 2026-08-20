@@ -7,10 +7,10 @@
 #EXTINF:-1 tvg-id="novidades" tvg-name="ManoTV" tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ManoTV" tvg-chno="1",CANAL DO CLIENTE HD
 https://files.catbox.moe/seu_video1.mp4
 
-#EXTINF:-1 tvg-id="doacao.pix" tvg-name="Doação PIX" tvg-logo="https://i.imgur.com/eFHB2RM.jpeg" group-title="DOAÇÃO PIX: PARA CONTINUAR ATUALIZANDO" tvg-chno="2",SUPORTE PIX: (34) 99875-3933
+#EXTINF:-1 tvg-id="doacao.pix" tvg-name="Doe PIX" tvg-logo="https://i.imgur.com/eFHB2RM.jpeg" group-title="DOE PIX" tvg-chno="2",DOE VIA PIX: (34) 99875-3933
 https://files.catbox.moe/seu_video2.mp4
 
-#EXTINF:-1 tvg-id="contato.whatsapp" tvg-name="Contato WhatsApp" tvg-logo="https://i.imgur.com/KOvROBL.jpeg" group-title="QUER UM TESTE? CHAMA NO ZAP" tvg-chno="3",WHATSAPP: (34) 99875-3933
+#EXTINF:-1 tvg-id="contato.whatsapp" tvg-name="Contato WhatsApp" tvg-logo="https://i.imgur.com/KOvROBL.jpeg" group-title="QUER UM TESTE?" tvg-chno="3",WHATSAPP: (34) 99875-3933
 https://files.catbox.moe/seu_video3.mp4
 
 #EXTINF:-1 tvg-id="atualizacao.lista" tvg-name="Atualizado" tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="STATUS DA LISTA" tvg-chno="4",ATUALIZADO EM: 19/08/2026
