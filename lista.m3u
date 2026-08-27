@@ -103,6 +103,9 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL HD
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
+EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TVParana SD" tvg-logo="https://i.imgur.com/XOqitHH.jpeg" group-title="Canais | ABERTO",RedeTV Paraná SD
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/XOqitHH.jpeg" group-title="Canais | ABERTO",Rede TV HD
 https://Jr10N.short.gy/tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w1241069161.m3u8
 
