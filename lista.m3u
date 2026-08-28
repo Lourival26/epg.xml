@@ -290,6 +290,9 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8?a=1
 # Canais | INFANTIL 
 ############################################################################ 
 
+#EXTINF:-1 tvg-id="LucasTV.br" tvg-name="LucasTV HD" tvg-logo="https://i.imgur.com/5MRSGrZ.png" group-title="Canais | INFANTIL",Lucas TV HD
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Nick.br" tvg-name="Nick HD" tvg-logo="" group-title="Canais | INFANTIL", Nicktoons HD
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
