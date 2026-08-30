@@ -889,7 +889,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2
 #EXTINF:-1 tvg-id="PlutoMisterios" tvg-name="Pluto TV Mistérios" tvg-logo="https://i.imgur.com/NhguLFB.png" group-title="Canais | VARIEDADES",Pluto TV Mistérios
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8
 
-#EXTINF:-1 tvg-id="PeopleAreAwesome.br" tvg-name="People Are Awesome" tvg-logo="https://i.imgur.com/BWfmUwV.png" group-title="Canais | VARIEDADES",People Are Awesome
+#EXTINF:-1 tvg-id="PeopleAreAwesome" tvg-name="People Are Awesome" tvg-logo="https://i.imgur.com/BWfmUwV.png" group-title="Canais | VARIEDADES",People Are Awesome
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?a=1
 
 #EXTINF:-1 tvg-id="TraceSportStars.br" tvg-name="Trace Sport Stars" tvg-logo="https://i.imgur.com/7HTxrEq.png" group-title="Canais | VARIEDADES",Trace Sport Stars
@@ -948,7 +948,7 @@ https://jmp2.uk/plu-620d1512c7986a0007220213.m3u8
 #EXTINF:-1 tvg-id="EstadoParanormal" tvg-name="Estado Paranormal" tvg-logo="https://i.imgur.com/3TlNQcz.png" group-title="Pluto TV | MISTÉRIOS E SOBRENATURAL",Estado Paranormal
 https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
 
-#EXTINF:-1 tvg-id="CacadoresOvnis" tvg-name="Caçadores de Ovnis" tvg-logo="https://i.imgur.com/63hgt4q.png" group-title="Pluto TV | MISTÉRIOS E SOBRENATURAL",Caçadores de Ovnis
+#EXTINF:-1 tvg-id="CaçadoresOvnis" tvg-name="Caçadores de Ovnis" tvg-logo="https://i.imgur.com/63hgt4q.png" group-title="Pluto TV | MISTÉRIOS E SOBRENATURAL",Caçadores de Ovnis
 https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
 
 #EXTINF:-1 tvg-id="Sobrevivi" tvg-name="Sobrevivi" tvg-logo="https://i.imgur.com/WlTJoqY.jpeg" group-title="Pluto TV | MISTÉRIOS E SOBRENATURAL",Sobrevivi ao vivo 
