@@ -85,7 +85,7 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 # Canais | ABERTO
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV Pampa HD" tvg-logo="https://i.imgur.com/tLf0JIG.jpeg" group-title="Abertos",TV Pampa HD
+#EXTINF:-1 tvg-id="TVPampaPortoAlegre.br" tvg-name="TV Pampa SD" tvg-logo="https://i.imgur.com/tLf0JIG.jpeg" group-title="Abertos",TV Pampa SD
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w2051106909.m3u8
 
 #EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE FHD" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE FHD
