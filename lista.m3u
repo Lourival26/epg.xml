@@ -798,7 +798,7 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 # Canais | PREMIERE
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="Premiere.br" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
 https://jr10n.short.gy/Canal/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 2 HD
