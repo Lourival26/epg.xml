@@ -868,7 +868,7 @@ http://185.152.67.187:14367/
 #EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD 
 https://megaflix.mgfiles.lat/37a0a53a454048db23150f64817cfa37/file.m3u8
 
-#EXTINF:-1 tvg-id="Id.br" tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
+#EXTINF:-1 tvg-id="ID.br" tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
 https://megaflix.mgfiles.lat/a0c986815ff38ac3d75b30dfd42afa9d/file.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery H&H" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health HD
