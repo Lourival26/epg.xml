@@ -85,10 +85,10 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 # Canais | ABERTO
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="TVPampars.br" tvg-name="TV Pampa SD" tvg-logo="https://i.imgur.com/tLf0JIG.jpeg" group-title="Abertos",TV Pampa SD
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV Pampa SD" tvg-logo="https://i.imgur.com/tLf0JIG.jpeg" group-title="Abertos",TV Pampa SD
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w2051106909.m3u8
 
-#EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE FHD" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE FHD
+#EXTINF:-1 tvg-id="TVE.br" tvg-name="TVE FHD" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE FHD
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSonata.br" tvg-name="TV Sonata" tvg-logo="https://i.imgur.com/uMdQYEe.png" group-title="Canais | ABERTO",TV Sonata HD
@@ -115,7 +115,7 @@ https://Jr10N.short.gy/tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w
 #EXTINF:-1 tvg-id="Cultura.br" tvg-name="Cultura HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZiyyLwcXxSheIbCXkg-cy2UXhkhabyMXXcQrWL2qN5x5gn0vtTtIaFjjy&s=10" group-title="Canais | ABERTO",Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
-#EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="TV Cultura Pará" tvg-logo="https://i.imgur.com/4zSMUof.png" group-title="Canais | ABERTO",TV Cultura Pará  HD
+#EXTINF:-1 tvg-id="CulturaPará.br" tvg-name="TV Cultura Pará" tvg-logo="https://i.imgur.com/4zSMUof.png" group-title="Canais | ABERTO",TV Cultura Pará  HD
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Família HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11348/logo_256_1684137425.png" group-title="Canais | ABERTO",Rede Família HD
@@ -240,7 +240,7 @@ http://15.235.50.115:14522/
 #EXTINF:-1 tvg-id="BandArapuan.br" tvg-name="Band Arapuan HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8?a=1
 
-#EXTINF:-1 tvg-id="BandRBA.br" tvg-name="Band TV RBA TV" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band TV RBA TV
+#EXTINF:-1 tvg-id="BandTriangulo.br" tvg-name="Band TV RBA TV" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band TV RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?a=1
 
 #EXTINF:-1 tvg-id="BandValeUruara.br" tvg-name="Band TV - Vale do Uruará" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band TV - Vale do Uruará 
