@@ -871,7 +871,7 @@ https://megaflix.mgfiles.lat/37a0a53a454048db23150f64817cfa37/file.m3u8
 #EXTINF:-1 tvg-id="Id.br" tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
 https://megaflix.mgfiles.lat/a0c986815ff38ac3d75b30dfd42afa9d/file.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryHomeandHeaith.br" tvg-name="Discovery H&H" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health HD
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery H&H" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health HD
 http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
