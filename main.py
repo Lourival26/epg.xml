@@ -2,10 +2,10 @@ import gzip
 import urllib.request
 import xml.etree.ElementTree as ET
 
-# URLs das fontes confiáveis (Brasil + Pluto TV Oficial)
+# URLs das fontes confiáveis (Brasil Geral + Pluto TV Oficial via iptv-org)
 URLS = [
     "https://iptv-epg.org/files/epg-br.xml",
-    "https://i.mjh.nz/PlutoTV/br.xml.gz",
+    "https://iptv-org.github.io/epg/guides/br/plutotv.com.br.epg.xml",
 ]
 
 output_file = "epg.completo.xml"
@@ -23,6 +23,7 @@ for url in URLS:
     with urllib.request.urlopen(req) as response:
       content = response.read()
 
+      # Se por acaso alguma fonte futura usar .gz, mantém a segurança
       if url.endswith(".gz"):
         content = gzip.decompress(content)
 
@@ -34,7 +35,7 @@ for url in URLS:
   except Exception as e:
     print(f"Erro ao processar {url}: {e}")
 
-# Salva o XML unificado limpo, exatamente como o aplicativo IPTV espera
+# Salva o XML unificado limpo para o aplicativo IPTV
 tree = ET.ElementTree(root)
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 
