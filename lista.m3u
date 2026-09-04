@@ -29,32 +29,32 @@ https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 
-#EXTINF:-1 tvg-id="GloboMT" tvg-name="Globo MT HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
+#EXTINF:-1 tvg-id="GloboMT.br" tvg-name="Globo MT HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
 http://15.235.42.84:8088/rj-live/rj-live/600267.ts
 
-#EXTINF:-1 tvg-id="GloboMG" tvg-name="Globo MG HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
+#EXTINF:-1 tvg-id="GloboMG.br" tvg-name="Globo MG HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
 https://megaflix.mgfiles.lat/2ba6636b5c30affbdac54fd41469f3b8/file.m3u8
 
-#EXTINF:-1 tvg-id="RPCCuritiba" tvg-name="RPC Curitiba HD" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
+#EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="RPC Curitiba HD" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
 http://15.235.42.84:8088/rj-live/rj-live/600220.ts
 
-#EXTINF:-1 tvg-id="GloboGoias" tvg-name="Globo Goiás HD" tvg-logo="https://i.imgur.com/Lk493tt.png" group-title="Canais | GLOBO",Globo Goiás HD
+#EXTINF:-1 tvg-id="GloboGoiás.br" tvg-name="Globo Goiás HD" tvg-logo="https://i.imgur.com/Lk493tt.png" group-title="Canais | GLOBO",Globo Goiás HD
 http://15.235.42.84:8088/rj-live/rj-live/600281.ts
 
-#EXTINF:-1 tvg-id="GloboBahia" tvg-name="Globo Bahia" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo Bahia HD
+#EXTINF:-1 tvg-id="GloboBahia.br" tvg-name="Globo Bahia" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo Bahia HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-id="GloboManaus" tvg-name="Globo Manaus HD" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
+#EXTINF:-1 tvg-id="GloboManaus.br" tvg-name="Globo Manaus HD" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
 https://megaflix.mgfiles.lat/e3a08fe2169c1ae4b3b2e4330aceb3ae/file.m3u8
 
 ############################################################################ 
 # Canais | SBT
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="SBTNews" tvg-name="SBT News HD" tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="Canais | SBT",SBT NEWS HD
+#EXTINF:-1 tvg-id="SBTNews.br" tvg-name="SBT News HD" tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="Canais | SBT",SBT NEWS HD
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="MaisSBT" tvg-name="+SBT HD" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",+SBT HD
+#EXTINF:-1 tvg-id="MaisSBT.br" tvg-name="+SBT HD" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",+SBT HD
 https://Jr10N.short.gy/25mensais/s2/Whats34998753933.m3u8
 
 #EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT SP SD" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT SP HD
@@ -66,35 +66,35 @@ https://Jr10N.short.gy/live-stream/sbt-intrior/sp.index.m3u8
 #EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT Nacional HD" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT Nacional HD
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVDifusoraSL" tvg-name="TV Difusora (SBT São Luís)" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="Canais | SBT",TV Difusora (SBT São Luís) HD
+#EXTINF:-1 tvg-id="TVDifusoraSL.br" tvg-name="TV Difusora (SBT São Luís)" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="Canais | SBT",TV Difusora (SBT São Luís) HD
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 
-#EXTINF:-1 tvg-id="TVDifusoraLeste" tvg-name="TV Difusora Leste" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="Canais | SBT",TV Difusora Leste HD
+#EXTINF:-1 tvg-id="TVDifusoraLeste.br" tvg-name="TV Difusora Leste" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="Canais | SBT",TV Difusora Leste HD
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
 
-#EXTINF:-1 tvg-id="SBTGuajara" tvg-name="SBT Guajará" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="Canais | SBT",SBT Guajará HD
+#EXTINF:-1 tvg-id="SBTGuajara.br" tvg-name="SBT Guajará" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="Canais | SBT",SBT Guajará HD
 https://video05.logicahost.com.br/tvguajara/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVAratu" tvg-name="TV ARATU HD" tvg-logo="https://i.imgur.com/tyFtNYn.png" group-title="Canais | SBT",TV ARATU HD
+#EXTINF:-1 tvg-id="TVAratu.br" tvg-name="TV ARATU HD" tvg-logo="https://i.imgur.com/tyFtNYn.png" group-title="Canais | SBT",TV ARATU HD
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8?a=1
 
-#EXTINF:-1 tvg-id="SBTCidadeVerde" tvg-name="SBT CIDADE VERDE FHD" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT CIDADE VERDE HD
+#EXTINF:-1 tvg-id="SBTCidadeVerde.br" tvg-name="SBT CIDADE VERDE FHD" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT CIDADE VERDE HD
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
 ############################################################################ 
 # Canais | ABERTO
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="TVPampa" tvg-name="TV Pampa SD" tvg-logo="https://i.imgur.com/tLf0JIG.jpeg" group-title="Abertos",TV Pampa SD
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV Pampa SD" tvg-logo="https://i.imgur.com/tLf0JIG.jpeg" group-title="Abertos",TV Pampa SD
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w2051106909.m3u8
 
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE FHD" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE FHD
+#EXTINF:-1 tvg-id="TVE.br" tvg-name="TVE FHD" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE FHD
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVSonata" tvg-name="TV Sonata" tvg-logo="https://i.imgur.com/uMdQYEe.png" group-title="Canais | ABERTO",TV Sonata HD
+#EXTINF:-1 tvg-id="TVSonata.br" tvg-name="TV Sonata" tvg-logo="https://i.imgur.com/uMdQYEe.png" group-title="Canais | ABERTO",TV Sonata HD
 http://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CineBrasilTV" tvg-name="CineBrasilTV" tvg-logo="https://i.imgur.com/8L8vJwW.jpeg" group-title="Canais | ABERTO",Cine Brasil HD
+#EXTINF:-1 tvg-id="CineBrasilTV.br" tvg-name="CineBrasilTV" tvg-logo="https://i.imgur.com/8L8vJwW.jpeg" group-title="Canais | ABERTO",Cine Brasil HD
 https://jr10n.short.gy/stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/chunklist_w73831520.m3u8
 
 #EXTINF:-1 tvg-id="GuiaTV" tvg-name="Guia TV" tvg-logo="https://tinyurl.com/2azaf982" group-title="Canais | ABERTO",Guia TV
@@ -118,7 +118,7 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-
 #EXTINF:-1 tvg-id="CulturaPará" tvg-name="TV Cultura Pará" tvg-logo="https://i.imgur.com/4zSMUof.png" group-title="Canais | ABERTO",TV Cultura Pará  HD
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeFamilia" tvg-name="Rede Família HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11348/logo_256_1684137425.png" group-title="Canais | ABERTO",Rede Família HD
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Família HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11348/logo_256_1684137425.png" group-title="Canais | ABERTO",Rede Família HD
 https://tv03.zas.media:1936/rftv/rftv/chunklist_w554865708.m3u8
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP" tvg-logo="https://i.imgur.com/eNr4igC.png" group-title="Canais | ABERTO",TV Gazeta SP HD
@@ -127,49 +127,49 @@ https://Jr10N.short.gy/logica-stream.live/gazeta.cdn/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP" tvg-logo="https://i.imgur.com/eNr4igC.png" group-title="Canais | ABERTO",TV Gazeta SP HD²
 https://Jr10N.short.gy/logica-stream.live/gazeta.cdn/index.m3u8
 
-#EXTINF:-1 tvg-id="TVAracati" tvg-name="TV Aracati HD" tvg-logo="https://i.imgur.com/F3CDRwl.png" group-title="Canais | ABERTO",TV Aracati HD
+#EXTINF:-1 tvg-id="TVAracati.br" tvg-name="TV Aracati HD" tvg-logo="https://i.imgur.com/F3CDRwl.png" group-title="Canais | ABERTO",TV Aracati HD
 https://Jr10N.short.gy/video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w659222431.m3u8
 
-#EXTINF:-1 tvg-id="AmazonSat" tvg-name="Amazon Sat HD" tvg-logo="https://i.imgur.com/oLpnEtx.jpeg" group-title="Canais | ABERTO",Amazon Sat HD
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-name="Amazon Sat HD" tvg-logo="https://i.imgur.com/oLpnEtx.jpeg" group-title="Canais | ABERTO",Amazon Sat HD
 https://Jr10N.short.gy/Jr10N/amazonsat/index1.m3u8
 
-#EXTINF:-1 tvg-id="TVideonews" tvg-name="TVideonews HD" tvg-logo="https://i.imgur.com/fpH9x0z.png" group-title="Canais | ABERTO",TVideonews HD
+#EXTINF:-1 tvg-id="TVideonews.br" tvg-name="TVideonews HD" tvg-logo="https://i.imgur.com/fpH9x0z.png" group-title="Canais | ABERTO",TVideonews HD
 https://Jr10N.short.gy/video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1661896635.m3u8
 
-#EXTINF:-1 tvg-id="RedeMinas" tvg-name="Rede Minas HD" tvg-logo="https://i.imgur.com/bFuziKt.png" group-title="Canais | ABERTO",Rede Minas HD
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-name="Rede Minas HD" tvg-logo="https://i.imgur.com/bFuziKt.png" group-title="Canais | ABERTO",Rede Minas HD
 https://Jr10N.short.gy/redeminas-stream/live.local/Index.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara HD" tvg-logo="https://i.imgur.com/QEwEFAg.jpeg" group-title="Canais | ABERTO",TV Câmara HD
 https://Jr10N.short.gy/Jr10N/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="XtremeTV" tvg-name="XTREME TV" tvg-logo="https://imgur.com/3AbUT8O.png" group-title="Canais | ABERTO",XTREME TV HD
+#EXTINF:-1 tvg-id="XtremeTV.br" tvg-name="XTREME TV" tvg-logo="https://imgur.com/3AbUT8O.png" group-title="Canais | ABERTO",XTREME TV HD
 https://Jr10N.short.gy/stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CaravanaPlay" tvg-name="Caravana Play" tvg-logo="https://imgur.com/qUiPZiw.png" group-title="Canais | ABERTO",Caravana Play HD
+#EXTINF:-1 tvg-id="CaravanaPlay.br" tvg-name="Caravana Play" tvg-logo="https://imgur.com/qUiPZiw.png" group-title="Canais | ABERTO",Caravana Play HD
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV" tvg-name="ADRENALINA PURA TV" tvg-logo="https://i.imgur.com/ylcBhl2.jpeg" group-title="Canais | ABERTO",ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="AWTV" tvg-name="AW TV" tvg-logo="https://imgur.com/zxFbtNi.png" group-title="Canais | ABERTO",AW TV BD
+#EXTINF:-1 tvg-id="AWTV.br" tvg-name="AW TV" tvg-logo="https://imgur.com/zxFbtNi.png" group-title="Canais | ABERTO",AW TV BD
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlayTV" tvg-name="Play TV" tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="Canais | ABERTO",Play TV HD
+#EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV" tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="Canais | ABERTO",Play TV HD
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 
-#EXTINF:-1 tvg-id="GospelMoviesTV" tvg-name="Gospel Movies TV" tvg-logo="https://i.imgur.com/niOjbp5.png" group-title="Canais | ABERTO",Gospel Movies TV HD
+#EXTINF:-1 tvg-id="GospelMoviesTV.br" tvg-name="Gospel Movies TV" tvg-logo="https://i.imgur.com/niOjbp5.png" group-title="Canais | ABERTO",Gospel Movies TV HD
 https://Jr10N.short.gy/Stream.srvif.com/Manogospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNT.br" tvg-name="Rede CNT HD" tvg-logo="https://imgur.com/qFfyqQm.png" group-title="Canais | ABERTO",Rede CNT HD
 
 
-#EXTINF:-1 tvg-id="TVSulMinas" tvg-name="TV Sul de Minas HD" tvg-logo="https://i.imgur.com/4KQJxzb.png" group-title="Canais | ABERTO",TV Sul de Minas HD
+#EXTINF:-1 tvg-id="TVSulMinas.br" tvg-name="TV Sul de Minas HD" tvg-logo="https://i.imgur.com/4KQJxzb.png" group-title="Canais | ABERTO",TV Sul de Minas HD
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/chunklist_w886847056.m3u8
 
-#EXTINF:-1 tvg-id="CATVE2" tvg-name="CATVE 2" tvg-logo="https://i.imgur.com/BJVNmJv.png" group-title="Canais | ABERTO",CATVE 2 HD
+#EXTINF:-1 tvg-id="CATVE2.br" tvg-name="CATVE 2" tvg-logo="https://i.imgur.com/BJVNmJv.png" group-title="Canais | ABERTO",CATVE 2 HD
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PrimerTV" tvg-name="Primer TV" tvg-logo="https://i.imgur.com/LOB5R1E.jpeg" group-title="Canais | ABERTO",Primer TV HD
+#EXTINF:-1 tvg-id="PrimerTV.br" tvg-name="Primer TV" tvg-logo="https://i.imgur.com/LOB5R1E.jpeg" group-title="Canais | ABERTO",Primer TV HD
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVUFG" tvg-name="TV UFG" tvg-logo="https://i.imgur.com/AF6NzrV.png" group-title="Canais | ABERTO",TV UFG HD
