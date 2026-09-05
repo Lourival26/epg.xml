@@ -21,7 +21,7 @@ https://files.catbox.moe/seu_video4.mp4
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
-https://megaflix.mgfiles.lat/2db28a8006379b00ea3eec4872d9d449/file.m3u8
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1
 
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
 https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8
