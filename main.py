@@ -2,10 +2,12 @@ import gzip
 import urllib.request
 import xml.etree.ElementTree as ET
 
-# URLs das fontes confiáveis (Brasil Geral + Pluto TV Oficial via iptv-org)
+# URLs das quatro fontes unificadas
 URLS = [
+    "https://i.mjh.nz/PlutoTV/br.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
+    "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml",
     "https://iptv-epg.org/files/epg-br.xml",
-    "https://iptv-org.github.io/epg/guides/br/plutotv.com.br.epg.xml",
 ]
 
 output_file = "epg.completo.xml"
@@ -23,7 +25,7 @@ for url in URLS:
     with urllib.request.urlopen(req) as response:
       content = response.read()
 
-      # Se por acaso alguma fonte futura usar .gz, mantém a segurança
+      # Se o link terminar com .gz, descompacta automaticamente
       if url.endswith(".gz"):
         content = gzip.decompress(content)
 
@@ -39,4 +41,7 @@ for url in URLS:
 tree = ET.ElementTree(root)
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 
-print(f"EPG unificado gerado com sucesso por Lourival26 em '{output_file}'!")
+print(
+    f"EPG unificado gerado com sucesso por Escritor Lourival26 em"
+    f" '{output_file}'!"
+)
