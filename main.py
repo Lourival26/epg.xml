@@ -2,11 +2,9 @@ import gzip
 import urllib.request
 import xml.etree.ElementTree as ET
 
-# URLs das quatro fontes unificadas
+# URLs mantidas: Pluto TV e o guia geral do iptv-epg.org
 URLS = [
     "https://i.mjh.nz/PlutoTV/br.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
-    "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml",
     "https://iptv-epg.org/files/epg-br.xml",
 ]
 
