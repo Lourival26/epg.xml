@@ -394,16 +394,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 # Canais | JORNADA NAS ESTRELAS 
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="PlutoTVStarTrek.br" tvg-name="Pluto TV Star Trek" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Pluto TV Star Trek
+#EXTINF:-1 tvg-id="PlutoTVStarTrek" tvg-name="Pluto TV Star Trek" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Pluto TV Star Trek
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 
-#EXTINF:-1 tvg-id="StarTrekTNG.br" tvg-name="Star Trek: The Next Generation" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: The Next Generation
+#EXTINF:-1 tvg-id="StarTrekTNG" tvg-name="Star Trek: The Next Generation" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: The Next Generation
 https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
 
-#EXTINF:-1 tvg-id="StarTrekDS9.br" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: Deep Space Nine
+#EXTINF:-1 tvg-id="StarTrekDS9" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 
-#EXTINF:-1 tvg-id="StarTrekVoyager.br" tvg-name="Star Trek: Voyager" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: Voyager
+#EXTINF:-1 tvg-id="StarTrekVoyager" tvg-name="Star Trek: Voyager" tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="Canais | JORNADA NAS ESTRELAS",Star Trek: Voyager
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
 
 ############################################################################ 
@@ -505,6 +505,9 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineMonde" tvg-name="Cine Monde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Canais | FILMES E SERIES",Cine Monde HD
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNAFILMES.br" tvg-name="TVNAFILMES HD" tvg-logo="https://i.imgur.com/jFKkRD4.jpeg" group-title=" Canais | FILMES E SERIES"TVNA Filmes HD
+https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DarkFlix" tvg-name="Dark Flix" tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES E SERIES",Dark Flix HD
 https://darkflix.play.cportal.com.br/live/1/stream.m3u8
