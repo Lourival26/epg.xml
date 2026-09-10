@@ -85,10 +85,10 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 # Canais | ABERTO
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="TV Vila Real.br" tvg-name="TV Vila Real HD" tvg-logo="https://i.imgur.com/0IdcksU.jpeg" group-title="Abertos",TV Vila Real HD
+#EXTINF:-1 tvg-id="TVVilaReal.br" tvg-name="TV Vila Real HD" tvg-logo="https://i.imgur.com/0IdcksU.jpeg" group-title="ABERTO",TV Vila Real HD
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV Pampa SD" tvg-logo="https://i.imgur.com/tLf0JIG.jpeg" group-title="Abertos",TV Pampa SD
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV Pampa SD" tvg-logo="https://i.imgur.com/tLf0JIG.jpeg" group-title="ABERTO",TV Pampa SD
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w2051106909.m3u8
 
 #EXTINF:-1 tvg-id="TVE.br" tvg-name="TVE FHD" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE FHD
@@ -506,7 +506,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineMonde" tvg-name="Cine Monde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Canais | FILMES E SERIES",Cine Monde HD
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVNAFILMES.br" tvg-name="TVNAFILMES HD" tvg-logo="https://i.imgur.com/jFKkRD4.jpeg" group-title=" Canais | FILMES E SERIES"TVNA Filmes HD
+#EXTINF:-1 tvg-id="TVNAFILMES.br" tvg-name="TVNAFILMES HD" tvg-logo="https://i.imgur.com/jFKkRD4.jpeg" group-title="Canais | FILMES E SERIES"TVNA Filmes HD
 https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DarkFlix" tvg-name="Dark Flix" tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES E SERIES",Dark Flix HD
