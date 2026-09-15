@@ -452,6 +452,9 @@ https://megaflix.mgfiles.lat/d0001fcac971a8f5fec353c6b5555c92/file.m3u8
 #EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
 https://megaflix.mgfiles.lat/394e166f37da5398d6ec6ca847cae6b8/file.m3u8
 
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC SD
+http://170.83.49.66:8083/AMCHD/index.m3u8
+
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 http://45.176.228.245:80/AMC/index.m3u8
 
