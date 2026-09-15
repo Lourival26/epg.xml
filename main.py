@@ -2,10 +2,10 @@ import gzip
 import urllib.request
 import xml.etree.ElementTree as ET
 
-# URLs mantidas: Pluto TV e o guia geral do iptv-epg.org
+# URLs invertidas conforme solicitado: iptv-epg.org primeiro, Pluto TV embaixo
 URLS = [
-    "https://i.mjh.nz/PlutoTV/br.xml.gz",
     "https://iptv-epg.org/files/epg-br.xml",
+    "https://i.mjh.nz/PlutoTV/br.xml.gz",
 ]
 
 output_file = "epg.completo.xml"
@@ -17,9 +17,7 @@ root = ET.Element("tv")
 for url in URLS:
   print(f"Processando: {url}")
   try:
-    req = urllib.request.Request(
-        url, headers={"User-Agent": "Mozilla/5.0"}
-    )
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req) as response:
       content = response.read()
 
