@@ -429,7 +429,7 @@ http://170.83.16.50/AeE/index.m3u8
 http://79.127.238.228:14551/
 
 #EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD
-https://megaflix.mgfiles.lat/4bb4b6c41f7fc9cd855688d0bdb463ee/file.m3u8
+http://170.83.16.50/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
 http://46.151.196.223:14326/
