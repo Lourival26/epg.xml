@@ -1,58 +1,59 @@
-import gzip
-import urllib.request
 import xml.etree.ElementTree as ET
+import requests
 
-# Ordem atualizada: iptv-epg.org primeiro, Pluto TV embaixo
-URLS = [
-    "https://iptv-epg.org/files/epg-br.xml",
-    "https://i.mjh.nz/PlutoTV/br.xml.gz",
-]
+nome_usuario = "Lourival26"
+url_br = "https://iptv-epg.org/files/epg-br.xml"
+url_pluto = "https://i.mjh.nz/PlutoTV/all.xml"
 
-output_file = "epg.completo.xml"
+print(f"Olá, {nome_usuario}! Iniciando o download e unificação dos EPGs...")
 
-print("Baixando e unificando os arquivos EPG de forma leve...")
+# --- 1. Baixando e processando o EPG do Brasil ---
+try:
+  response_br = requests.get(url_br, timeout=30)
+  if response_br.status_code == 200:
+    root_br = ET.fromstring(response_br.content)
+    root_br.set("generator-info-name", f"{nome_usuario} - EPG Brasil Separado")
+    print("EPG do Brasil baixado com sucesso!")
+  else:
+    root_br = None
+except Exception as e:
+  print(f"Erro ao conectar ao EPG do Brasil: {e}")
+  root_br = None
 
-root = ET.Element("tv")
-elementos_adicionados = set()
+# --- 2. Baixando e processando o EPG da Pluto TV ---
+try:
+  response_pluto = requests.get(url_pluto, timeout=30)
+  if response_pluto.status_code == 200:
+    root_pluto = ET.fromstring(response_pluto.content)
+    root_pluto.set("generator-info-name", f"{nome_usuario} - EPG Pluto Separado")
+    print("EPG da Pluto TV baixado com sucesso!")
+  else:
+    root_pluto = None
+except Exception as e:
+  print(f"Erro ao conectar ao EPG da Pluto TV: {e}")
+  root_pluto = None
 
-for url in URLS:
-  print(f"Processando: {url}")
-  try:
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req) as response:
-      content = response.read()
+# --- 3. Unificando e salvando apenas o completo ---
+if root_br is not None and root_pluto is not None:
+  print("Unificando os EPGs...")
+  root_br.set("generator-info-name", f"{nome_usuario} - EPG Completo Unificado")
 
-      if url.endswith(".gz"):
-        content = gzip.decompress(content)
+  existing_channels = {ch.get("id"): ch for ch in root_br.findall("channel")}
 
-      # Usando iterparse para economizar muita memória RAM
-      from io import BytesIO
+  for channel in root_pluto.findall("channel"):
+    ch_id = channel.get("id")
+    if ch_id not in existing_channels:
+      root_br.append(channel)
+      existing_channels[ch_id] = channel
 
-      for event, elem in ET.iterparse(BytesIO(content), events=("end",)):
-        if elem.tag in ("channel", "programme"):
-          # Evita duplicar canais ou programas repetidos se houver sobreposição
-          elem_id = elem.get("id") or (
-              elem.get("channel")
-              + elem.get("start", "")
-              + elem.get("stop", "")
-          )
+  for programme in root_pluto.findall("programme"):
+    root_br.append(programme)
 
-          if elem_id not in elementos_adicionados:
-            elementos_adicionados.add(elem_id)
-            root.append(elem)
-          else:
-            elem.clear()  # Descarta duplicados da memória
-        elif elem.tag == "tv":
-          elem.clear()
+  arquivo_final = "epg.completo.xml"
+  tree_final = ET.ElementTree(root_br)
+  tree_final.write(arquivo_final, encoding="utf-8", xml_declaration=True)
 
-  except Exception as e:
-    print(f"Erro ao processar {url}: {e}")
-
-# Salva o XML otimizado
-tree = ET.ElementTree(root)
-tree.write(output_file, encoding="utf-8", xml_declaration=True)
-
-print(
-    f"EPG leve gerado com sucesso por Escritor Lourival26 em"
-    f" '{output_file}'!"
-)
+  print(f"Sucesso! Arquivo '{arquivo_final}' gerado.")
+else:
+  print("Erro na unificação, um dos arquivos falhou.")
+    
