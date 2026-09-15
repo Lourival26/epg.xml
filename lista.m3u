@@ -27,16 +27,16 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 https://megaflix.mgfiles.lat/e4dbaf4a9a639fd534175825e13fe51c/file.m3u8
 
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
-https://megaflix.mgfiles.lat/e4dbaf4a9a639fd534175825e13fe51c/file.m3u8
+
 
 #EXTINF:-1 tvg-id="GloboMT.br" tvg-name="Globo MT HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
-http://15.235.42.84:8088/rj-live/rj-live/600267.ts
+
 
 #EXTINF:-1 tvg-id="GloboMG.br" tvg-name="Globo MG HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
-https://megaflix.mgfiles.lat/2ba6636b5c30affbdac54fd41469f3b8/file.m3u8
+
 
 #EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="RPC Curitiba HD" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
-http://15.235.42.84:8088/rj-live/rj-live/600220.ts
+
 
 #EXTINF:-1 tvg-id="GloboGoiás.br" tvg-name="Globo Goiás HD" tvg-logo="https://i.imgur.com/Lk493tt.png" group-title="Canais | GLOBO",Globo Goiás HD
 http://15.235.42.84:8088/rj-live/rj-live/600281.ts
@@ -45,7 +45,7 @@ http://15.235.42.84:8088/rj-live/rj-live/600281.ts
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-id="GloboManaus.br" tvg-name="Globo Manaus HD" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
-https://megaflix.mgfiles.lat/e3a08fe2169c1ae4b3b2e4330aceb3ae/file.m3u8
+
 
 ############################################################################ 
 # Canais | SBT
