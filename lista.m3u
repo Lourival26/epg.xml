@@ -494,10 +494,10 @@ https://megaflix.mgfiles.lat/27c3a50daad51079b06b3715f4175623/file.m3u8
 #EXTINF:-1 tvg-id="HBOPOP.br" tvg-name="HBO POP" tvg-logo="https://i.imgur.com/UnA8duG.png" group-title="Canais | FILMES E SERIES",HBO POP HD
 https://megaflix.mgfiles.lat/f208bdd4fd9f251200b13937992784f1/file.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="StudioUniversal HD" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
-https://megaflix.mgfiles.lat/1ffddd89d3dd37cb5cbe233a8e71b581/file.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="StudioUniversal HD" tvg-logo="https://i.imgur.com/YwHqpFg.jpeg" group-title="Canais | FILMES E SERIES", Studio Universal Channel HD
+http://187.102.210.46/universo/index.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="StudioUniversal HD" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel FHD
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="StudioUniversal HD" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
 https://megaflix.mgfiles.lat/0c9aa20f345b331603f268d526441259/file.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovies" tvg-name="MyTime Movies" tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES",MyTime Movies
