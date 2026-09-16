@@ -459,7 +459,7 @@ http://170.83.49.66:8083/AMCHD/index.m3u8
 http://45.176.228.245:80/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel" tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
-https://megaflix.mgfiles.lat/1238b49d932bb59067f82d41c359dcaa/file.m3u8
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wem1nAc.png" group-title="Canais | FILMES E SERIES",Sony Movies
 http://45.162.64.114:80/SONY_MOVIES/index.m3u8
