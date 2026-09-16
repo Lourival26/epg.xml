@@ -694,6 +694,9 @@ https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg018
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="Naruto" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais | ANIMES",Naruto
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+
+#EXTINF:-1 tvg-id="Naruto" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais | ANIMES",Naruto
 https://Jr10N.short.gy/tcl-anime-stream.live/Naruto.xnplay/tracks.index.m3u8
 
 #EXTINF:-1 tvg-id="LoadingTV" tvg-name="Loading...TV HD" tvg-logo="https://i.imgur.com/xFbshql.png" group-title="Canais | ANIMES",Loading...TV HD
