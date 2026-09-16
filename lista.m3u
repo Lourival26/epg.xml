@@ -982,6 +982,9 @@ https://amg00627-amg00627c75-amgplt0778.playout.now3.amagi.tv/1080p-por/index.m3
 # Canais | RELIGIOSO 
 ############################################################################ 
 
+#EXTINF:-1 tvg-id="TV Universal.br" tvg-name="TV Universal HD" tvg-logo="https://i.imgur.com/FSIxnp8.png" group-title="Canais | RELIGIOSO",TV Universal HD
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IurdTV " tvg-name="Igreja Universal HD" tvg-logo="https://i.imgur.com/8Ao4LIW.png" group-title="Canais | RELIGIOSO",Igreja Universal HD
 https://Jr10N.short.gy/tvuniversal/streams/azion/480p_chunk.index/m3u8
 
