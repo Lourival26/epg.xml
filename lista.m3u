@@ -23,11 +23,11 @@ https://files.catbox.moe/seu_video3.mp4
 #EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 
-#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
-https://megaflix.mgfiles.lat/e4dbaf4a9a639fd534175825e13fe51c/file.m3u8
+#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
+https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
-
+https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 
 #EXTINF:-1 tvg-id="GloboMT.br" tvg-name="Globo MT HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
 
