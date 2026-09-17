@@ -1,9 +1,12 @@
 import xml.etree.ElementTree as ET
 import requests
+import gzip
+import io
 
 nome_usuario = "Lourival26"
 url_br = "https://iptv-epg.org/files/epg-br.xml"
-url_pluto = "https://i.mjh.nz/PlutoTV/all.xml"
+# Substituído pelo link do EPGShare01 (Brasil)
+url_epgshare = "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
 print(f"Olá, {nome_usuario}! Iniciando o download e unificação dos EPGs...")
 
@@ -20,33 +23,37 @@ except Exception as e:
   print(f"Erro ao conectar ao EPG do Brasil: {e}")
   root_br = None
 
-# --- 2. Baixando e processando o EPG da Pluto TV ---
+# --- 2. Baixando e processando o EPG do EPGShare01 ---
 try:
-  response_pluto = requests.get(url_pluto, timeout=30)
-  if response_pluto.status_code == 200:
-    root_pluto = ET.fromstring(response_pluto.content)
-    root_pluto.set("generator-info-name", f"{nome_usuario} - EPG Pluto Separado")
-    print("EPG da Pluto TV baixado com sucesso!")
+  response_share = requests.get(url_epgshare, timeout=30)
+  if response_share.status_code == 200:
+    # Como o arquivo é .gz, descompactamos o conteúdo binário antes de ler com o ET
+    with gzip.open(io.BytesIO(response_share.content), "rb") as f_in:
+      xml_content = f_in.read()
+    
+    root_share = ET.fromstring(xml_content)
+    root_share.set("generator-info-name", f"{nome_usuario} - EPG Share Separado")
+    print("EPG do EPGShare01 baixado e descompactado com sucesso!")
   else:
-    root_pluto = None
+    root_share = None
 except Exception as e:
-  print(f"Erro ao conectar ao EPG da Pluto TV: {e}")
-  root_pluto = None
+  print(f"Erro ao conectar ao EPG do EPGShare01: {e}")
+  root_share = None
 
 # --- 3. Unificando e salvando apenas o completo ---
-if root_br is not None and root_pluto is not None:
+if root_br is not None and root_share is not None:
   print("Unificando os EPGs...")
   root_br.set("generator-info-name", f"{nome_usuario} - EPG Completo Unificado")
 
   existing_channels = {ch.get("id"): ch for ch in root_br.findall("channel")}
 
-  for channel in root_pluto.findall("channel"):
+  for channel in root_share.findall("channel"):
     ch_id = channel.get("id")
     if ch_id not in existing_channels:
       root_br.append(channel)
       existing_channels[ch_id] = channel
 
-  for programme in root_pluto.findall("programme"):
+  for programme in root_share.findall("programme"):
     root_br.append(programme)
 
   arquivo_final = "epg.completo.xml"
@@ -56,4 +63,3 @@ if root_br is not None and root_pluto is not None:
   print(f"Sucesso! Arquivo '{arquivo_final}' gerado.")
 else:
   print("Erro na unificação, um dos arquivos falhou.")
-    
