@@ -5,8 +5,8 @@ import io
 
 nome_usuario = "Lourival26"
 url_br = "https://iptv-epg.org/files/epg-br.xml"
-# Substituído pelo link do EPGShare01 (Brasil)
-url_epgshare = "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+# Substituído pelo link global do EPGShare01 (todos os países/fontes)
+url_epgshare_all = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 print(f"Olá, {nome_usuario}! Iniciando o download e unificação dos EPGs...")
 
@@ -23,26 +23,27 @@ except Exception as e:
   print(f"Erro ao conectar ao EPG do Brasil: {e}")
   root_br = None
 
-# --- 2. Baixando e processando o EPG do EPGShare01 ---
+# --- 2. Baixando e processando o EPG Global do EPGShare01 ---
 try:
-  response_share = requests.get(url_epgshare, timeout=30)
+  print("Baixando o arquivo global do EPGShare01 (isso pode demorar um pouco mais devido ao tamanho)...")
+  response_share = requests.get(url_epgshare_all, timeout=60)
   if response_share.status_code == 200:
     # Como o arquivo é .gz, descompactamos o conteúdo binário antes de ler com o ET
     with gzip.open(io.BytesIO(response_share.content), "rb") as f_in:
       xml_content = f_in.read()
     
     root_share = ET.fromstring(xml_content)
-    root_share.set("generator-info-name", f"{nome_usuario} - EPG Share Separado")
-    print("EPG do EPGShare01 baixado e descompactado com sucesso!")
+    root_share.set("generator-info-name", f"{nome_usuario} - EPG Share Global Separado")
+    print("EPG Global do EPGShare01 baixado e descompactado com sucesso!")
   else:
     root_share = None
 except Exception as e:
-  print(f"Erro ao conectar ao EPG do EPGShare01: {e}")
+  print(f"Erro ao conectar ao EPG Global do EPGShare01: {e}")
   root_share = None
 
 # --- 3. Unificando e salvando apenas o completo ---
 if root_br is not None and root_share is not None:
-  print("Unificando os EPGs...")
+  print("Unificando os EPGs (essa etapa pode exigir bastante memória RAM)...")
   root_br.set("generator-info-name", f"{nome_usuario} - EPG Completo Unificado")
 
   existing_channels = {ch.get("id"): ch for ch in root_br.findall("channel")}
