@@ -461,7 +461,7 @@ http://45.176.228.245:80/AMC/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel" tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wem1nAc.png" group-title="Canais | FILMES E SERIES",Sony Movies
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies HD " tvg-logo="https://i.imgur.com/wem1nAc.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
 http://45.162.64.114:80/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
@@ -559,7 +559,7 @@ https://Jr10N.short.gy/Runtime-cinEspanto/live.stream/Index.m3u8
 https://Jr10N.short.gy/Runtime-crime/live.stream/Index.m3u8
 
 #EXTINF:-1 tvg-id="Runtime" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Canais | FILMES",Runtime
-https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
 
 #EXTINF:-1 tvg-id="Pluto TV Cine Crime" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Cine Crime
 https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
