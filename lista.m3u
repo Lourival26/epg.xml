@@ -88,7 +88,10 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 # Canais | ABERTO
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="TVVilaReal.br" tvg-name="TV Vila Real HD" tvg-logo="https://i.imgur.com/0IdcksU.jpeg" group-title="ABERTO",TV Vila Real HD
+#EXTINF:-1 tvg-id="Bem MaisTV.br" tvg-name="Bem Mais TV HD" tvg-logo="https://i.imgur.com/YLzaw3x.png" group-title="ABERTO",Bem Mais TV HD
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VilaReal.br" tvg-name="Vila Real HD" tvg-logo="https://i.imgur.com/0IdcksU.jpeg" group-title="ABERTO",TV Vila Real HD
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV Pampa SD" tvg-logo="https://i.imgur.com/tLf0JIG.jpeg" group-title="ABERTO",TV Pampa SD
@@ -120,6 +123,9 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/XOqitHH.jpeg" group-title="Canais | ABERTO",Rede TV HD
 https://Jr10N.short.gy/tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w1241069161.m3u8
+
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura HD" tvg-logo="https://i.imgur.com/mGjOea6.png" group-title="Canais | ABERTO", Futura HD
+http://45.162.64.114/FUTURA/index.m3u8
 
 #EXTINF:-1 tvg-id="Cultura.br" tvg-name="Cultura HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZiyyLwcXxSheIbCXkg-cy2UXhkhabyMXXcQrWL2qN5x5gn0vtTtIaFjjy&s=10" group-title="Canais | ABERTO",Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
@@ -191,6 +197,9 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="CanalDoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="https://i.imgur.com/9IDbXGP.png" group-title="Canais | ABERTO",Canal do Boi HD
+http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalDoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="https://i.imgur.com/9IDbXGP.png" group-title="Canais | ABERTO",Canal do Boi HD²
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/7
 
 #EXTINF:-1 tvg-id="AgroCanal" tvg-name="Agro Canal" tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Canais | ABERTO",Agro Canal HD
@@ -293,6 +302,9 @@ https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8?a=1
 https://stream3.camara.gov.br/tv1/manifest.m3u8?a=1
 
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal GOV" tvg-logo="https://i.imgur.com/9KwUxmX.png" group-title="Canais | NOTÍCIAS",Canal GOV
+http://45.177.114.115/TV_BRASIL_2/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal GOV" tvg-logo="https://i.imgur.com/9KwUxmX.png" group-title="Canais | NOTÍCIAS",Canal GOV
 https://canalgov-stream.ebc.com.br/index.m3u8?a=1
 
 #EXTINF:-1 tvg-id="TVVideonews" tvg-name="TV VIDEONEWS" tvg-logo="https://i.imgur.com/4m1j3CL.png" group-title="Canais | NOTÍCIAS",TV VIDEONEWS
@@ -301,6 +313,15 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8?a=1
 ############################################################################ 
 # Canais | INFANTIL 
 ############################################################################ 
+
+#EXTINF:-1 tvg-id="AdultSwim.br" tvg-name="AdultSwim" tvg-logo="https://i.imgur.com/Ff4bi4Z.jpeg" group-title="Canais | INFANTIL",AdultSwim HD
+http://168.197.104.22/ADULT_SWIM/index.m3u8
+
+#EXTINF:-1 tvg-id="Avatar: A lenda de Aang.br " tvg-name="Avatar: A lenda de Aang " tvg-logo="https://i.imgur.com/fbgXyO0.jpeg" group-title="Canais | INFANTIL", Avatar: A lenda de Aang HD
+https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
+
+#EXTINF:-1 tvg-id=" Boxkids.br" tvg-name="Boxkids HD" tvg-logo="https://i.imgur.com/kA30mUM.png" group-title="Canais | INFANTIL", Boxkids HD
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 
 #EXTINF:-1 tvg-id="LucasTV" tvg-name="LucasTV HD" tvg-logo="https://i.imgur.com/5MRSGrZ.png" group-title="Canais | INFANTIL",Lucas TV HD
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
