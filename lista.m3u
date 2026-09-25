@@ -85,6 +85,9 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 # Canais | ABERTO
 ############################################################################ 
 
+#EXTINF:-1 tvg-id="TVAberta.br" tvg-name="TVAberta HD" tvg-logo=" " group-title="ABERTO",TV Aberta HD
+https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/chunklist_w489154010.m3u8
+
 #EXTINF:-1 tvg-id="Bem MaisTV.br" tvg-name="Bem Mais TV HD" tvg-logo="https://i.imgur.com/YLzaw3x.png" group-title="ABERTO",Bem Mais TV HD
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 
