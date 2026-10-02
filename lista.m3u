@@ -565,28 +565,28 @@ https://abre.ai/lSy5
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="Runtime Ação HD" tvg-name="Runtime Ação HD" tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="Canais | FILMES",Runtime Ação HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_360.m3u8
 
 #EXTINF:-1 tvg-id="Runtime TV e Filmes Grátis HD" tvg-name="Runtime TV e Filmes Grátis HD" tvg-logo="https://imgur.com/5aavtj1.png" group-title="Canais | FILMES",Runtime TV e Filmes Grátis HD
-https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8?a=1
+
 
 #EXTINF:-1 tvg-id="Runtime Comédia HD" tvg-name="Runtime Comédia HD" tvg-logo="https://imgur.com/TZ7LfjB.png" group-title="Canais | FILMES",Runtime Comédia HD 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
 
 #EXTINF:-1 tvg-id="Runtime Família HD" tvg-name="Runtime Família HD" tvg-logo="https://imgur.com/pFtnILf.png" group-title="Canais | FILMES",Runtime Família HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
 
 #EXTINF:-1 tvg-id="Runtime Romance HD" tvg-name="Runtime Romance HD" tvg-logo="https://imgur.com/U6ElKK3.png" group-title="Canais | FILMES",Runtime Romance HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
 
 #EXTINF:-1 tvg-id="Cine Espanto HD" tvg-name="Cine Espanto HD" tvg-logo="https://imgur.com/bzX7MO8.png" group-title="Canais | FILMES",Cine Espanto HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
 
 #EXTINF:-1 tvg-id="Runtime Crime HD" tvg-name="Runtime Crime HD" tvg-logo="https://imgur.com/KQt9WGA.png" group-title="Canais | FILMES",Runtime Crime HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
 
 #EXTINF:-1 tvg-id="Runtime" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Canais | FILMES",Runtime
-https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+
 
 ############################################################################ 
 # Canais |  PLUTO FILMES
