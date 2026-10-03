@@ -246,6 +246,9 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.co
 # Canais | BAND TV
 ############################################################################ 
 
+#EXTINF:-1 tvg-id="BandSP.br" tvg-name="Band SP HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP SD
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+
 #EXTINF:-1 tvg-id="BandSP.br" tvg-name="Band SP HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3
 
