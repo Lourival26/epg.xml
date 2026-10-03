@@ -574,7 +574,7 @@ https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_360.m3u8
 https://run-rc-br.otteravision.com/run/rc_br/rc_br_480.m3u8
 
 #EXTINF:-1 tvg-id="Runtime Família HD" tvg-name="Runtime Família HD" tvg-logo="https://imgur.com/pFtnILf.png" group-title="Canais | FILMES",Runtime Família HD
-
+https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
 
 #EXTINF:-1 tvg-id="Runtime Romance HD" tvg-name="Runtime Romance HD" tvg-logo="https://imgur.com/U6ElKK3.png" group-title="Canais | FILMES",Runtime Romance HD
 
