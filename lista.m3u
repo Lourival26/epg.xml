@@ -588,6 +588,9 @@ https://run-cr-br.otteravision.com/run/cr_br/cr_br_480.m3u8
 #EXTINF:-1 tvg-id="Runtime" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Canais | FILMES",Runtime
 
 
+#EXTINF:-1 tvg-id="Mega on TV e Filmes Grátis HD" tvg-name="Mega On TV e Filmes Grátis HD" tvg-logo="https://i.imgur.com/YbIxQNV.png" group-title="Canais | FILMES",Mega On TV HD
+https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
+
 ############################################################################ 
 # Canais |  PLUTO FILMES
 ############################################################################ 
