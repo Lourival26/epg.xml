@@ -16,6 +16,17 @@ https://files.catbox.moe/seu_video3.mp4
 #EXTINF:-1 tvg-id="atualizacao.lista" tvg-name="Atualizado" tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="STATUS DA LISTA" tvg-chno="4",ATUALIZADO EM: 08/10/2026
 https://files.catbox.moe/seu_video3.mp4
 
+
+############################################################################ 
+# Canais | REALITY
+############################################################################ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CAO4zsx.png" group-title="Canais | REALITY",A Fazenda 1
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/afazenda2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CAO4zsx.png" group-title="Canais | REALITY",A Fazenda 2
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/afazenda2.m3u8
+
 ############################################################################ 
 # Canais | GLOBO
 ############################################################################ 
@@ -24,16 +35,16 @@ https://files.catbox.moe/seu_video3.mp4
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
-https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globosp.m3u8
 
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
-https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globosp.m3u8
 
 #EXTINF:-1 tvg-id="GloboMT.br" tvg-name="Globo MT HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
 
 
 #EXTINF:-1 tvg-id="GloboMG.br" tvg-name="Globo MG HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
-
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globomg.m3u8
 
 #EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="RPC Curitiba HD" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
 
