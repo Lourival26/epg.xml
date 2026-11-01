@@ -4,16 +4,19 @@
 # INFORMAÇÕES E CANAIS DE AVISO
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="novidades" tvg-name="ManoTV" tvg-logo="https://i.imgur.com/Jll0uwQ.jpeg" group-title="ManoTV" tvg-chno="1",CANAL DO CLIENTE HD
+#EXTINF:-1 tvg-id="novidades" tvg-name="ManoTV" tvg-logo="https://i.imgur.com/BCCiq5l.jpeg" group-title="ManoTV" tvg-chno="1",CANAIS DE TV VIA INTERNET 
 https://files.catbox.moe/seu_video1.mp4
 
-#EXTINF:-1 tvg-id="doacao.pix" tvg-name="Doe PIX" tvg-logo="https://i.imgur.com/eFHB2RM.jpeg" group-title="DOE PIX" tvg-chno="2",DOE VIA PIX: (34) 99875-3933
+#EXTINF:-1 tvg-id="novidades" tvg-name="ManoTV" tvg-logo="https://i.imgur.com/Jll0uwQ.jpeg" group-title="ManoTV" tvg-chno="2",CANAL DO CLIENTE HD
+https://files.catbox.moe/seu_video1.mp4
+
+#EXTINF:-1 tvg-id="doacao.pix" tvg-name="Doe PIX" tvg-logo="https://i.imgur.com/eFHB2RM.jpeg" group-title="DOE PIX" tvg-chno="3",DOE VIA PIX: (34) 99875-3933
 https://files.catbox.moe/seu_video2.mp4
 
-#EXTINF:-1 tvg-id="contato.whatsapp" tvg-name="Contato WhatsApp" tvg-logo="https://i.imgur.com/KOvROBL.jpeg" group-title="QUER UM TESTE?" tvg-chno="3",WHATSAPP: (34) 99875-3933
+#EXTINF:-1 tvg-id="contato.whatsapp" tvg-name="Contato WhatsApp" tvg-logo="https://i.imgur.com/KOvROBL.jpeg" group-title="QUER UM TESTE?" tvg-chno="4",WHATSAPP: (34) 99875-3933
 https://files.catbox.moe/seu_video3.mp4
 
-#EXTINF:-1 tvg-id="atualizacao.lista" tvg-name="Atualizado" tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="STATUS DA LISTA" tvg-chno="4",ATUALIZADO EM: 29/10/2026
+#EXTINF:-1 tvg-id="atualizacao.lista" tvg-name="Atualizado" tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="STATUS DA LISTA" tvg-chno="5",ATUALIZADO EM: 01/11/2026
 https://files.catbox.moe/seu_video3.mp4
 
 ############################################################################ 
@@ -1138,1265 +1141,1265 @@ http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?a=1
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E01
-https://video.wixstatic.com/video/8d3786_78cf46b96af64c7c9bb83daaee518d25/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_78cf46b96af64c7c9bb83daaee518d25/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E02
-https://video.wixstatic.com/video/8d3786_2653831eda1d44aeb39c8bade721a565/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_2653831eda1d44aeb39c8bade721a565/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E03
-https://video.wixstatic.com/video/8d3786_2e3d274953bb4add83e2896bfe974d4c/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_2e3d274953bb4add83e2896bfe974d4c/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E04
-https://video.wixstatic.com/video/8d3786_9305922d398144488f2efea79470f772/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_9305922d398144488f2efea79470f772/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E05
-https://video.wixstatic.com/video/8d3786_c0eefab418cf4373ac62a78981e0a82d/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_c0eefab418cf4373ac62a78981e0a82d/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E06
-https://video.wixstatic.com/video/8d3786_bca9d6af35844a4c80e151f91378568a/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_bca9d6af35844a4c80e151f91378568a/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E07
-https://video.wixstatic.com/video/8d3786_05486c165b88401babc9192911e5b8a7/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_05486c165b88401babc9192911e5b8a7/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E08
-https://video.wixstatic.com/video/8d3786_31c4088cc8a64c8ca269fdf63a752756/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_31c4088cc8a64c8ca269fdf63a752756/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E09
-https://video.wixstatic.com/video/8d3786_d7ebdb21224c4ab3a4238d38e7ae4616/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d7ebdb21224c4ab3a4238d38e7ae4616/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E10
-https://video.wixstatic.com/video/8d3786_8ae49906ce09423a948e965cfb0ef464/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8ae49906ce09423a948e965cfb0ef464/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E11
-https://video.wixstatic.com/video/8d3786_41ab405d3e1740a1a907d3f765bc7cd2/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_41ab405d3e1740a1a907d3f765bc7cd2/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E12
-https://video.wixstatic.com/video/8d3786_1346e9658bb54b049c0649b17e463358/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1346e9658bb54b049c0649b17e463358/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E13
 https://video.wixstatic.com/video/daabbf_ca5926277a5a4a38bce8c6d106b8fba9/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E14
-https://video.wixstatic.com/video/8d3786_88cf5382a2ba4f02a3f89c3cedcda5bb/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_88cf5382a2ba4f02a3f89c3cedcda5bb/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E15
-https://video.wixstatic.com/video/8d3786_732e5c16522c4807a0fe77f199349039/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_732e5c16522c4807a0fe77f199349039/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E16
-https://video.wixstatic.com/video/8d3786_6cd05b19e9a9476e8a1e23a922d85f92/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_6cd05b19e9a9476e8a1e23a922d85f92/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E17
-https://video.wixstatic.com/video/8d3786_343e603cfaec45ba9db6cd5460f6afe7/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_343e603cfaec45ba9db6cd5460f6afe7/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E18
-https://video.wixstatic.com/video/8d3786_2a2eae2623384079bec4606cd66ebd77/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_2a2eae2623384079bec4606cd66ebd77/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E19
-https://video.wixstatic.com/video/8d3786_6fc4956d97e34083839a99cd6286d8f5/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_6fc4956d97e34083839a99cd6286d8f5/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E20
-https://video.wixstatic.com/video/8d3786_c391e0cf04f84f469a96af808bc3831a/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_c391e0cf04f84f469a96af808bc3831a/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E21
-https://video.wixstatic.com/video/8d3786_e3a1328c51554092be392aed4fdb362d/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_e3a1328c51554092be392aed4fdb362d/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCKTxUu.jpeg" group-title="Série |  Diários de um vampiro  S01",S01 E22
-https://video.wixstatic.com/video/8d3786_966865e319ae48aba0b54a51fd8d5474/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_966865e319ae48aba0b54a51fd8d5474/720p/mp4/file.mp4
 
 ############################################################################
 # Série | Diários de um Vampiro (S02)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 01
-https://video.wixstatic.com/video/8d3786_f0883c9bc5b14b0fbc84b1466f2b0131/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f0883c9bc5b14b0fbc84b1466f2b0131/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 02
-https://video.wixstatic.com/video/8d3786_24536eb0b5be4a3f82746b0e901e05e9/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_24536eb0b5be4a3f82746b0e901e05e9/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 03
-https://video.wixstatic.com/video/8d3786_dff332ba478546699a94f689640d776a/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_dff332ba478546699a94f689640d776a/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 04
-https://video.wixstatic.com/video/8d3786_b64d0a226ca1493791f46fca02632070/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b64d0a226ca1493791f46fca02632070/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 05
-https://video.wixstatic.com/video/8d3786_59aedd051ebf4e9f8b9691d1b23d0053/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_59aedd051ebf4e9f8b9691d1b23d0053/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 06
-https://video.wixstatic.com/video/8d3786_233c6e9866ac4cf0b50b05619e96fa04/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_233c6e9866ac4cf0b50b05619e96fa04/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 07
-https://video.wixstatic.com/video/8d3786_8bb98f4b71c244f3bda21a43826ce0f3/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8bb98f4b71c244f3bda21a43826ce0f3/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 08
-https://video.wixstatic.com/video/8d3786_82731eef18e54dd59a416bfc12b54c06/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_82731eef18e54dd59a416bfc12b54c06/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 09
-https://video.wixstatic.com/video/8d3786_e364f538f040485582a7ebb068a032b8/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_e364f538f040485582a7ebb068a032b8/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 10
-https://video.wixstatic.com/video/8d3786_54ca02417a9f46f7bf2ec7bc164967fc/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_54ca02417a9f46f7bf2ec7bc164967fc/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 11
-https://video.wixstatic.com/video/8d3786_35fed741a25b44b784e3b2147c9ec76f/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_35fed741a25b44b784e3b2147c9ec76f/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 12
-https://video.wixstatic.com/video/8d3786_d46d221378ed47d0a63bc768420b70e6/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d46d221378ed47d0a63bc768420b70e6/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 13
-https://video.wixstatic.com/video/8d3786_f2683606d37849bfaabb8403eeda2008/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f2683606d37849bfaabb8403eeda2008/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 14
-https://video.wixstatic.com/video/8d3786_4ca220b845ef4301afac5d2f768e4232/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_4ca220b845ef4301afac5d2f768e4232/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 15
-https://video.wixstatic.com/video/8d3786_d50ebe6cb40a48f08d0fa7bfaf7421fe/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d50ebe6cb40a48f08d0fa7bfaf7421fe/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 16
-https://video.wixstatic.com/video/8d3786_0d7aa6bde4a5429e889875dee6b78c87/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_0d7aa6bde4a5429e889875dee6b78c87/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 17
-https://video.wixstatic.com/video/8d3786_0d7aa6bde4a5429e889875dee6b78c87/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_0d7aa6bde4a5429e889875dee6b78c87/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 18
-https://video.wixstatic.com/video/8d3786_d4a3a498b5614b788ec6fd13fc936515/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d4a3a498b5614b788ec6fd13fc936515/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 19
-https://video.wixstatic.com/video/8d3786_05582a0254ca48baaf3f4cde28d34927/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_05582a0254ca48baaf3f4cde28d34927/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 20
-https://video.wixstatic.com/video/8d3786_68e7ff303eeb4758bb00c782db2a8427/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_68e7ff303eeb4758bb00c782db2a8427/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 21
-https://video.wixstatic.com/video/8d3786_622af73b8fc54a7a8bc47b7199c8af5b/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_622af73b8fc54a7a8bc47b7199c8af5b/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65HoRhM.jpeg" group-title="Série |  Diários de um vampiro  S02",S02 E 22
-https://video.wixstatic.com/video/8d3786_159d4c737386403195ddb13d1a89a358/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_159d4c737386403195ddb13d1a89a358/720p/mp4/file.mp4
 
 ############################################################################
 # Série | Diários de um Vampiro (S03)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 01
-https://video.wixstatic.com/video/8d3786_1a33af057ddb443ea547f305c655d1c0/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1a33af057ddb443ea547f305c655d1c0/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 02
-https://video.wixstatic.com/video/8d3786_bea28cef34984a45b8e0db2399eae2b6/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_bea28cef34984a45b8e0db2399eae2b6/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 03
-https://video.wixstatic.com/video/8d3786_c9df1b6d972648c1b0fdceb42951bb59/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_c9df1b6d972648c1b0fdceb42951bb59/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 04
-https://video.wixstatic.com/video/8d3786_d644dc2b2e904419b2cc09588f4cdcf5/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d644dc2b2e904419b2cc09588f4cdcf5/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 05
-https://video.wixstatic.com/video/8d3786_ae30acd9d86342179baeb700087dcd25/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_ae30acd9d86342179baeb700087dcd25/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 06
-https://video.wixstatic.com/video/8d3786_1eafb0011be74ff49d23df3253ddf02b/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1eafb0011be74ff49d23df3253ddf02b/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 07
-https://video.wixstatic.com/video/8d3786_a60260d887ea465d81163697a1896991/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_a60260d887ea465d81163697a1896991/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 08
-https://video.wixstatic.com/video/8d3786_1a14cdfec9224778b017f5ab52035ffc/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1a14cdfec9224778b017f5ab52035ffc/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 09
-https://video.wixstatic.com/video/8d3786_a851bff43fea417a86af869289dd40d1/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_a851bff43fea417a86af869289dd40d1/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 10
-https://video.wixstatic.com/video/8d3786_7b2739ba5efb4cc790e0ef106a303d36/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_7b2739ba5efb4cc790e0ef106a303d36/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 11
-https://video.wixstatic.com/video/8d3786_563940570c79471a88272906fac100b2/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_563940570c79471a88272906fac100b2/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 12
-https://video.wixstatic.com/video/8d3786_621a1595dea84e90aaebbb4e72d3e6ef/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_621a1595dea84e90aaebbb4e72d3e6ef/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 13
-https://video.wixstatic.com/video/8d3786_d8e1db0c988146829eb3443bf68dd6bc/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d8e1db0c988146829eb3443bf68dd6bc/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 14
-https://video.wixstatic.com/video/8d3786_9043859004ca44e2bf1085af20396d10/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_9043859004ca44e2bf1085af20396d10/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 15
-https://video.wixstatic.com/video/8d3786_fe6707ff5bc94b44babdffc145b58004/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_fe6707ff5bc94b44babdffc145b58004/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 16
-https://video.wixstatic.com/video/8d3786_3c905b63e1e04209a7f9c6198f8b41aa/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_3c905b63e1e04209a7f9c6198f8b41aa/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 17
-https://video.wixstatic.com/video/8d3786_6412a7c48c43439c8ee3f13b07db0423/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_6412a7c48c43439c8ee3f13b07db0423/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 18
-https://video.wixstatic.com/video/8d3786_3bbcef07a8004301ba308281126e932a/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_3bbcef07a8004301ba308281126e932a/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 19
-https://video.wixstatic.com/video/8d3786_677bfd8a4a2a47508d71df92990f2196/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_677bfd8a4a2a47508d71df92990f2196/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 20
-https://video.wixstatic.com/video/8d3786_acaca5f332044453b1bd3de22cc612f4/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_acaca5f332044453b1bd3de22cc612f4/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 21
-https://video.wixstatic.com/video/8d3786_b06d020ba51b488188c5f0fb45f1c01b/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b06d020ba51b488188c5f0fb45f1c01b/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRVZ1SK.jpeg" group-title="Série |  Diários de um vampiro  S03",S03 E 22
-https://video.wixstatic.com/video/8d3786_fdd1ebb5bd73423989e2499f608bf22c/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_fdd1ebb5bd73423989e2499f608bf22c/720p/mp4/file.mp4
 
 ############################################################################
 # Série | Diários de um Vampiro (S04)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 01
-https://video.wixstatic.com/video/8d3786_973e3cde73664e5b9157bde45ad7be05/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_973e3cde73664e5b9157bde45ad7be05/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 02
-https://video.wixstatic.com/video/8d3786_53a2bfb2578d44f499457d276f941a99/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_53a2bfb2578d44f499457d276f941a99/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 03
-https://video.wixstatic.com/video/8d3786_5afad5f23bd84ed78d581004fc6963a2/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_5afad5f23bd84ed78d581004fc6963a2/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 04
-https://video.wixstatic.com/video/8d3786_7fed823f8dba43d3b967f01e0c68e712/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_7fed823f8dba43d3b967f01e0c68e712/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 05
-https://video.wixstatic.com/video/8d3786_475113a41a3341cea2929648cc25af94/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_475113a41a3341cea2929648cc25af94/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 06
-https://video.wixstatic.com/video/8d3786_ec5006c124ed4aa998910d043d0b1d81/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_ec5006c124ed4aa998910d043d0b1d81/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 07
-https://video.wixstatic.com/video/8d3786_cd89623112b44bf6a67296df2a058177/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_cd89623112b44bf6a67296df2a058177/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 08
-https://video.wixstatic.com/video/8d3786_bf0f671899ae4ff1bc0687d23c30078d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_bf0f671899ae4ff1bc0687d23c30078d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 09
-https://video.wixstatic.com/video/8d3786_f431b15b752d4a4c8055b385fc852325/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f431b15b752d4a4c8055b385fc852325/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 10
-https://video.wixstatic.com/video/8d3786_069e8a38b81543eba5884d95f1b023fb/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_069e8a38b81543eba5884d95f1b023fb/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 11
-https://video.wixstatic.com/video/8d3786_bd3ecc3a5acc4756be39127e1409b12f/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_bd3ecc3a5acc4756be39127e1409b12f/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 12
-https://video.wixstatic.com/video/8d3786_1f8b979d97ac4faca85556d5e9856156/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1f8b979d97ac4faca85556d5e9856156/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 13
-https://video.wixstatic.com/video/8d3786_869a34a24d4349ee92659808d722afce/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_869a34a24d4349ee92659808d722afce/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 14
-https://video.wixstatic.com/video/8d3786_b6f316f14da743da83fb8c88fdc7c306/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b6f316f14da743da83fb8c88fdc7c306/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 15
-https://video.wixstatic.com/video/8d3786_0cc998b0c6bf403c9ab7b68554e6263c/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_0cc998b0c6bf403c9ab7b68554e6263c/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 16
-https://video.wixstatic.com/video/8d3786_8d2ede2aa629481ba3d2a3b84fe27b8c/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8d2ede2aa629481ba3d2a3b84fe27b8c/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 17
-https://video.wixstatic.com/video/8d3786_8be16cfe263b4182bab9af22841d013f/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8be16cfe263b4182bab9af22841d013f/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 18
-https://video.wixstatic.com/video/8d3786_cd1f2148bac541028440cb0eefa31517/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_cd1f2148bac541028440cb0eefa31517/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 19
-https://video.wixstatic.com/video/8d3786_c1cca7356e5b4760911e2006a237e587/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_c1cca7356e5b4760911e2006a237e587/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 20
-https://video.wixstatic.com/video/8d3786_c964def56de345949b91500097e55c2c/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_c964def56de345949b91500097e55c2c/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 21
-https://video.wixstatic.com/video/8d3786_8c609f0e8d0b4a08bbccc337751c5d0c/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8c609f0e8d0b4a08bbccc337751c5d0c/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 22
-https://video.wixstatic.com/video/8d3786_95a61be1f2834cdb88bd3093a04e7e5f/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_95a61be1f2834cdb88bd3093a04e7e5f/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOD4wmF.jpeg" group-title="Série |  Diários de um vampiro  S04",S04 E 23
-https://video.wixstatic.com/video/8d3786_b1368f96da0c4cfba783cae9c5d5cda3/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b1368f96da0c4cfba783cae9c5d5cda3/480p/mp4/file.mp4
 
 ############################################################################
 # Série | Diários de um Vampiro (S05)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 01
-https://video.wixstatic.com/video/8d3786_471d4ae49b664b64a63ad1d3aae0f939/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_471d4ae49b664b64a63ad1d3aae0f939/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 02
-https://video.wixstatic.com/video/8d3786_8f7c0384337344d4b6ceccd15ef43e69/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8f7c0384337344d4b6ceccd15ef43e69/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 03
-https://video.wixstatic.com/video/8d3786_1000ef3d4f36439bb486a7c81354a841/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1000ef3d4f36439bb486a7c81354a841/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 04
-https://video.wixstatic.com/video/8d3786_2b8ecb5189f84df19b2983626c49b312/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_2b8ecb5189f84df19b2983626c49b312/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 05
-https://video.wixstatic.com/video/8d3786_1d0d7ace9e3b47e99f882db9a0616baa/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1d0d7ace9e3b47e99f882db9a0616baa/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 06
-https://video.wixstatic.com/video/8d3786_a616ed2d51044b0a9a9ac4eb13bc2772/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_a616ed2d51044b0a9a9ac4eb13bc2772/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 07
-https://video.wixstatic.com/video/8d3786_f1a1d0ace5334721bee323e55b5cc5fc/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f1a1d0ace5334721bee323e55b5cc5fc/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 08
-https://video.wixstatic.com/video/8d3786_ae6cb0f5a7b54453a1ded5419e332be9/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_ae6cb0f5a7b54453a1ded5419e332be9/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 09
-https://video.wixstatic.com/video/8d3786_4e53be298a774b58932d80f0452d672f/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_4e53be298a774b58932d80f0452d672f/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 10
-https://video.wixstatic.com/video/8d3786_636715fd90b24d708b48e9caf83850ca/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_636715fd90b24d708b48e9caf83850ca/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 11
-https://video.wixstatic.com/video/8d3786_b4316301bf8a4448abb3e92e39f7f1e2/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b4316301bf8a4448abb3e92e39f7f1e2/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 12
-https://video.wixstatic.com/video/8d3786_735d0a4ba18b441984bcdc4de184e677/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_735d0a4ba18b441984bcdc4de184e677/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 13
-https://video.wixstatic.com/video/8d3786_f393f060a5354fcd8ef3345084d3da4a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f393f060a5354fcd8ef3345084d3da4a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 14
-https://video.wixstatic.com/video/8d3786_c4ceb2f52d7f46c6b5d9046a48b4b7c4/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_c4ceb2f52d7f46c6b5d9046a48b4b7c4/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 15
-https://video.wixstatic.com/video/8d3786_7f1d60235ee844bc9545bd56b6dcd247/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_7f1d60235ee844bc9545bd56b6dcd247/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 16
-https://video.wixstatic.com/video/8d3786_60ef299b03e04b8bbf12d3926f295d8d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_60ef299b03e04b8bbf12d3926f295d8d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 17
-https://video.wixstatic.com/video/8d3786_597846fce43a4f3cbf4c2d0f2db07f5a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_597846fce43a4f3cbf4c2d0f2db07f5a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 18
-https://video.wixstatic.com/video/8d3786_892585af0d274846ac4c732ead2a2501/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_892585af0d274846ac4c732ead2a2501/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 19
-https://video.wixstatic.com/video/8d3786_d80315ee36124573ac5805878def4407/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d80315ee36124573ac5805878def4407/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 20
-https://video.wixstatic.com/video/8d3786_720e0764e8e5446a985ab9fc05991e36/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_720e0764e8e5446a985ab9fc05991e36/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 21
-https://video.wixstatic.com/video/8d3786_82b6f9bfea5d41e28f0f675565bd758f/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_82b6f9bfea5d41e28f0f675565bd758f/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z33aT5A.jpeg" group-title="Série |  Diários de um vampiro  S05",S05 E 22
-https://video.wixstatic.com/video/8d3786_b04f47bdef5546b981a81d2593e89522/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b04f47bdef5546b981a81d2593e89522/480p/mp4/file.mp4
 
 ############################################################################
 # Série | Diários de um Vampiro (S06)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 01
-https://video.wixstatic.com/video/8d3786_a061b2d49183446f94f90ba5137ff214/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_a061b2d49183446f94f90ba5137ff214/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 02
-https://video.wixstatic.com/video/8d3786_35a4840dfa5c4d33ba5b990320027d38/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_35a4840dfa5c4d33ba5b990320027d38/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 03
-https://video.wixstatic.com/video/8d3786_33deb6b7105b4089837e3d0354ec104c/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_33deb6b7105b4089837e3d0354ec104c/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 04
-https://video.wixstatic.com/video/8d3786_699e610fc2ce4ee28f841dcd629f745f/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_699e610fc2ce4ee28f841dcd629f745f/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 05
-https://video.wixstatic.com/video/8d3786_3894924882764d3293040f7bd3c0c16c/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_3894924882764d3293040f7bd3c0c16c/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 06
-https://video.wixstatic.com/video/8d3786_33ae0eb57e67430190a951240c5eac72/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_33ae0eb57e67430190a951240c5eac72/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 07
-https://video.wixstatic.com/video/8d3786_a9a51a5ef22d44c1bc794142389d9c7c/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_a9a51a5ef22d44c1bc794142389d9c7c/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 08
-https://video.wixstatic.com/video/8d3786_a6c8045c64de44c3bab945d759811797/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_a6c8045c64de44c3bab945d759811797/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 09
-https://video.wixstatic.com/video/8d3786_7f14eefe0eeb425db2286ab99ccd030f/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_7f14eefe0eeb425db2286ab99ccd030f/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 10
-https://video.wixstatic.com/video/8d3786_a9c0ab6a2d5a48e4803fe26a4a707a31/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_a9c0ab6a2d5a48e4803fe26a4a707a31/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 11
-https://video.wixstatic.com/video/8d3786_b5fada68cab4401fb282336d799fc18c/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b5fada68cab4401fb282336d799fc18c/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 12
-https://video.wixstatic.com/video/8d3786_5815a82256f34f4089c037e44a85ffbe/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_5815a82256f34f4089c037e44a85ffbe/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 13
-https://video.wixstatic.com/video/da787a_3b30fe62fb7742aab0d9d8627921c5a7/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/da787a_3b30fe62fb7742aab0d9d8627921c5a7/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 14
-https://video.wixstatic.com/video/da787a_bb4b0d059ede48dba673a342d48a58c6/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/da787a_bb4b0d059ede48dba673a342d48a58c6/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 15
-https://video.wixstatic.com/video/8d3786_6fce7bc4254f47ebaa3dd82430a24296/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_6fce7bc4254f47ebaa3dd82430a24296/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 16
-https://video.wixstatic.com/video/8d3786_5ceb761971e14a05b761f895ff308f09/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_5ceb761971e14a05b761f895ff308f09/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 17
-https://video.wixstatic.com/video/8d3786_4a4e218ae84c4ea9a60597fcad69d532/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_4a4e218ae84c4ea9a60597fcad69d532/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 18
-https://video.wixstatic.com/video/8d3786_782f96b64a434bf0b4d3ed6ec4cdc63b/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_782f96b64a434bf0b4d3ed6ec4cdc63b/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 19
-https://video.wixstatic.com/video/8d3786_e28019064d8e44e482f01f68ddc22f58/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_e28019064d8e44e482f01f68ddc22f58/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 20
-https://video.wixstatic.com/video/8d3786_3579313ca43948f29cf6fcad77230595/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_3579313ca43948f29cf6fcad77230595/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 21
-https://video.wixstatic.com/video/8d3786_999c0d6c9b134992ab3f1351f360a760/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_999c0d6c9b134992ab3f1351f360a760/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnWFPBc.jpeg" group-title="Série |  Diários de um vampiro  S06",S06 E 22
-https://video.wixstatic.com/video/8d3786_26b2afaaa3fc43e48ca9c61290ac8eed/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_26b2afaaa3fc43e48ca9c61290ac8eed/720p/mp4/file.mp4
 
 ############################################################################
 # Série | Diários de um Vampiro (S07)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 01
-https://video.wixstatic.com/video/8d3786_c64a800eef2d4faa9fe6375de0023722/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_c64a800eef2d4faa9fe6375de0023722/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 02
-https://video.wixstatic.com/video/db47f8_feb25510f68c4c3184a10d273f0a4882/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/db47f8_feb25510f68c4c3184a10d273f0a4882/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 03
-https://video.wixstatic.com/video/8d3786_23fed73b43014e85bf24e6233b45fcd2/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_23fed73b43014e85bf24e6233b45fcd2/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 04
-https://video.wixstatic.com/video/8d3786_6108b4095e894970abe8466f74310a92/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_6108b4095e894970abe8466f74310a92/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 05
-https://video.wixstatic.com/video/8d3786_d1064fe74e9747aab81a899963a41f52/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d1064fe74e9747aab81a899963a41f52/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 06
-https://video.wixstatic.com/video/8d3786_1fc30765e1d64ab3aa2bbe22099f13e6/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1fc30765e1d64ab3aa2bbe22099f13e6/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 07
-https://video.wixstatic.com/video/8d3786_6d51a69faae04efeb4ca4ee8866d3072/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_6d51a69faae04efeb4ca4ee8866d3072/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 08
-https://video.wixstatic.com/video/8d3786_fbf4729d82074d10bf029b21f7fabb3e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_fbf4729d82074d10bf029b21f7fabb3e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 09
-https://video.wixstatic.com/video/8d3786_7331a5dace4949d283e68676f1b549f1/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_7331a5dace4949d283e68676f1b549f1/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 10
-https://video.wixstatic.com/video/8d3786_6f811804f8aa45b7b7a1d02729170daa/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_6f811804f8aa45b7b7a1d02729170daa/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 11
-https://video.wixstatic.com/video/8d3786_4ce0588b596a48e08e2105e826a3f4bb/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_4ce0588b596a48e08e2105e826a3f4bb/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 12
-https://video.wixstatic.com/video/8d3786_179a9ebd8c4e4480a5a70884c610d37c/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_179a9ebd8c4e4480a5a70884c610d37c/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 13
-https://video.wixstatic.com/video/8d3786_986792ccfe4840fa94166f80f7c72d4c/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_986792ccfe4840fa94166f80f7c72d4c/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 14
-https://video.wixstatic.com/video/8d3786_48c6126d352c4ce2b19fb85f2e68ace2/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_48c6126d352c4ce2b19fb85f2e68ace2/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 15
-https://video.wixstatic.com/video/8d3786_ba1c6840716c4f7ea4d3a0a0a170750d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_ba1c6840716c4f7ea4d3a0a0a170750d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 16
-https://video.wixstatic.com/video/8d3786_53c1faddcf36474e839d79885ef923ee/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_53c1faddcf36474e839d79885ef923ee/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 17
-https://video.wixstatic.com/video/8d3786_468c0f51bf9341cb8e7780627f185ecb/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_468c0f51bf9341cb8e7780627f185ecb/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 18
-https://video.wixstatic.com/video/8d3786_dda76473a4c84d4eaf04f661bc9fe8fb/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_dda76473a4c84d4eaf04f661bc9fe8fb/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 19
-https://video.wixstatic.com/video/8d3786_83a6bfbbec9940a09e7730f24176f38a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_83a6bfbbec9940a09e7730f24176f38a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 20
-https://video.wixstatic.com/video/8d3786_03302e29b1a74729b6f62cb1f691b98a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_03302e29b1a74729b6f62cb1f691b98a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 21
-https://video.wixstatic.com/video/8d3786_8b4b817118bc474592b1a7d67e0065dd/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8b4b817118bc474592b1a7d67e0065dd/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zb6uqPi.jpeg" group-title="Série |  Diários de um vampiro  S07",S07 E 22
-https://video.wixstatic.com/video/8d3786_e24556119c0f498ba6f102b04aa3d05c/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_e24556119c0f498ba6f102b04aa3d05c/480p/mp4/file.mp4
 
 ############################################################################
 # Série | Diários de um Vampiro (S08)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 01
-https://video.wixstatic.com/video/8d3786_1eef77b242a8417783ef7cd75b5a3c45/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1eef77b242a8417783ef7cd75b5a3c45/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg"group-title="Série |  Diários de um vampiro  S08",S08 E 02
-https://video.wixstatic.com/video/8d3786_41941b5e928d48929fcfd4bbbc28312d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_41941b5e928d48929fcfd4bbbc28312d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 03
-https://video.wixstatic.com/video/8d3786_2660a8febb9a49deb160ee6e1b9b6b76/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_2660a8febb9a49deb160ee6e1b9b6b76/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 04
-https://video.wixstatic.com/video/8d3786_b0f16d5fb63b42f48d03a07746a7f68a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b0f16d5fb63b42f48d03a07746a7f68a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 05
-https://video.wixstatic.com/video/8d3786_b9b663777de042c0a4638bf110448487/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b9b663777de042c0a4638bf110448487/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 06
-https://video.wixstatic.com/video/8d3786_4032280884934eca8f19bb21d1236bff/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_4032280884934eca8f19bb21d1236bff/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 07
-https://video.wixstatic.com/video/8d3786_6cc29ec3c1be4585a3f3e751a4a8210b/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_6cc29ec3c1be4585a3f3e751a4a8210b/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 08
-https://video.wixstatic.com/video/8d3786_4ab793d036ec436e97a2f49c2ae65561/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_4ab793d036ec436e97a2f49c2ae65561/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 09
-https://video.wixstatic.com/video/8d3786_8089a128f80c45cda46ccf29e53edf26/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8089a128f80c45cda46ccf29e53edf26/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 10
-https://video.wixstatic.com/video/8d3786_418c69910a074e1ca5dacdce6013352b/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_418c69910a074e1ca5dacdce6013352b/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg"group-title="Série |  Diários de um vampiro  S08",S08 E 11
-https://video.wixstatic.com/video/8d3786_553c0438945e45648e97d8d83128defb/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_553c0438945e45648e97d8d83128defb/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 12
-https://video.wixstatic.com/video/8d3786_80d1d0ab107345b3bfee6c3e78c74e7d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_80d1d0ab107345b3bfee6c3e78c74e7d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 13
-https://video.wixstatic.com/video/8d3786_61a2868b715747248c434e52deccd507/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_61a2868b715747248c434e52deccd507/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 14
-https://video.wixstatic.com/video/8d3786_40998d208fcc4fd7b9c01a4df0f9c171/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_40998d208fcc4fd7b9c01a4df0f9c171/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 15
-https://video.wixstatic.com/video/8d3786_e8340299bcf243e88831a0911fc669b1/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_e8340299bcf243e88831a0911fc669b1/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbW6qzj.jpeg" group-title="Série |  Diários de um vampiro  S08",S08 E 16
-https://video.wixstatic.com/video/8d3786_1efa5a9e3aee46a28a14cf318bd60c3a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1efa5a9e3aee46a28a14cf318bd60c3a/480p/mp4/file.mp4
 
 ############################################################################
 # Série | Os Originais (S01)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 01
-https://video.wixstatic.com/video/8d3786_042aaf3bdd7d41e9b9189b2d59b4b8f3/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_042aaf3bdd7d41e9b9189b2d59b4b8f3/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 02
-https://video.wixstatic.com/video/8d3786_92b2ac365d9f4508a4dbf7542345f575/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_92b2ac365d9f4508a4dbf7542345f575/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 03
-https://video.wixstatic.com/video/8d3786_d36bf0cae8cb4f93881f37b53373621e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d36bf0cae8cb4f93881f37b53373621e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 04
-https://video.wixstatic.com/video/8d3786_163d1eeae67c4b42861ffd18ace0d861/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_163d1eeae67c4b42861ffd18ace0d861/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 05
-https://video.wixstatic.com/video/8d3786_1df8c127703c4b85a03edbf39e4899a7/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1df8c127703c4b85a03edbf39e4899a7/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 06
-https://video.wixstatic.com/video/8d3786_b37e009439ac46f69943d9bc7b8e7d90/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b37e009439ac46f69943d9bc7b8e7d90/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 07
-https://video.wixstatic.com/video/8d3786_e98351f5f99444a58398686682b31953/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_e98351f5f99444a58398686682b31953/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 08
-https://video.wixstatic.com/video/8d3786_75a950bb21934e82adad22312a6ec96e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_75a950bb21934e82adad22312a6ec96e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 09
-https://video.wixstatic.com/video/8d3786_13140cb489a342c7ae3eaaa609bf0555/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_13140cb489a342c7ae3eaaa609bf0555/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 10
-https://video.wixstatic.com/video/8d3786_2c4b2b453f2948e19eda7a900489fab9/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_2c4b2b453f2948e19eda7a900489fab9/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 11
-https://video.wixstatic.com/video/8d3786_42ab4c24438848f2adeabb2ffb93e2e8/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_42ab4c24438848f2adeabb2ffb93e2e8/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 12
-https://video.wixstatic.com/video/8d3786_43bbaa78cf6a4862a5f9a04fca0badfe/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_43bbaa78cf6a4862a5f9a04fca0badfe/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 13
-https://video.wixstatic.com/video/8d3786_78585c4d158f4813b5bfaae533828115/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_78585c4d158f4813b5bfaae533828115/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 14
-https://video.wixstatic.com/video/8d3786_57a1ae0a1a044f0aa85113372271c496/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_57a1ae0a1a044f0aa85113372271c496/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 15
-https://video.wixstatic.com/video/8d3786_56846220f8714607b5f3d8351e0aba3b/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_56846220f8714607b5f3d8351e0aba3b/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 16
-https://video.wixstatic.com/video/8d3786_a35bbd1e41324a5bbf20a18f76a87ec8/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_a35bbd1e41324a5bbf20a18f76a87ec8/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 17
-https://video.wixstatic.com/video/8d3786_9a7fb7cdd2ff44b5af908d990fb8b53f/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_9a7fb7cdd2ff44b5af908d990fb8b53f/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 18
-https://video.wixstatic.com/video/8d3786_012b3e4387314cc2bf2a18cf062d3f5a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_012b3e4387314cc2bf2a18cf062d3f5a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 19
-https://video.wixstatic.com/video/8d3786_4ecbe824dc5b45679c38cbee81beb9b4/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_4ecbe824dc5b45679c38cbee81beb9b4/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 20
-https://video.wixstatic.com/video/8d3786_dba511e9a823499fbfcd5c08c4c40d62/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_dba511e9a823499fbfcd5c08c4c40d62/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 21
-https://video.wixstatic.com/video/8d3786_800ba3e2c8584b1a988cc7303849ab0e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_800ba3e2c8584b1a988cc7303849ab0e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeDvqB.jpeg" group-title="Série |  OS ORIGINAIS  S01",S01 E 22
-https://video.wixstatic.com/video/8d3786_f462070b2744415db408d8c900ce5009/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f462070b2744415db408d8c900ce5009/480p/mp4/file.mp4
 
 ############################################################################
 # Série | Os Originais (S02)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 01
-https://video.wixstatic.com/video/8d3786_2f55f5be155046a0bfc3bb68c1d686ad/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_2f55f5be155046a0bfc3bb68c1d686ad/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 02
-https://video.wixstatic.com/video/8d3786_b46f3d0157f7430f8eb51c67d28453e1/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b46f3d0157f7430f8eb51c67d28453e1/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 03
-https://video.wixstatic.com/video/8d3786_7cf9f59e4472467d8babf692c267a40d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_7cf9f59e4472467d8babf692c267a40d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 04
-https://video.wixstatic.com/video/8d3786_6839efd027b04afebf1139aff8dbfa84/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_6839efd027b04afebf1139aff8dbfa84/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 05
-https://video.wixstatic.com/video/8d3786_20ce9a085caf41a19905ed58233b886e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_20ce9a085caf41a19905ed58233b886e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 06
-https://video.wixstatic.com/video/8d3786_6ed43328500a46478245984cbec2593c/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_6ed43328500a46478245984cbec2593c/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 07
-https://video.wixstatic.com/video/8d3786_bcecd46a16854ac69fc2a1de471c217c/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_bcecd46a16854ac69fc2a1de471c217c/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 08
-https://video.wixstatic.com/video/8d3786_a3ff618d42bd411f99345738e1229448/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_a3ff618d42bd411f99345738e1229448/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 09
-https://video.wixstatic.com/video/daabbf_88fb092b11ea4aa3a6341cf7abf65920/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_88fb092b11ea4aa3a6341cf7abf65920/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 10
-https://video.wixstatic.com/video/8d3786_5def3f9e17b5415394265939fdd5a7fe/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_5def3f9e17b5415394265939fdd5a7fe/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 11
-https://video.wixstatic.com/video/8d3786_d3567a9e0f75447a81a814dc9c916454/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d3567a9e0f75447a81a814dc9c916454/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 12
-https://video.wixstatic.com/video/8d3786_10fc48bd33d243d49a14f327271d593f/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_10fc48bd33d243d49a14f327271d593f/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 13
-https://video.wixstatic.com/video/8d3786_ee31cc993b4246bca1ff5c49d37132c4/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_ee31cc993b4246bca1ff5c49d37132c4/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 14
-https://video.wixstatic.com/video/8d3786_b434c6a32587493095cba1917b5d80b8/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b434c6a32587493095cba1917b5d80b8/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 15
-https://video.wixstatic.com/video/8d3786_dd06d4d58e7c42d89b5f55d64f0899d2/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_dd06d4d58e7c42d89b5f55d64f0899d2/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 16
-https://video.wixstatic.com/video/8d3786_9c4325e4d7384605bd4f184d64658f0e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_9c4325e4d7384605bd4f184d64658f0e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 17
-https://video.wixstatic.com/video/8d3786_26472c88f58d44c99a5d1684bda9f6c9/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_26472c88f58d44c99a5d1684bda9f6c9/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 18
-https://video.wixstatic.com/video/8d3786_1d4cf67f34474fc291b3d7baf083702e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1d4cf67f34474fc291b3d7baf083702e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 19
-https://video.wixstatic.com/video/8d3786_7a80a35b8fc44f4098068fb5859efedd/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_7a80a35b8fc44f4098068fb5859efedd/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 20
-https://video.wixstatic.com/video/8d3786_ca61f568c1d54422aa5bd8da830bec7f/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_ca61f568c1d54422aa5bd8da830bec7f/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 21
-https://video.wixstatic.com/video/8d3786_0af24a53450c4d3cbd68ebc789637fe7/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_0af24a53450c4d3cbd68ebc789637fe7/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGt65XD.jpeg" group-title="Série |  OS ORIGINAIS  S02",S02 E 22
-https://video.wixstatic.com/video/8d3786_e61adda177424fa9ae27f27b0959d58c/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_e61adda177424fa9ae27f27b0959d58c/480p/mp4/file.mp4
 
 ############################################################################
 # Série | Os Originais (S03)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 01
-https://video.wixstatic.com/video/8d3786_0e51b3c806f045d381e042a0b60d56f2/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_0e51b3c806f045d381e042a0b60d56f2/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 02
-https://video.wixstatic.com/video/8d3786_c941961e329040c0a1024ff154dcd873/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_c941961e329040c0a1024ff154dcd873/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 03
-https://video.wixstatic.com/video/8d3786_1520910d712d446a9cc160691321d7bc/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1520910d712d446a9cc160691321d7bc/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 04
-https://video.wixstatic.com/video/8d3786_b97b08fa05f5496fa9305ef810c945d8/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b97b08fa05f5496fa9305ef810c945d8/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 05
-https://video.wixstatic.com/video/8d3786_521377469e46435e806754bc63a334f2/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_521377469e46435e806754bc63a334f2/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 06
-https://video.wixstatic.com/video/8d3786_b895767fcf8e427bbbb340e12a7dc9c5/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b895767fcf8e427bbbb340e12a7dc9c5/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 07
-https://video.wixstatic.com/video/8d3786_10c6c5303eb14288ad93da24c4404df9/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_10c6c5303eb14288ad93da24c4404df9/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 08
-https://video.wixstatic.com/video/8d3786_29e6b294d7c74c749c1ce3a739cbada7/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_29e6b294d7c74c749c1ce3a739cbada7/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 09
-https://video.wixstatic.com/video/8d3786_6509a2540eb74b9d94e72e9d3cf3424e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_6509a2540eb74b9d94e72e9d3cf3424e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 10
-https://video.wixstatic.com/video/8d3786_9c1b7ff6bacb4fc69ccf786b93c91cef/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_9c1b7ff6bacb4fc69ccf786b93c91cef/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 11
-https://video.wixstatic.com/video/8d3786_642a9eab47e749568a4a7271d2fa4097/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_642a9eab47e749568a4a7271d2fa4097/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 12
-https://video.wixstatic.com/video/8d3786_5d74268b9f8448b09036ef596b89aaf4/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_5d74268b9f8448b09036ef596b89aaf4/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 13
-https://video.wixstatic.com/video/8d3786_9010b6a44dbb455095b3fae04bbb63fc/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_9010b6a44dbb455095b3fae04bbb63fc/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 14
-https://video.wixstatic.com/video/8d3786_a5e2ced8c3d04102b63f772b14c7a5cf/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_a5e2ced8c3d04102b63f772b14c7a5cf/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 15
-https://video.wixstatic.com/video/8d3786_afd3e3d8b476490aac56949228594501/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_afd3e3d8b476490aac56949228594501/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 16
-https://video.wixstatic.com/video/daabbf_658cf9a729824e91a140215b686e764d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_658cf9a729824e91a140215b686e764d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 17
-https://video.wixstatic.com/video/8d3786_322673acd5be45ba88b19ecfbab553d9/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_322673acd5be45ba88b19ecfbab553d9/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 18
-https://video.wixstatic.com/video/8d3786_4ae9d3a8aa3d426f940463fb7a07a583/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_4ae9d3a8aa3d426f940463fb7a07a583/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 19
-https://video.wixstatic.com/video/8d3786_289d7bc45fe942049896956550ed0ab4/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_289d7bc45fe942049896956550ed0ab4/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 20
-https://video.wixstatic.com/video/8d3786_208cf132171c4795aef95d89983c007a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_208cf132171c4795aef95d89983c007a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 21
-https://video.wixstatic.com/video/8d3786_3b44264b3dce4d6fab91c29864461ff5/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_3b44264b3dce4d6fab91c29864461ff5/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4SUNYO.jpeg" group-title="Série |  OS ORIGINAIS  S03",S03 E 22
-https://video.wixstatic.com/video/8d3786_dd4eff0abd8342939ac032414dd8691b/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_dd4eff0abd8342939ac032414dd8691b/480p/mp4/file.mp4
 
 ############################################################################
 # Série | Os Originais (S04)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 01
-https://video.wixstatic.com/video/daabbf_0a7e63d920354c76a7a320ab906176fd/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_0a7e63d920354c76a7a320ab906176fd/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 02
-https://video.wixstatic.com/video/daabbf_486dc1cb143e4e1fb30cb4b38972e6f4/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_486dc1cb143e4e1fb30cb4b38972e6f4/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 03
-https://video.wixstatic.com/video/daabbf_b29f12dcc69644babebd7419410b9eac/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_b29f12dcc69644babebd7419410b9eac/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 04
-https://video.wixstatic.com/video/daabbf_b44712c81040452dab7b48acf2515f48/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_b44712c81040452dab7b48acf2515f48/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 05
-https://video.wixstatic.com/video/daabbf_919ebdfb7be349a3908ed64e3d4633c2/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_919ebdfb7be349a3908ed64e3d4633c2/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 06
-https://video.wixstatic.com/video/daabbf_8d118e947b55426b98bdd963747cc4ac/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_8d118e947b55426b98bdd963747cc4ac/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 07
-https://sempra.pro/a1/out/old/7/2876/2876_dub_temp4ep07.m3u8?a=2
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 08
-https://video.wixstatic.com/video/daabbf_92b49126ce4d4668a42d5294f743069e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_92b49126ce4d4668a42d5294f743069e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 09
-https://video.wixstatic.com/video/daabbf_243b430e3fc24b64b9e3d96546acfb9d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_243b430e3fc24b64b9e3d96546acfb9d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 10
-https://video.wixstatic.com/video/daabbf_b472d19397e34f37bbf62f8cc5048500/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_b472d19397e34f37bbf62f8cc5048500/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 11
-https://video.wixstatic.com/video/daabbf_00ff110b1c3f488e96db154421fe1968/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_00ff110b1c3f488e96db154421fe1968/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 12
-https://video.wixstatic.com/video/daabbf_ce83f22f2bc048859e83d6398558bf9d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_ce83f22f2bc048859e83d6398558bf9d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qi7HL8R.jpeg" group-title="Série |  OS ORIGINAIS  S04",S04 E 13
-https://video.wixstatic.com/video/daabbf_236ca2e082e34662b2ca718ef3c0d6f5/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_236ca2e082e34662b2ca718ef3c0d6f5/480p/mp4/file.mp4
 
 ############################################################################
 # Série | Os Originais (S05)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 01
-https://video.wixstatic.com/video/daabbf_bad4caf1767748e586a2bf9b3fde76b5/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_bad4caf1767748e586a2bf9b3fde76b5/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 02
-https://video.wixstatic.com/video/daabbf_f2c8f9f4d2d5460e9e8770d46378e2a8/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_f2c8f9f4d2d5460e9e8770d46378e2a8/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 03
-https://video.wixstatic.com/video/daabbf_01d8c8cdc8264fd4a0f4f3a282e7144a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_01d8c8cdc8264fd4a0f4f3a282e7144a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 04
-https://video.wixstatic.com/video/daabbf_15618fad9d5147c8b92f9c455da834eb/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_15618fad9d5147c8b92f9c455da834eb/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 05
-https://video.wixstatic.com/video/daabbf_79acf0ca70664c5a8fb03d04a50f5a45/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_79acf0ca70664c5a8fb03d04a50f5a45/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 06
-https://video.wixstatic.com/video/daabbf_5933b27873db4a5b9791092bfaaeb574/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_5933b27873db4a5b9791092bfaaeb574/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 07
-https://video.wixstatic.com/video/daabbf_12af72f67b1a4d6aa34caddc44b2cac7/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_12af72f67b1a4d6aa34caddc44b2cac7/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 08
-https://video.wixstatic.com/video/daabbf_a596fac86aa340b5876a0062e0744723/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_a596fac86aa340b5876a0062e0744723/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 09
-https://video.wixstatic.com/video/daabbf_6c6e652b918c4c9b9311abea4c7a0fd3/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_6c6e652b918c4c9b9311abea4c7a0fd3/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 10
-https://video.wixstatic.com/video/da787a_9f16a945cbfe4f2a85fac2157ddaec47/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/da787a_9f16a945cbfe4f2a85fac2157ddaec47/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 11
-https://video.wixstatic.com/video/da787a_fc957a45f6e846b093f5bb5201ea8503/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/da787a_fc957a45f6e846b093f5bb5201ea8503/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 12
-https://video.wixstatic.com/video/da787a_b70de526dc314b4fb49153d250580d5d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/da787a_b70de526dc314b4fb49153d250580d5d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDgJdHU.jpeg" group-title="Série |  OS ORIGINAIS  S05",S05 E 13
-https://video.wixstatic.com/video/da787a_c88fa1a7c4204651878711a1399d2aa3/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/da787a_c88fa1a7c4204651878711a1399d2aa3/480p/mp4/file.mp4
 
 ############################################################################
 # Série | La Casa de Papel (S01)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 01
-https://video.wixstatic.com/video/8d3786_251e5a43d9384b21ab6525a558d1d830/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_251e5a43d9384b21ab6525a558d1d830/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 02
-https://video.wixstatic.com/video/8d3786_dc87babb750b4600ab81da3ed110c8aa/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_dc87babb750b4600ab81da3ed110c8aa/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 03
-https://video.wixstatic.com/video/8d3786_e18fcab18c4a48deb8909745e3e82a10/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_e18fcab18c4a48deb8909745e3e82a10/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 04
-https://video.wixstatic.com/video/8d3786_dfe121ca96584939ac0f62e14f792970/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_dfe121ca96584939ac0f62e14f792970/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 05
-https://video.wixstatic.com/video/8d3786_534d6b585b354198813bdf4f05b09277/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_534d6b585b354198813bdf4f05b09277/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 06
-https://video.wixstatic.com/video/8d3786_c15e3986f8be44d18e527131bec4bd52/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_c15e3986f8be44d18e527131bec4bd52/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 07
-https://video.wixstatic.com/video/8d3786_b8d48635af6a48d0a62d4dd97e922d93/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b8d48635af6a48d0a62d4dd97e922d93/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 08
-https://video.wixstatic.com/video/8d3786_49c87485772d4c7faec7e44ecd851181/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_49c87485772d4c7faec7e44ecd851181/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 09
-https://video.wixstatic.com/video/8d3786_0ba8e3d825ab491aa69b641cd31266dc/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_0ba8e3d825ab491aa69b641cd31266dc/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 10
-https://video.wixstatic.com/video/8d3786_50de49bd126846b59b3465c0a9be0fb8/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_50de49bd126846b59b3465c0a9be0fb8/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 11
-https://video.wixstatic.com/video/8d3786_859e7c9908ad45dea856616227d58acc/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_859e7c9908ad45dea856616227d58acc/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 12
-https://video.wixstatic.com/video/8d3786_f02ee8d937c64550899cff3f8d26310b/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f02ee8d937c64550899cff3f8d26310b/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S01",S01 E 13
-https://video.wixstatic.com/video/8d3786_3866879e25cf4e25882400d36c66d7af/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_3866879e25cf4e25882400d36c66d7af/720p/mp4/file.mp4
 
 ############################################################################
 # Série | La Casa de Papel (S02)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 01
-https://video.wixstatic.com/video/8d3786_f331e413b8ed43fc9e67aecca9650ecf/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f331e413b8ed43fc9e67aecca9650ecf/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 02
-https://video.wixstatic.com/video/8d3786_1cb376bd89af45299776aa2d187e9f5e/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1cb376bd89af45299776aa2d187e9f5e/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 03
-https://video.wixstatic.com/video/8d3786_cc6ae32d76e745389ba2db9cd1b0acbb/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_cc6ae32d76e745389ba2db9cd1b0acbb/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 04
-https://video.wixstatic.com/video/8d3786_f7946319a8f44fc08f18bc122759dc3c/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f7946319a8f44fc08f18bc122759dc3c/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 05
-https://video.wixstatic.com/video/8d3786_fcf278a0d7c3495ebd4a297e458ba9b8/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_fcf278a0d7c3495ebd4a297e458ba9b8/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 06
-https://video.wixstatic.com/video/8d3786_868d87f3c7244af69ddf9cb589917990/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_868d87f3c7244af69ddf9cb589917990/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 07
-https://video.wixstatic.com/video/8d3786_20df9bdf358e4c2a94e460c86ccde3ec/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_20df9bdf358e4c2a94e460c86ccde3ec/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 08
-https://video.wixstatic.com/video/8d3786_cfdd251bf936406b8b4e276de2eb3971/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_cfdd251bf936406b8b4e276de2eb3971/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S02",S02  E 09
-https://video.wixstatic.com/video/8d3786_2d706bcad54f4c35b46c0843fd1f148a/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_2d706bcad54f4c35b46c0843fd1f148a/720p/mp4/file.mp4
 
 ############################################################################
 # Série | La Casa de Papel (S03)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 01
-https://video.wixstatic.com/video/8d3786_b398eb01ce34448bb555adfa574b25fc/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b398eb01ce34448bb555adfa574b25fc/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 02
-https://video.wixstatic.com/video/8d3786_bac715e571ee482b801a873d2a95ebdb/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_bac715e571ee482b801a873d2a95ebdb/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 03
-https://video.wixstatic.com/video/8d3786_7fafe936010e49f6bf4efcd0d104607d/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_7fafe936010e49f6bf4efcd0d104607d/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 04
-https://video.wixstatic.com/video/8d3786_956f2df41422487bbdc8d326a1869596/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_956f2df41422487bbdc8d326a1869596/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 05
-https://video.wixstatic.com/video/8d3786_9b6b885dffb743a9a9bfd75ff05e8124/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_9b6b885dffb743a9a9bfd75ff05e8124/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 06
-https://video.wixstatic.com/video/8d3786_1f0762597f8e4109ae490bcf64f3750b/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1f0762597f8e4109ae490bcf64f3750b/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 07
-https://video.wixstatic.com/video/8d3786_5ef49ab71f0642f896453c6f4bc339a2/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_5ef49ab71f0642f896453c6f4bc339a2/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S03",S03  E 08
-https://video.wixstatic.com/video/8d3786_66b3a3957ceb42a8a4d1a8fc1b5f7aad/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_66b3a3957ceb42a8a4d1a8fc1b5f7aad/720p/mp4/file.mp4
 
 ############################################################################
 # Série | La Casa de Papel (S04)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 01
-https://video.wixstatic.com/video/8d3786_1c4a97b94f04479cb50a9d701a02d063/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1c4a97b94f04479cb50a9d701a02d063/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 02
-https://video.wixstatic.com/video/8d3786_ac4222d9ffbf48a186b349be5a4c6895/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_ac4222d9ffbf48a186b349be5a4c6895/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 03
-https://video.wixstatic.com/video/8d3786_53831ad9e4fd4dd788ef2d383de1e11b/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_53831ad9e4fd4dd788ef2d383de1e11b/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 04
-https://video.wixstatic.com/video/8d3786_dc8675179f124a64adddc2ebe034d1d2/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_dc8675179f124a64adddc2ebe034d1d2/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 05
-https://video.wixstatic.com/video/8d3786_734981d1bbde4b6b9c262a9788c4e015/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_734981d1bbde4b6b9c262a9788c4e015/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 06
-https://video.wixstatic.com/video/8d3786_5224e0ee544e417f8b14cb55867ce2aa/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_5224e0ee544e417f8b14cb55867ce2aa/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 07
-https://video.wixstatic.com/video/8d3786_fe360c49ace44205a888dbdb01316c55/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_fe360c49ace44205a888dbdb01316c55/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymn6d4u.jpeg" group-title="Série |   La Casa de Papel  S04",S04  E 08
-https://video.wixstatic.com/video/8d3786_11d8e22b18174fc5a09ebb2d8e623be0/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_11d8e22b18174fc5a09ebb2d8e623be0/720p/mp4/file.mp4
 
 ############################################################################
 # Série | How to Get Away with Murder (S01)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E01
-https://video.wixstatic.com/video/8d3786_d24d988c6a084cddb8e8353c46e68e28/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d24d988c6a084cddb8e8353c46e68e28/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E02
-https://video.wixstatic.com/video/8d3786_23f10c40b056445183d9432e234bc566/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_23f10c40b056445183d9432e234bc566/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E03
-https://video.wixstatic.com/video/8d3786_052fdbdedd1f4648b7f38e249af01bd1/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_052fdbdedd1f4648b7f38e249af01bd1/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E04
-https://video.wixstatic.com/video/8d3786_36245740b0b24d1d8909613b2e1fb97b/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_36245740b0b24d1d8909613b2e1fb97b/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E05
-https://video.wixstatic.com/video/8d3786_07971fdb665541ce9e2c4f98a9b70fbc/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_07971fdb665541ce9e2c4f98a9b70fbc/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E06
-https://video.wixstatic.com/video/8d3786_2d3a8f4d0eaa401f81b92a40dc375732/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_2d3a8f4d0eaa401f81b92a40dc375732/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E07
-https://video.wixstatic.com/video/8d3786_b8014d6ace47458584343e908a73e422/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b8014d6ace47458584343e908a73e422/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg” group-title="Serie |  How to Get Away SÉRIE S01",S01 E08
-https://video.wixstatic.com/video/8d3786_fc5efddc5bd4475f8120e4be60574f85/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_fc5efddc5bd4475f8120e4be60574f85/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E09
-https://video.wixstatic.com/video/8d3786_065d0b5520674f00b86ab4e570c84170/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_065d0b5520674f00b86ab4e570c84170/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E10
-https://video.wixstatic.com/video/8d3786_3aae622b81e34dfc93e19bdb19d9d4f4/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_3aae622b81e34dfc93e19bdb19d9d4f4/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E11
-https://video.wixstatic.com/video/8d3786_58ecef7e123b43c28a474d42cc25645c/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_58ecef7e123b43c28a474d42cc25645c/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E12
-https://video.wixstatic.com/video/8d3786_a20747a8a1474fbe916193f10e8c43b7/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_a20747a8a1474fbe916193f10e8c43b7/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E13
-https://video.wixstatic.com/video/8d3786_e798c287ecc14ceeb78585200871fba3/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_e798c287ecc14ceeb78585200871fba3/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E14
-https://video.wixstatic.com/video/8d3786_fed4231e5c484a5e81bfb411f4938088/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_fed4231e5c484a5e81bfb411f4938088/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S01",S01 E15
-https://video.wixstatic.com/video/8d3786_498fb8b645eb47669756162379105ed0/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_498fb8b645eb47669756162379105ed0/720p/mp4/file.mp4
 
 ############################################################################
 # Série | How to Get Away with Murder (S02)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E01
-https://video.wixstatic.com/video/8d3786_4c90f3433d2c4021aaf9281a2b507773/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_4c90f3433d2c4021aaf9281a2b507773/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E02
-https://video.wixstatic.com/video/8d3786_18b73089abd94c29821882870562f6fa/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_18b73089abd94c29821882870562f6fa/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E03
-https://video.wixstatic.com/video/8d3786_8f7d98624ae749f88c0604ad5df75712/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8f7d98624ae749f88c0604ad5df75712/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E04
-https://video.wixstatic.com/video/8d3786_970c17e2d30e48b08c4beebe427154f8/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_970c17e2d30e48b08c4beebe427154f8/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E05
-https://video.wixstatic.com/video/8d3786_8307627b857a45f6be5b52ef95a18e5d/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8307627b857a45f6be5b52ef95a18e5d/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E06
-https://video.wixstatic.com/video/8d3786_64bd14e65e194775a8bff0c17b9b7ff3/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_64bd14e65e194775a8bff0c17b9b7ff3/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E07
-https://video.wixstatic.com/video/8d3786_88b8b91c5c9c4b0da375a1251215b781/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_88b8b91c5c9c4b0da375a1251215b781/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E08
-https://video.wixstatic.com/video/8d3786_f1e0a7a68ad24125b86237e380ceda73/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f1e0a7a68ad24125b86237e380ceda73/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E09
-https://video.wixstatic.com/video/8d3786_1e29fff114604a4884afe0f3c89499c3/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1e29fff114604a4884afe0f3c89499c3/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E10
-https://video.wixstatic.com/video/8d3786_f890744a9d1e43adb4535242c6390445/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f890744a9d1e43adb4535242c6390445/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E11
-https://video.wixstatic.com/video/8d3786_b1f6ce79f7694f1ab89dbb09f7fb95bc/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b1f6ce79f7694f1ab89dbb09f7fb95bc/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E12
-https://video.wixstatic.com/video/8d3786_798862acfef747d59cca75f4a197d22f/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_798862acfef747d59cca75f4a197d22f/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E13
-https://video.wixstatic.com/video/8d3786_deb82a19b1b84e0b80c3eb928d32261f/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_deb82a19b1b84e0b80c3eb928d32261f/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E14
-https://video.wixstatic.com/video/8d3786_0fe66e26139a4b7cb02b9b453303cb89/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_0fe66e26139a4b7cb02b9b453303cb89/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S02",S02 E15
-https://video.wixstatic.com/video/8d3786_8e65c23d32724aa28736a944aaaf6231/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8e65c23d32724aa28736a944aaaf6231/720p/mp4/file.mp4
 
 ############################################################################
 # Série | How to Get Away with Murder (S03)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E01
-https://video.wixstatic.com/video/8d3786_5aed75a0978c43d0b465cc5d90b44179/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_5aed75a0978c43d0b465cc5d90b44179/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E02
-https://video.wixstatic.com/video/8d3786_b63a7b824ae74da1988c4625274cf998/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b63a7b824ae74da1988c4625274cf998/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E03
-https://video.wixstatic.com/video/8d3786_121885c993554ecb83ce7974501edc59/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_121885c993554ecb83ce7974501edc59/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E04
-https://video.wixstatic.com/video/8d3786_ef1074374d0d4225a733876d36a61137/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_ef1074374d0d4225a733876d36a61137/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E05
-https://video.wixstatic.com/video/8d3786_ef1074374d0d4225a733876d36a61137/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_ef1074374d0d4225a733876d36a61137/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E06
-https://video.wixstatic.com/video/8d3786_56fdedc9b7c84cafa4e88e468d658295/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_56fdedc9b7c84cafa4e88e468d658295/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E07
-https://video.wixstatic.com/video/8d3786_283c9860961144758fa84b3f47158014/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_283c9860961144758fa84b3f47158014/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E08
-https://video.wixstatic.com/video/8d3786_f1a8409691244f0fbc85c3e5ed4767cd/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f1a8409691244f0fbc85c3e5ed4767cd/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E09
-https://video.wixstatic.com/video/8d3786_deaeba6c95624f9f92fb072f8ccc7ad1/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_deaeba6c95624f9f92fb072f8ccc7ad1/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E10
-https://video.wixstatic.com/video/8d3786_b91a546e387641f6a3be912280724ea5/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b91a546e387641f6a3be912280724ea5/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E11
-https://video.wixstatic.com/video/8d3786_5fee31bd0ac94f899af5ce0074530ad4/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_5fee31bd0ac94f899af5ce0074530ad4/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E12
-https://video.wixstatic.com/video/8d3786_8486f54cb1384271bef4f2d36913963e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8486f54cb1384271bef4f2d36913963e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E13
-https://video.wixstatic.com/video/8d3786_748c885b79e44117b316e15e3deb59c2/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_748c885b79e44117b316e15e3deb59c2/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E14
-https://video.wixstatic.com/video/8d3786_9c53e618f03c4477918c995ffe326262/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_9c53e618f03c4477918c995ffe326262/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S03",S03 E15
-https://video.wixstatic.com/video/8d3786_4a9dd0fc051b4242aab0214dbdf8181a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_4a9dd0fc051b4242aab0214dbdf8181a/480p/mp4/file.mp4
 
 ############################################################################
 # Série | How to Get Away with Murder (S04)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E01
-https://video.wixstatic.com/video/8d3786_bf0ff91b7cdb41fdbdc76b8c30dbbd74/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_bf0ff91b7cdb41fdbdc76b8c30dbbd74/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E02
-https://video.wixstatic.com/video/8d3786_bf0ff91b7cdb41fdbdc76b8c30dbbd74/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_bf0ff91b7cdb41fdbdc76b8c30dbbd74/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E03
-https://video.wixstatic.com/video/8d3786_57bfb26a562e4c5782078fb0f3c2cfdf/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_57bfb26a562e4c5782078fb0f3c2cfdf/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E04
-https://video.wixstatic.com/video/8d3786_1203194b059249f1b51617b6e25b2acf/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1203194b059249f1b51617b6e25b2acf/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E05
-https://video.wixstatic.com/video/8d3786_709ba1c20ee24823963920b87f560ed2/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_709ba1c20ee24823963920b87f560ed2/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E06
-https://video.wixstatic.com/video/8d3786_eebff9d60b6b48218151323791636504/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_eebff9d60b6b48218151323791636504/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E07
-https://video.wixstatic.com/video/8d3786_d168f58e533a43c3a58f0018cb5cf8a7/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_d168f58e533a43c3a58f0018cb5cf8a7/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E08
-https://video.wixstatic.com/video/8d3786_69d684f56f01434b85f5aa50378fc8eb/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_69d684f56f01434b85f5aa50378fc8eb/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E09
-https://video.wixstatic.com/video/8d3786_69d684f56f01434b85f5aa50378fc8eb/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_69d684f56f01434b85f5aa50378fc8eb/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E10
-https://video.wixstatic.com/video/8d3786_f266d50cdf1045e58f8795b530fdb10a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f266d50cdf1045e58f8795b530fdb10a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E11
-https://video.wixstatic.com/video/8d3786_1674f7b1bbea49e6b43a5daf4c8aea5b/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_1674f7b1bbea49e6b43a5daf4c8aea5b/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E12
-https://video.wixstatic.com/video/8d3786_393468fcca1c4381ae61a74698e52407/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_393468fcca1c4381ae61a74698e52407/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E13
-https://video.wixstatic.com/video/8d3786_9a3d95fce1214a37bac75651014f817f/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_9a3d95fce1214a37bac75651014f817f/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E14
-https://video.wixstatic.com/video/8d3786_44341feba140456b896ae396a42cce2f/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_44341feba140456b896ae396a42cce2f/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S04",S04 E15
-https://video.wixstatic.com/video/8d3786_f609284fe4b9472fba5b3730cd8b5711/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f609284fe4b9472fba5b3730cd8b5711/480p/mp4/file.mp4
 
 ############################################################################
 # Série | How to Get Away with Murder (S05)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E01
-https://video.wixstatic.com/video/8d3786_01a0b4f58a13490083b7cb0bef6d12d5/360p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_01a0b4f58a13490083b7cb0bef6d12d5/360p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E02
-https://video.wixstatic.com/video/8d3786_afeda66b26b442ffbe1dc7450d2d8ddf/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_afeda66b26b442ffbe1dc7450d2d8ddf/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E03
-https://video.wixstatic.com/video/8d3786_f61896334b7b40fa90b03e4603199d2a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_f61896334b7b40fa90b03e4603199d2a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E04
-https://video.wixstatic.com/video/8d3786_cdf496801e3246aa9aaf4311aedc9653/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_cdf496801e3246aa9aaf4311aedc9653/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E05
-https://video.wixstatic.com/video/8d3786_2453f92380524217a7c3602a8996786d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_2453f92380524217a7c3602a8996786d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E06
-https://video.wixstatic.com/video/8d3786_fa2b29d81e0d47e58ec0046bd0b00f24/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_fa2b29d81e0d47e58ec0046bd0b00f24/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E07
-https://video.wixstatic.com/video/8d3786_b75e2c7e6877427eb1d1ae859f69afb7/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_b75e2c7e6877427eb1d1ae859f69afb7/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E08
-https://video.wixstatic.com/video/8d3786_caeb6943e236440b9fb585b49ac0dea9/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_caeb6943e236440b9fb585b49ac0dea9/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E09
-https://video.wixstatic.com/video/8d3786_e285a8647cf642b49f298d4a261d852e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_e285a8647cf642b49f298d4a261d852e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E10
-https://video.wixstatic.com/video/8d3786_7e8a18c622b54426bce5b155b11c579a/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_7e8a18c622b54426bce5b155b11c579a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E11
-https://video.wixstatic.com/video/8d3786_c9d85e6c24134716bf26bd57315e624b/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_c9d85e6c24134716bf26bd57315e624b/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E12
-https://video.wixstatic.com/video/8d3786_11fa66ba314c420f9da25bd05eabd556/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_11fa66ba314c420f9da25bd05eabd556/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E13
-https://video.wixstatic.com/video/8d3786_987b14a3c53a4af180e11b8cc34c80ac/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_987b14a3c53a4af180e11b8cc34c80ac/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E14
-https://video.wixstatic.com/video/8d3786_57efc58a5cd348bcbbb6f8a12c8773ef/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_57efc58a5cd348bcbbb6f8a12c8773ef/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S05",S05 E15
-https://video.wixstatic.com/video/8d3786_8f4c8641669a4a14b00b338c5340090d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/8d3786_8f4c8641669a4a14b00b338c5340090d/480p/mp4/file.mp4
 
 ############################################################################
 # Série | How to Get Away with Murder (S06)
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E01
-https://video.wixstatic.com/video/daabbf_d3ab6caef8184dcb8ae60fb94c5cc9b6/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_d3ab6caef8184dcb8ae60fb94c5cc9b6/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E02
-https://video.wixstatic.com/video/daabbf_ddbcc79821e2470d9aca917402ac716e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_ddbcc79821e2470d9aca917402ac716e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E03
-https://video.wixstatic.com/video/daabbf_2d1e3bf8fc7444cc9fbd6d1094c4aca7/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_2d1e3bf8fc7444cc9fbd6d1094c4aca7/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E04
-https://video.wixstatic.com/video/daabbf_c226d75eaca74d94a050213507dc5b8b/360p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_c226d75eaca74d94a050213507dc5b8b/360p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E05
-https://video.wixstatic.com/video/daabbf_ce3b918aea3f4533bb999fc93386996f/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_ce3b918aea3f4533bb999fc93386996f/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E06
-https://video.wixstatic.com/video/daabbf_6668ce1390ab4a73a0d3b83318a881fa/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_6668ce1390ab4a73a0d3b83318a881fa/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E07
-https://video.wixstatic.com/video/daabbf_fb4372b0d3d04ea799451395fa682aa8/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_fb4372b0d3d04ea799451395fa682aa8/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E08
-https://video.wixstatic.com/video/daabbf_dea9ae1fa64042e79975595772892b10/360p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_dea9ae1fa64042e79975595772892b10/360p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E09
-https://video.wixstatic.com/video/daabbf_89f020d1292943b2bff8dfee73a6bce5/360p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_89f020d1292943b2bff8dfee73a6bce5/360p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E10
-https://video.wixstatic.com/video/daabbf_500462d3b60d465180669bde8cb7830e/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_500462d3b60d465180669bde8cb7830e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E11
-https://video.wixstatic.com/video/daabbf_e00de04df1364fda836f4e81945ceb8d/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_e00de04df1364fda836f4e81945ceb8d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E12
-https://video.wixstatic.com/video/daabbf_8ef4a662a2214dc7a8129a277a40d110/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_8ef4a662a2214dc7a8129a277a40d110/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E13
-https://video.wixstatic.com/video/daabbf_e2980a1fb70d42eaa2e615810666c3f7/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_e2980a1fb70d42eaa2e615810666c3f7/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E14
-https://video.wixstatic.com/video/daabbf_a025fcd39d64422ca4197a7c04385d6b/480p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_a025fcd39d64422ca4197a7c04385d6b/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FPQMYE.jpeg" group-title="Serie |  How to Get Away SÉRIE S06",S06 E15
-https://video.wixstatic.com/video/daabbf_d69ff4f6e0fa42fabd59a14862789e21/720p/mp4/file.mp4?a=1
+https://video.wixstatic.com/video/daabbf_d69ff4f6e0fa42fabd59a14862789e21/720p/mp4/file.mp4
 
 ############################################################################
 # Série | O Atirador - Shooter (S01)
