@@ -225,6 +225,9 @@ http://45.162.64.114/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais" tvg-name="Agro + HD" tvg-logo="https://logo.m3uassets.com/agromais.png" group-title="Canais | ABERTO",Agro + HD
 http://45.162.64.114/AGROMAIS/index.m3u8
 
+#EXTINF:-1 tvg-id="TV AGRO É NOSSO" tvg-name="TV AGRO É NOSSO" tvg-logo="https://i.imgur.com/BPYLwrO.png" group-title="Canais | ABERTO",TV AGRO É NOSSO HD
+https://jr10n.short.gy/tv-agro.cnd/Index.m3u8
+
 ############################################################################ 
 # Canais | RECORD TV
 ############################################################################ 
