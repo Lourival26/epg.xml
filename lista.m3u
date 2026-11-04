@@ -4,7 +4,7 @@
 # INFORMAÇÕES E CANAIS DE AVISO
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="novidades" tvg-name="ManoTV" tvg-logo="https://i.imgur.com/jbPnvi6.jpeg" group-title="ManoTV" tvg-chno="1",CANAIS VIA INTERNET 
+#EXTINF:-1 tvg-id="novidades" tvg-name="ManoTV" tvg-logo="https://i.imgur.com/jbPnvi6.jpeg" group-title="ManoTV" tvg-chno="1",CANAIS DE TV VIA INTERNET 
 https://files.catbox.moe/seu_video1.mp4
 
 #EXTINF:-1 tvg-id="novidades" tvg-name="ManoTV" tvg-logo="https://i.imgur.com/Jll0uwQ.jpeg" group-title="ManoTV" tvg-chno="2",CANAL DO CLIENTE HD
@@ -24,26 +24,26 @@ https://files.catbox.moe/seu_video3.mp4
 ############################################################################ 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CAO4zsx.png" group-title="Canais | REALITY",A Fazenda 1
-
+https://manotv.s.gy/AF1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CAO4zsx.png" group-title="Canais | REALITY",A Fazenda 2
-
+https://manotv.s.gy/AF2/index.m3u8
 
 ############################################################################ 
 # Canais | GLOBO
 ############################################################################
 
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RJ FHD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
+#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
+https://gvtelecom.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RJ FHD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8 
 
 #EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 
-#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
-
-
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
-
+https://gvtelecom.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 
 #EXTINF:-1 tvg-id="GloboMT.br" tvg-name="Globo MT HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
 
@@ -847,7 +847,7 @@ https://video01.soultv.com.br/nsports/nsports/playlist.m3u8?a=1
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
-http://79.127.243.211:14445/
+http://185.152.67.187:14474/
 
 #EXTINF:-1 tvg-id="AutoTV" tvg-name="Auto TV" tvg-logo="https://i.imgur.com/FRnE50u.png" group-title="Canais | ESPORTES",Auto TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8?a=1
@@ -857,32 +857,41 @@ https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8?a=1
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SPORT TV",SporTV FHD
-https://Jr10N.short.gy/sptv-live.seu-esport.hd/painel.index.m3u8
+https://manotv.s.gy/Sp1/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SPORT TV",SporTV 2 HD
-http://79.127.243.211:14473/
+https://manotv.s.gy/Sp2/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SPORT TV",SporTV 2 HD²
+https://manotv.s.gy/Sp2/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 HD" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SPORT TV",SporTV 3 HD
-https://jr10n.short.gy/live25/sportv3.2026/Index.m3u8
+https://manotv.s.gy/Sp3/index.m3u8
 
 ############################################################################ 
 # Canais | ESPN
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
-https://jr10n.short.gy/manoTVOP2/spnHD²/Index.m3u8
+http://45.162.64.114:80/ESPN_BRASIL/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
 http://46.151.196.223:14438/
 
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD²
+http://138.204.86.4:8080/ESPN2_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD 
-https://jr10n.short.gy/canal1/index.m3u8
+http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD 
-https://jr10n.short.gy/canal2/Index.m3u8
+http://45.162.64.114:80/ESPN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD 
+http://138.204.86.4:8080/ESPN4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-https://jr10n.short.gy/canal3/Index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6 HD 
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
@@ -892,22 +901,25 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-https://jr10n.short.gy/Canal/index.m3u8
+http://202555.halfa.win:80/streamyou/202555/11
+
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
+https://manotv.s.gy/Pr01/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 2 HD
-https://jr10n.short.gy/Canalesporte/Index.m3u8
+https://manotv.s.gy/Pr2/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 3 HD
-https://jr10n.short.gy/Canal.video/Index.m3u8
+https://manotv.s.gy/Pr3/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 4 HD 
-https://jr10n.short.gy/Streaming-canal14/Index.m3u8
+https://manotv.s.gy/Pr4/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 5 HD
-https://jr10n.short.gy/Premiere.clube/Index.m3u8
+https://manotv.s.gy/Pr5/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 6 HD
-https://jr10n.short.gy/Quer-umteste.chama/no-whats34998753933/Index.m3u8
+
 
 ############################################################################ 
 # Canais | VARIEDADES
@@ -923,7 +935,7 @@ http://138.204.86.4:8080/HISTORY_HD/index.m3u8
 http://185.152.67.187:14392/
 
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow.br" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD 
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.m3u8
+
 
 #EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
 http://200.229.190.189:8001/play/a01b
