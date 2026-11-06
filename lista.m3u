@@ -2575,11 +2575,26 @@ https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0GI38.png" group-title="RÁDIO 📻",Rádio Disney Br
 https://24443.live.streamtheworld.com/DISNEY_BRA_SP.mp3?dist=web-radiodisney-disneylatino
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c12PN2m.jpeg" group-title="RÁDIO 📻",Rádio Flashback
+https://cc6.streammaximum.com/proxy/radioflashbackfm//stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFjmvVE.jpeg" group-title="RÁDIO 📻",Rádio Saudade FM
+https://27573.live.streamtheworld.com/SAUDADE_FMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b89OtSp.jpeg" group-title="RÁDIO 📻",Rádio BAND FM 
+https://24493.live.streamtheworld.com/BANDFM_SPAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e54ocXQ.jpeg" group-title="RÁDIO 📻",Rádio LOVE TIMES 
+https://c15.radioboss.fm:18152/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDfXmvL.jpeg" group-title="RÁDIO 📻",Rádio 105 FM
+https://www.appradio.app:8010/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKAUBBa.jpeg" group-title="RÁDIO 📻",Rádio SKY MUSIC
+https://stm6.xcast.com.br:11032//;stream.mp3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qCytbu.jpeg" group-title="RÁDIO 📻",Rádio Itatiaia AM 95.7 FM
 https://8903.brasilstream.com.br/stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M3DTyDq.jpeg" group-title="RÁDIO 📻",Rádio Band FM 96.1 FM
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uLyXjen.jpeg" group-title="RÁDIO 📻",Rádio Jovem Pan FM 100.9 FM
 https://stream-166.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InNDSXRqdHhJVDFHX1lpLWxLTzI4MFEiLCJpYXQiOjE3NjA3NDcyNDUsImV4cCI6MTc2MDc0NzMwNX0.TI0x99PAWC6lKM7bGnlovOLAcOYltiNzCX43VxSKKSg
@@ -2610,6 +2625,9 @@ https://centova.svdns.com.br:20038/stream
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a/wOCr9vV" group-title="RÁDIO 📻",Rádio Educadora FM 90.9 FM
 http://e-spo-101.fabricahost.com.br/educadorauberlandia?f=1786225976N01KZHNTRQ8BW3RPHCFYK3BVJN0&tid=01KZHNTRQ83F37XZFMVJPJQCTF
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lP4Ieap.jpeg" group-title="RÁDIO 📻",Rádio Rede Aleluia 94.7 FM
+https://station.azrmcsoftbroadcast.com.br/listen/rd99fm/sp-rd99fm
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lP4Ieap.jpeg" group-title="RÁDIO 📻",Rádio Rede Aleluia 97.7 FM
 http://stm8.voxhd.com.br:8124/;
