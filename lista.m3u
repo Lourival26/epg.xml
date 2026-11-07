@@ -60,6 +60,9 @@ https://gvtelecom.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=RGnYBgq1dxRk5Eur
 #EXTINF:-1 tvg-id="GloboBahia.br" tvg-name="Globo Bahia" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo Bahia HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
+#EXTINF:-1 tvg-id="GloboBahia.br" tvg-name="Globo Bahia" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo Bahia HD²
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
 #EXTINF:-1 tvg-id="GloboManaus.br" tvg-name="Globo Manaus HD" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
 
 
@@ -113,9 +116,6 @@ https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV Pampa SD" tvg-logo="https://i.imgur.com/tLf0JIG.jpeg" group-title="Canais | TV ABERTA",TV Pampa SD
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w2051106909.m3u8
 
-#EXTINF:-1 tvg-id="TVChannelNetwork.br" tvg-name="TV Channel Network HD" tvg-logo="https://i.imgur.com/4dAVduL.png" group-title="CANAIS | TV ABERTA"TV Channel Network HD,24H
-https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVAracati.br" tvg-name="TV Aracati HD" tvg-logo="https://i.imgur.com/F3CDRwl.png" group-title="Canais | TV ABERTA",TV Aracati HD
 https://Jr10N.short.gy/video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w659222431.m3u8
 
@@ -130,6 +130,9 @@ https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AWTV.br" tvg-name="AW TV" tvg-logo="https://imgur.com/zxFbtNi.png" group-title="Canais | TV ABERTA",AW TV BD
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV" tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="Canais | TV ABERTA",Play TV HD²
+http://45.162.64.114/PLAY_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV" tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="Canais | TV ABERTA",Play TV HD
 https://isaocorp.cloudecast.com/playtv/index.m3u8
@@ -156,8 +159,8 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL HD
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TVParana SD" tvg-logo="https://i.imgur.com/XOqitHH.jpeg" group-title="Canais | ABERTO",RedeTV Paraná SD
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TVParana SD" tvg-logo="https://i.imgur.com/XOqitHH.jpeg" group-title="Canais | ABERTO",RedeTV SD
+http://45.162.64.114/REDE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/XOqitHH.jpeg" group-title="Canais | ABERTO",Rede TV HD
 https://Jr10N.short.gy/tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w1241069161.m3u8
@@ -174,10 +177,13 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Família HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11348/logo_256_1684137425.png" group-title="Canais | ABERTO",Rede Família HD
 https://tv03.zas.media:1936/rftv/rftv/chunklist_w554865708.m3u8
 
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP" tvg-logo="https://i.imgur.com/eNr4igC.png" group-title="Canais | ABERTO",TV Gazeta SP HD
-https://Jr10N.short.gy/logica-stream.live/gazeta.cdn/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP" tvg-logo="https://i.imgur.com/eNr4igC.png" group-title="Canais | ABERTO",TV Gazeta SP HD¹
+http://45.162.64.114/TV_GAZETA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP" tvg-logo="https://i.imgur.com/eNr4igC.png" group-title="Canais | ABERTO",TV Gazeta SP HD²
+https://Jr10N.short.gy/logica-stream.live/gazeta.cdn/index.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP" tvg-logo="https://i.imgur.com/eNr4igC.png" group-title="Canais | ABERTO",TV Gazeta SP HD³
 https://Jr10N.short.gy/logica-stream.live/gazeta.cdn/index.m3u8
 
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-name="Amazon Sat HD" tvg-logo="https://i.imgur.com/oLpnEtx.jpeg" group-title="Canais | ABERTO",Amazon Sat HD
@@ -192,8 +198,8 @@ https://Jr10N.short.gy/redeminas-stream/live.local/Index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara HD" tvg-logo="https://i.imgur.com/QEwEFAg.jpeg" group-title="Canais | ABERTO",TV Câmara HD
 https://Jr10N.short.gy/Jr10N/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="CNT.br" tvg-name="Rede CNT HD" tvg-logo="https://imgur.com/qFfyqQm.png" group-title="Canais | ABERTO",Rede CNT HD
-
+#EXTINF:-1 tvg-id="CNT.br" tvg-name="Rede CNT HD" tvg-logo="https://imgur.com/qFfyqQm.png" group-title="Canais | ABERTO",Rede CNT  RJ HD
+http://45.162.64.114/CNT/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSulMinas.br" tvg-name="TV Sul de Minas HD" tvg-logo="https://i.imgur.com/4KQJxzb.png" group-title="Canais | ABERTO",TV Sul de Minas HD
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/chunklist_w886847056.m3u8
@@ -212,6 +218,12 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVGrandeNatal" tvg-name="TV Grande Natal" tvg-logo="https://i.imgur.com/CmHrA7X.png" group-title="Canais | ABERTO",TV Grande Natal HD
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Canal rural.br " tvg-name="Canal Rural HD " tvg-logo="https://i.imgur.com/bOneBSn.png" group-title="Canais | ABERTO",Canal Rural HD
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Terraviva.br " tvg-name=" Terra Viva HD" tvg-logo="https://i.imgur.com/15xoCH4.png" group-title="Canais | ABERTO",Terra Viva HD
+http://45.162.64.114/TERRAVIVA/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalDoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="https://i.imgur.com/9IDbXGP.png" group-title="Canais | ABERTO",Canal do Boi HD
 http://45.162.64.114/CANAL_DO_BOI/index.m3u8
@@ -307,7 +319,7 @@ http://79.127.238.228:14093/
 https://hplay.tv/augetv/12396547488/1300.m3u8?a=1
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News HD" tvg-logo="https://i.imgur.com/KnB3Nls.jpeg" group-title="Canais | NOTÍCIAS",Record News HD
-# (Link removido por falta de origem funcional na sua lista)
+http://45.162.64.114/RECORD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="ARTVPortugal" tvg-name="ARTV Portugal HD" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="Canais | NOTÍCIAS",ARTV Portugal HD
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8?a=1
@@ -1081,14 +1093,29 @@ https://Jr10N.short.gy/iaptd/live/jr10n/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVNovoTempo.br " tvg-name="TVNovoTempoHD" tvg-logo="https://i.imgur.com/jbicKSX.png" group-title="Canais | RELIGIOSO",Novo Tempo HD
 https://Jr10N.short.gy/novo_tempo/cdn3.nxplay.com.br/sony_movies/Index.m3u8
 
+#EXTINF:-1 tvg-id="TVEvangelizar" tvg-name="Igreja Evangelizar HD" tvg-logo="https://i.imgur.com/6pDY7Fj.jpeg" group-title="Canais | RELIGIOSO",Igreja Evangelizar HD²
+http://45.162.64.114/EVANGELIZAR/index.m3u8
+
 #EXTINF:-1 tvg-id="TVEvangelizar" tvg-name="Igreja Evangelizar HD" tvg-logo="https://i.imgur.com/6pDY7Fj.jpeg" group-title="Canais | RELIGIOSO",Igreja Evangelizar HD
 https://Jr10N.short.gy/evangelizar/maringa/stream.cdn2_nxplay.sony_movies/Index.m3u8
+
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova HD" tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | RELIGIOSO",Canção Nova HD²
+http://45.162.64.114/CANCAO_NOVA/index.m3u8
 
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova HD" tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | RELIGIOSO",Canção Nova HD
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8?a=1
 
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida HD" tvg-logo="https://i.imgur.com/p7zbTJA.png" group-title="Canais | RELIGIOSO",TV Aparecida HD²
+http://45.162.64.114/TV_APARECIDA/index.m3u8
+
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida HD" tvg-logo="https://i.imgur.com/p7zbTJA.png" group-title="Canais | RELIGIOSO",TV Aparecida HD
 https://Jr10N.short.gy/tv/live_aparecia.movies_cnd2/P2P.index1.m3u8
+
+#EXTINF:-1 tvg-id="CanalRedeSeculo21.br" tvg-name="Canal Rede Século 21 HD" tvg-logo="https://i.imgur.com/2MWOxSi.jpeg" group-title="Canais | RELIGIOSO",Canal Rede Século 21 HD
+http://45.162.64.114/REDE_SECULO_21/index.m3u8
+
+#EXTINF:-1 tvg-id="PaiEterno.br" tvg-name="Canal Pai Eterno  HD" tvg-logo="https://i.imgur.com/07RE4l7.png" group-title="Canais | RELIGIOSO",Canal TV Pai Eterno HD
+http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 
 ############################################################################ 
 # Canais | NOVELAS
@@ -2603,7 +2630,7 @@ https://stream-166.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://wz7.servidoresbrasil.com:8031/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MY1Z1OZ.jpeg" group-title="RÁDIO 📻",Rádio Mix FM 102.1 FM
-https://23033.live.streamtheworld.com/MIXRIOAAC.aac
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y4NsUuM.jpeg" group-title="RÁDIO 📻",Rádio Indianópolis / MG - Brasil
 https://stm5.srvvox.com.br:7704/stream?ManoTV
@@ -2615,7 +2642,7 @@ https://8040.brasilstream.com.br/stream
 http://e-spo-103.fabricahost.com.br/paranaibafm?f=1786225252N01KZHN4PM404V1MDD20DF2RPVD&tid=01KZHN4PM4E7J1YCGEJ7P5SZW4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a/m1qQtEs" group-title="RÁDIO 📻",Rádio Universitária 107.5 FM
-http://paineldj5.com.br:20080/stream
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ng9oKpt.jpeg" group-title="RÁDIO 📻",Rádio Antena 1 94.7 FM
 https://antenaone.crossradio.com.br/stream/1
@@ -2624,7 +2651,7 @@ https://antenaone.crossradio.com.br/stream/1
 https://centova.svdns.com.br:20038/stream
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a/wOCr9vV" group-title="RÁDIO 📻",Rádio Educadora FM 90.9 FM
-http://e-spo-101.fabricahost.com.br/educadorauberlandia?f=1786225976N01KZHNTRQ8BW3RPHCFYK3BVJN0&tid=01KZHNTRQ83F37XZFMVJPJQCTF
+https://e-spo-105.fabricahost.com.br/educadorauberlandia?f=1794009777N01M6SN1HF3RV318Z5HTZ5BV5XE&tid=01M6SN1HF3TSSSNX443VPSFR4K
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lP4Ieap.jpeg" group-title="RÁDIO 📻",Rádio Rede Aleluia 94.7 FM
 https://station.azrmcsoftbroadcast.com.br/listen/rd99fm/sp-rd99fm
