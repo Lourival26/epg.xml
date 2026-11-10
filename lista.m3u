@@ -16,7 +16,7 @@ https://files.catbox.moe/seu_video2.mp4
 #EXTINF:-1 tvg-id="contato.whatsapp" tvg-name="Contato WhatsApp" tvg-logo="https://i.imgur.com/KOvROBL.jpeg" group-title="QUER UM TESTE?" tvg-chno="4",WHATSAPP: (34) 99875-3933
 https://files.catbox.moe/seu_video3.mp4
 
-#EXTINF:-1 tvg-id="atualizacao.lista" tvg-name="Atualizado" tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="STATUS DA LISTA" tvg-chno="5",ATUALIZADO EM: 01/11/2026
+#EXTINF:-1 tvg-id="atualizacao.lista" tvg-name="Atualizado" tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="STATUS DA LISTA" tvg-chno="5",ATUALIZADO EM: 09/11/2026
 https://files.catbox.moe/seu_video3.mp4
 
 ############################################################################ 
@@ -512,13 +512,13 @@ https://stream.mgfiles.lat/stream/1d6d7a1409b6aa4ad61a6200a28ae2e6/error.m3u8
 https://stream.mgfiles.lat/stream/014b319eb7a5c33c530874492f9fc32e/error.m3u8
 
 #EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
-
+http://45.185.15.154:9080/stream/29/index.m3u8
 
 #EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
-
+http://45.185.15.154:9080/stream/64/index.m3u8
 
 #EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
-
+http://45.185.15.154:9080/stream/63/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 http://170.83.49.66:8083/AMCHD/index.m3u8
@@ -863,7 +863,7 @@ https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8?a=1
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SPORT TV",SporTV FHD
-https://manotv.s.gy/Sp1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SPORT TV",SporTV 2 HD
 https://manotv.s.gy/Sp2/index.m3u8
@@ -878,8 +878,8 @@ https://manotv.s.gy/Sp3/index.m3u8
 # Canais | ESPN
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
-http://45.162.64.114:80/ESPN_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
+http://181.78.197.59:8000/play/a07z/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
 http://46.151.196.223:14438/
@@ -891,10 +891,7 @@ http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD 
-http://45.162.64.114:80/ESPN_4/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD 
-http://138.204.86.4:8080/ESPN4_HD/index.m3u8
+http://181.78.197.59:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
 
@@ -907,7 +904,7 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 ############################################################################ 
 
 #EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-http://202555.halfa.win:80/streamyou/202555/11
+
 
 #EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
 https://manotv.s.gy/Pr01/index.m3u8
