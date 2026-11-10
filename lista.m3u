@@ -934,6 +934,9 @@ https://manotv.s.gy/Pr5/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
 http://138.204.86.4:8080/ANIMAL_PLANET_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central HD" tvg-logo="https://i.imgur.com/XgFgBA3.jpeg" group-title="Canais | VARIEDADES",Comedy Central HD
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HistoryChannel.br" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
 http://138.204.86.4:8080/HISTORY_HD/index.m3u8
 
