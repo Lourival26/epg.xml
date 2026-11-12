@@ -45,7 +45,7 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
 https://gvtelecom.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília HD
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília FHD
 http://79.127.238.228:14173
 
 #EXTINF:-1 tvg-id="GloboMG.br" tvg-name="Globo MG HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
@@ -484,20 +484,20 @@ http://170.83.16.50/AeE/index.m3u8
 #EXTINF:-1 tvg-id="AandE.br" tvg-name=" A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E HD
 http://79.127.238.228:14551/
 
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD²
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD
 http://170.83.16.50/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
 http://138.204.86.4:8080/LIFE_TIME_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action FHD
 http://46.151.196.223:14326/
 
 #EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
 https://stream.mgfiles.lat/stream/1d6d7a1409b6aa4ad61a6200a28ae2e6/error.m3u8
 
 #EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="https://i.imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
-https://stream.mgfiles.lat/stream/014b319eb7a5c33c530874492f9fc32e/error.m3u8
+http://45.185.15.154:9080/stream/28/index.m3u8
 
 #EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
 http://45.185.15.154:9080/stream/29/index.m3u8
