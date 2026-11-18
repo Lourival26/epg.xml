@@ -168,9 +168,6 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Família HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11348/logo_256_1684137425.png" group-title="Canais | ABERTO",Rede Família HD
 https://tv03.zas.media:1936/rftv/rftv/chunklist_w554865708.m3u8
 
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP" tvg-logo="https://i.imgur.com/eNr4igC.png" group-title="Canais | ABERTO",TV Gazeta SP HD¹
-http://45.162.64.114/TV_GAZETA/index.m3u8
-
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP" tvg-logo="https://i.imgur.com/eNr4igC.png" group-title="Canais | ABERTO",TV Gazeta SP HD²
 https://Jr10N.short.gy/logica-stream.live/gazeta.cdn/index.m3u8
 
