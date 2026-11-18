@@ -36,6 +36,9 @@ https://manotv.s.gy/AF2/index.m3u8
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
 https://gvtelecom.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 
+#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP FHD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO", Globo SP FHD
+https://origin-01.bariguitelecom.com.br/GLOBO_RPC/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RJ FHD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8 
 
@@ -53,9 +56,6 @@ http://79.127.238.228:14173
 
 #EXTINF:-1 tvg-id="GloboBahia.br" tvg-name="Globo Bahia" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo Bahia HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
-#EXTINF:-1 tvg-id="Paraná.br" tvg-name="Paraná HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO", Paraná HD
-https://origin-01.bariguitelecom.com.br/GLOBO_RPC/tracks-v1a1/mono.ts.m3u8
 
 ############################################################################ 
 # Canais | SBT
