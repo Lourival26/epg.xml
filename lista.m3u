@@ -122,8 +122,6 @@ https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:-1 tvg-id="AWTV.br" tvg-name="AW TV" tvg-logo="https://imgur.com/zxFbtNi.png" group-title="Canais | TV ABERTA",AW TV BD
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV" tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="Canais | TV ABERTA",Play TV HD²
-http://45.162.64.114/PLAY_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV" tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="Canais | TV ABERTA",Play TV HD
 https://isaocorp.cloudecast.com/playtv/index.m3u8
@@ -149,9 +147,6 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL HD
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-
-EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TVParana SD" tvg-logo="https://i.imgur.com/XOqitHH.jpeg" group-title="Canais | ABERTO",RedeTV SD
-http://45.162.64.114/REDE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/XOqitHH.jpeg" group-title="Canais | ABERTO",Rede TV HD
 https://Jr10N.short.gy/tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w1241069161.m3u8
@@ -187,7 +182,7 @@ https://Jr10N.short.gy/redeminas-stream/live.local/Index.m3u8
 https://Jr10N.short.gy/Jr10N/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="CNT.br" tvg-name="Rede CNT HD" tvg-logo="https://imgur.com/qFfyqQm.png" group-title="Canais | ABERTO",Rede CNT  RJ HD
-http://45.162.64.114/CNT/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TVSulMinas.br" tvg-name="TV Sul de Minas HD" tvg-logo="https://i.imgur.com/4KQJxzb.png" group-title="Canais | ABERTO",TV Sul de Minas HD
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/chunklist_w886847056.m3u8
@@ -208,22 +203,19 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Canal rural.br " tvg-name="Canal Rural HD " tvg-logo="https://i.imgur.com/bOneBSn.png" group-title="Canais | ABERTO",Canal Rural HD
-http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Terraviva.br " tvg-name=" Terra Viva HD" tvg-logo="https://i.imgur.com/15xoCH4.png" group-title="Canais | ABERTO",Terra Viva HD
-http://45.162.64.114/TERRAVIVA/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CanalDoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="https://i.imgur.com/9IDbXGP.png" group-title="Canais | ABERTO",Canal do Boi HD
-http://45.162.64.114/CANAL_DO_BOI/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalDoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="https://i.imgur.com/9IDbXGP.png" group-title="Canais | ABERTO",Canal do Boi HD²
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/7
 
 #EXTINF:-1 tvg-id="AgroCanal" tvg-name="Agro Canal" tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Canais | ABERTO",Agro Canal HD
-http://45.162.64.114/AGRO_CANAL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AgroMais" tvg-name="Agro + HD" tvg-logo="https://logo.m3uassets.com/agromais.png" group-title="Canais | ABERTO",Agro + HD
-http://45.162.64.114/AGROMAIS/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TV AGRO É NOSSO" tvg-name="TV AGRO É NOSSO" tvg-logo="https://i.imgur.com/BPYLwrO.png" group-title="Canais | ABERTO",TV AGRO É NOSSO HD
 https://jr10n.short.gy/tv-agro.cnd/Index.m3u8
@@ -515,7 +507,7 @@ http://170.83.49.66:8083/AMCHD/index.m3u8
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies HD " tvg-logo="https://i.imgur.com/wem1nAc.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
-http://45.162.64.114:80/SONY_MOVIES/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
 https://net11.sattvgo.com.br/CINEMAX/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
@@ -584,7 +576,7 @@ https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8
 https://abre.ai/lSy5
 
 #EXTINF:-1 tvg-id="FilmRise.br" tvg-name="FilmRise" tvg-logo="https://i.imgur.com/BaWTTxS.jpeg" group-title="Canais | FILMES E SERIES",FilmRise HD
-https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/24d628d3-ff7f-457d-b822-8f1082f05b97/3.m3u8
+
 
 ############################################################################ 
 # Canais | RUNTIME 
